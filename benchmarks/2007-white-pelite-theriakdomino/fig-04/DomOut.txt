@@ -1,0 +1,1839 @@
+SI(57.495)AL(16.508)MG(3.354)FE(6.388)K(5.285)H(10.791)O(?)
+ Bulk composition: O         157.532000
+                   AL         16.508000
+                   FE          6.388000
+                   H          10.791000
+                   K           5.285000
+                   MG          3.354000
+                   SI         57.495000
+                   E           0.000000
+ X: Temperature [C]                                                                 
+ Y: Pressure [Bar]                                                                  
+ MAXIMUM LEVEL:   6  PREC = 0.0050  WPREC = 0.0400
+ ASSEMBLAGE:   1: x,y =  6.30000000E+02   5.00000000E+02  BI07 OSM H2O q san                                                              
+      assemblage: BI07_ann1 OSM_fosm H2O q san
+ ASSEMBLAGE:   2: x,y =  6.67000000E+02   5.00000000E+02  BI07 CRD H2O q san                                                              
+      assemblage: BI07_ann1 CRD_fcrd H2O q san
+ ASSEMBLAGE:   3: x,y =  7.04000000E+02   5.00000000E+02  OPX CRD H2O q san                                                               
+      assemblage: OPX_fs CRD_fcrd H2O q san
+ ASSEMBLAGE:   4: x,y =  8.52000000E+02   5.00000000E+02  OPX CRD LIQtc H2O q                                                             
+      assemblage: OPX_fs CRD_fcrd LIQtc_Silica8. H2O q
+ ASSEMBLAGE:   5: x,y =  8.89000000E+02   5.00000000E+02  OPX CRD LIQtc H2O                                                               
+      assemblage: OPX_fs CRD_fcrd LIQtc_Silica8. H2O
+ ASSEMBLAGE:   6: x,y =  9.63000000E+02   5.00000000E+02  CRD LIQtc H2O                                                                   
+      assemblage: CRD_fcrd LIQtc_Silica8. H2O
+ ASSEMBLAGE:   7: x,y =  6.54281250E+02   5.00000000E+02  BI07 CRD OSM H2O q san                                                          
+      assemblage: BI07_ann1 CRD_fcrd OSM_fosm H2O q san
+ ASSEMBLAGE:   8: x,y =  6.92437500E+02   5.00000000E+02  BI07 OPX CRD H2O q san                                                          
+      assemblage: BI07_ann1 OPX_fs CRD_fcrd H2O q san
+ ASSEMBLAGE:   9: x,y =  8.33210938E+02   5.00000000E+02  OPX CRD LIQtc H2O q san                                                         
+      assemblage: OPX_fs CRD_fcrd LIQtc_Silica8. H2O q san
+ REACTION:   1   1  =   7
+ position:      6.53703E+02   5.00000E+02      6.53775E+02   5.00000E+02
+ LABELED WITH ASSEMBLAGES
+ REACTION: BI07 OSM H2O q san = BI07 CRD OSM H2O q san
+ REACTION:   2   7  =   2
+ position:      6.54787E+02   5.00000E+02      6.54859E+02   5.00000E+02
+ LABELED WITH ASSEMBLAGES
+ REACTION: BI07 CRD OSM H2O q san = BI07 CRD H2O q san
+ REACTION:   3   2  =   8
+ position:      6.91859E+02   5.00000E+02      6.91932E+02   5.00000E+02
+ LABELED WITH ASSEMBLAGES
+ REACTION: BI07 CRD H2O q san = BI07 OPX CRD H2O q san
+ REACTION:   4   8  =   3
+ position:      6.92727E+02   5.00000E+02      6.92799E+02   5.00000E+02
+ LABELED WITH ASSEMBLAGES
+ REACTION: BI07 OPX CRD H2O q san = OPX CRD H2O q san
+ REACTION:   5   3  =   9
+ position:      8.33139E+02   5.00000E+02      8.33211E+02   5.00000E+02
+ LABELED WITH ASSEMBLAGES
+ REACTION: OPX CRD H2O q san = OPX CRD LIQtc H2O q san
+ REACTION:   6   9  =   4
+ position:      8.33428E+02   5.00000E+02      8.33500E+02   5.00000E+02
+ LABELED WITH ASSEMBLAGES
+ REACTION: OPX CRD LIQtc H2O q san = OPX CRD LIQtc H2O q
+ REACTION:   7   4  =   5
+ position:      8.53518E+02   5.00000E+02      8.53590E+02   5.00000E+02
+ LABELED WITH ASSEMBLAGES
+ REACTION: OPX CRD LIQtc H2O q = OPX CRD LIQtc H2O
+ REACTION:   8   5  =   6
+ position:      9.45295E+02   5.00000E+02      9.45367E+02   5.00000E+02
+ LABELED WITH ASSEMBLAGES
+ REACTION: OPX CRD LIQtc H2O = CRD LIQtc H2O
+     67    67  Y =            500.0000 ,      8 REACTIONS:    1    2    3    4    5    6    7    8
+ ASSEMBLAGE:  10: x,y =  7.78000000E+02   1.65000000E+03  OPX CRD LIQtc q san                                                             
+      assemblage: OPX_fs CRD_fcrd LIQtc_H2O.liq q san
+ ASSEMBLAGE:  11: x,y =  8.15000000E+02   1.65000000E+03  OPX CRD LIQtc q                                                                 
+      assemblage: OPX_fs CRD_fcrd LIQtc_Silica8. q
+ ASSEMBLAGE:  12: x,y =  8.52000000E+02   1.65000000E+03  OPX CRD LIQtc                                                                   
+      assemblage: OPX_fs CRD_fcrd LIQtc_Silica8.
+ ASSEMBLAGE:  13: x,y =  9.63000000E+02   1.65000000E+03  CRD LIQtc                                                                       
+      assemblage: CRD_fcrd LIQtc_Silica8.
+ ASSEMBLAGE:  14: x,y =  7.59500000E+02   1.65000000E+03  BI07 CRD LIQtc q san                                                            
+      assemblage: BI07_ann1 CRD_fcrd LIQtc_H2O.liq q san
+ ASSEMBLAGE:  15: x,y =  7.57187500E+02   1.65000000E+03  BI07 CRD LIQtc H2O q san                                                        
+      assemblage: BI07_ann1 CRD_fcrd LIQtc_H2O.liq H2O q san
+ ASSEMBLAGE:  16: x,y =  7.71062500E+02   1.65000000E+03  BI07 OPX CRD LIQtc q san                                                        
+      assemblage: BI07_ann1 OPX_fs CRD_fcrd LIQtc_H2O.liq q san
+ REACTION:   9   2  =  15
+ position:      7.57115E+02   1.65000E+03      7.57188E+02   1.65000E+03
+ LABELED WITH ASSEMBLAGES
+ REACTION: BI07 CRD H2O q san = BI07 CRD LIQtc H2O q san
+ REACTION:  10  15  =  14
+ position:      7.57188E+02   1.65000E+03      7.57260E+02   1.65000E+03
+ LABELED WITH ASSEMBLAGES
+ REACTION: BI07 CRD LIQtc H2O q san = BI07 CRD LIQtc q san
+ REACTION:  11  14  =  16
+ position:      7.70918E+02   1.65000E+03      7.70990E+02   1.65000E+03
+ LABELED WITH ASSEMBLAGES
+ REACTION: BI07 CRD LIQtc q san = BI07 OPX CRD LIQtc q san
+ REACTION:  12  16  =  10
+ position:      7.71713E+02   1.65000E+03      7.71785E+02   1.65000E+03
+ LABELED WITH ASSEMBLAGES
+ REACTION: BI07 OPX CRD LIQtc q san = OPX CRD LIQtc q san
+ REACTION:  13  10  =  11
+ position:      8.07846E+02   1.65000E+03      8.07918E+02   1.65000E+03
+ LABELED WITH ASSEMBLAGES
+ REACTION: OPX CRD LIQtc q san = OPX CRD LIQtc q
+ REACTION:  14  11  =  12
+ position:      8.45568E+02   1.65000E+03      8.45641E+02   1.65000E+03
+ LABELED WITH ASSEMBLAGES
+ REACTION: OPX CRD LIQtc q = OPX CRD LIQtc
+ REACTION:  15  12  =  13
+ position:      9.40742E+02   1.65000E+03      9.40814E+02   1.65000E+03
+ LABELED WITH ASSEMBLAGES
+ REACTION: OPX CRD LIQtc = CRD LIQtc
+     65   132  Y =           1650.0000 ,      7 REACTIONS:    9   10   11   12   13   14   15
+ ASSEMBLAGE:  17: x,y =  6.30000000E+02   2.80000000E+03  BI07 WM02 H2O q and                                                             
+      assemblage: BI07_east WM02_mu H2O q and
+ ASSEMBLAGE:  18: x,y =  6.67000000E+02   2.80000000E+03  BI07 CRD H2O q sill san                                                         
+      assemblage: BI07_ann1 CRD_hcrd H2O q sill san
+ ASSEMBLAGE:  19: x,y =  6.48500000E+02   2.80000000E+03  BI07 H2O q and san                                                              
+      assemblage: BI07_east H2O q and san
+ ASSEMBLAGE:  20: x,y =  6.57750000E+02   2.80000000E+03  BI07 CRD H2O q and san                                                          
+      assemblage: BI07_ann1 CRD_hcrd H2O q and san
+ REACTION:  16  17  =  19
+ position:      6.39828E+02   2.80000E+03      6.39900E+02   2.80000E+03
+ LABELED WITH ASSEMBLAGES
+ REACTION: BI07 WM02 H2O q and = BI07 H2O q and san
+ REACTION:  17  19  =  20
+ position:      6.52691E+02   2.80000E+03      6.52764E+02   2.80000E+03
+ LABELED WITH ASSEMBLAGES
+ REACTION: BI07 H2O q and san = BI07 CRD H2O q and san
+ REACTION:  18  20  =  18
+ position:      6.59484E+02   2.80000E+03      6.59557E+02   2.80000E+03
+ LABELED WITH ASSEMBLAGES
+ REACTION: BI07 CRD H2O q and san = BI07 CRD H2O q sill san
+ REACTION:  19  18  =   2
+ position:      6.73793E+02   2.80000E+03      6.73865E+02   2.80000E+03
+ LABELED WITH ASSEMBLAGES
+ REACTION: BI07 CRD H2O q sill san = BI07 CRD H2O q san
+ REACTION:  20   2  =  14
+ position:      7.31316E+02   2.80000E+03      7.31389E+02   2.80000E+03
+ LABELED WITH ASSEMBLAGES
+ REACTION: BI07 CRD H2O q san = BI07 CRD LIQtc q san
+     92   224  Y =           2800.0000 ,     10 REACTIONS:   16   17   18   19   20   11   12   13   14   15
+ ASSEMBLAGE:  21: x,y =  6.30000000E+02   3.95000000E+03  BI07 WM02 H2O q sill                                                            
+      assemblage: BI07_ann1 WM02_mu H2O q sill
+ ASSEMBLAGE:  22: x,y =  7.04000000E+02   3.95000000E+03  BI07 H2O q sill san                                                             
+      assemblage: BI07_ann1 H2O q sill san
+ ASSEMBLAGE:  23: x,y =  8.15000000E+02   3.95000000E+03  GT07W2 OPX CRD LIQtc q san                                                      
+      assemblage: GT07W2_alm OPX_fm CRD_fcrd LIQtc_H2O.liq q san
+ ASSEMBLAGE:  24: x,y =  6.74298828E+02   3.95000000E+03  BI07 WM02 H2O q sill san                                                        
+      assemblage: BI07_ann1 WM02_mu H2O q sill san
+ ASSEMBLAGE:  25: x,y =  7.22500000E+02   3.95000000E+03  BI07 CRD LIQtc q sill san                                                       
+      assemblage: BI07_ann1 CRD_hcrd LIQtc_H2O.liq q sill san
+ ASSEMBLAGE:  26: x,y =  7.96500000E+02   3.95000000E+03  GT07W2 BI07 CRD LIQtc q san                                                     
+      assemblage: GT07W2_alm BI07_ann1 CRD_fcrd LIQtc_H2O.liq q san
+ ASSEMBLAGE:  27: x,y =  8.70500000E+02   3.95000000E+03  GT07W2 OPX CRD LIQtc q                                                          
+      assemblage: GT07W2_alm OPX_fm CRD_fcrd LIQtc_K-feldsp q
+ REACTION:  21  21  =  24
+ position:      6.74227E+02   3.95000E+03      6.74299E+02   3.95000E+03
+ LABELED WITH ASSEMBLAGES
+ REACTION: BI07 WM02 H2O q sill = BI07 WM02 H2O q sill san
+ REACTION:  22  24  =  22
+ position:      6.74299E+02   3.95000E+03      6.74371E+02   3.95000E+03
+ LABELED WITH ASSEMBLAGES
+ REACTION: BI07 WM02 H2O q sill san = BI07 H2O q sill san
+ REACTION:  23  22  =  18
+ position:      7.14551E+02   3.95000E+03      7.14623E+02   3.95000E+03
+ LABELED WITH ASSEMBLAGES
+ REACTION: BI07 H2O q sill san = BI07 CRD H2O q sill san
+ REACTION:  24  18  =  25
+ position:      7.18236E+02   3.95000E+03      7.18309E+02   3.95000E+03
+ LABELED WITH ASSEMBLAGES
+ REACTION: BI07 CRD H2O q sill san = BI07 CRD LIQtc q sill san
+ REACTION:  25  25  =  14
+ position:      7.32184E+02   3.95000E+03      7.32256E+02   3.95000E+03
+ LABELED WITH ASSEMBLAGES
+ REACTION: BI07 CRD LIQtc q sill san = BI07 CRD LIQtc q san
+ REACTION:  26  14  =  26
+ position:      7.83998E+02   3.95000E+03      7.84070E+02   3.95000E+03
+ LABELED WITH ASSEMBLAGES
+ REACTION: BI07 CRD LIQtc q san = GT07W2 BI07 CRD LIQtc q san
+ REACTION:  27  26  =  23
+ position:      8.06111E+02   3.95000E+03      8.06184E+02   3.95000E+03
+ LABELED WITH ASSEMBLAGES
+ REACTION: GT07W2 BI07 CRD LIQtc q san = GT07W2 OPX CRD LIQtc q san
+ REACTION:  28  23  =  27
+ position:      8.52434E+02   3.95000E+03      8.52506E+02   3.95000E+03
+ LABELED WITH ASSEMBLAGES
+ REACTION: GT07W2 OPX CRD LIQtc q san = GT07W2 OPX CRD LIQtc q
+ REACTION:  29  27  =  11
+ position:      8.78088E+02   3.95000E+03      8.78160E+02   3.95000E+03
+ LABELED WITH ASSEMBLAGES
+ REACTION: GT07W2 OPX CRD LIQtc q = OPX CRD LIQtc q
+     94   318  Y =           3950.0000 ,     11 REACTIONS:   21   22   23   24   25   26   27   28   29   14   15
+ ASSEMBLAGE:  28: x,y =  7.41000000E+02   5.10000000E+03  BI07 LIQtc q sill san                                                           
+      assemblage: BI07_ann1 LIQtc_H2O.liq q sill san
+ ASSEMBLAGE:  29: x,y =  8.15000000E+02   5.10000000E+03  GT07W2 CRD LIQtc q san                                                          
+      assemblage: GT07W2_alm CRD_hcrd LIQtc_H2O.liq q san
+ ASSEMBLAGE:  30: x,y =  8.89000000E+02   5.10000000E+03  GT07W2 CRD LIQtc q                                                              
+      assemblage: GT07W2_alm CRD_fcrd LIQtc_K-feldsp q
+ REACTION:  30  21  =  22
+ position:      7.06096E+02   5.10000E+03      7.06168E+02   5.10000E+03
+ LABELED WITH ASSEMBLAGES
+ REACTION: BI07 WM02 H2O q sill = BI07 H2O q sill san
+ REACTION:  31  22  =  28
+ position:      7.14189E+02   5.10000E+03      7.14262E+02   5.10000E+03
+ LABELED WITH ASSEMBLAGES
+ REACTION: BI07 H2O q sill san = BI07 LIQtc q sill san
+ REACTION:  32  28  =  25
+ position:      7.70195E+02   5.10000E+03      7.70268E+02   5.10000E+03
+ LABELED WITH ASSEMBLAGES
+ REACTION: BI07 LIQtc q sill san = BI07 CRD LIQtc q sill san
+ REACTION:  33  25  =  26
+ position:      7.79879E+02   5.10000E+03      7.79951E+02   5.10000E+03
+ LABELED WITH ASSEMBLAGES
+ REACTION: BI07 CRD LIQtc q sill san = GT07W2 BI07 CRD LIQtc q san
+ REACTION:  34  26  =  29
+ position:      8.10375E+02   5.10000E+03      8.10447E+02   5.10000E+03
+ LABELED WITH ASSEMBLAGES
+ REACTION: GT07W2 BI07 CRD LIQtc q san = GT07W2 CRD LIQtc q san
+ REACTION:  35  29  =  30
+ position:      8.68549E+02   5.10000E+03      8.68621E+02   5.10000E+03
+ LABELED WITH ASSEMBLAGES
+ REACTION: GT07W2 CRD LIQtc q san = GT07W2 CRD LIQtc q
+ REACTION:  36  30  =  27
+ position:      9.20219E+02   5.10000E+03      9.20291E+02   5.10000E+03
+ LABELED WITH ASSEMBLAGES
+ REACTION: GT07W2 CRD LIQtc q = GT07W2 OPX CRD LIQtc q
+     80   398  Y =           5100.0000 ,      8 REACTIONS:   30   31   32   33   34   35   36   29
+ ASSEMBLAGE:  31: x,y =  6.30000000E+02   6.25000000E+03  BI07 WM02 ST q ky                                                               
+      assemblage: BI07_ann1 WM02_mu ST_fst q ky
+ ASSEMBLAGE:  32: x,y =  8.15000000E+02   6.25000000E+03  GT07W2 CRD LIQtc q sill san                                                     
+      assemblage: GT07W2_alm CRD_hcrd LIQtc_H2O.liq q sill san
+ ASSEMBLAGE:  33: x,y =  8.89000000E+02   6.25000000E+03  GT07W2 CRD LIQtc q sill                                                         
+      assemblage: GT07W2_alm CRD_hcrd LIQtc_K-feldsp q sill
+ ASSEMBLAGE:  34: x,y =  6.34625000E+02   6.25000000E+03  BI07 WM02 ST q sill                                                             
+      assemblage: BI07_ann1 WM02_mu ST_fst q sill
+ ASSEMBLAGE:  35: x,y =  6.35203125E+02   6.25000000E+03  BI07 WM02 ST H2O q sill                                                         
+      assemblage: BI07_ann1 WM02_mu ST_fst H2O q sill
+ ASSEMBLAGE:  36: x,y =  7.27125000E+02   6.25000000E+03  BI07 WM02 LIQtc q sill                                                          
+      assemblage: BI07_ann1 WM02_mu LIQtc_H2O.liq q sill
+ ASSEMBLAGE:  37: x,y =  7.96500000E+02   6.25000000E+03  GT07W2 BI07 LIQtc q sill san                                                    
+      assemblage: GT07W2_alm BI07_ann1 LIQtc_H2O.liq q sill san
+ REACTION:  37  31  =  34
+ position:      6.34264E+02   6.25000E+03      6.34336E+02   6.25000E+03
+ LABELED WITH ASSEMBLAGES
+ REACTION: BI07 WM02 ST q ky = BI07 WM02 ST q sill
+ REACTION:  38  34  =  35
+ position:      6.35131E+02   6.25000E+03      6.35203E+02   6.25000E+03
+ LABELED WITH ASSEMBLAGES
+ REACTION: BI07 WM02 ST q sill = BI07 WM02 ST H2O q sill
+ REACTION:  39  35  =  21
+ position:      6.35637E+02   6.25000E+03      6.35709E+02   6.25000E+03
+ LABELED WITH ASSEMBLAGES
+ REACTION: BI07 WM02 ST H2O q sill = BI07 WM02 H2O q sill
+ REACTION:  40  21  =  36
+ position:      7.24740E+02   6.25000E+03      7.24812E+02   6.25000E+03
+ LABELED WITH ASSEMBLAGES
+ REACTION: BI07 WM02 H2O q sill = BI07 WM02 LIQtc q sill
+ REACTION:  41  36  =  28
+ position:      7.30160E+02   6.25000E+03      7.30232E+02   6.25000E+03
+ LABELED WITH ASSEMBLAGES
+ REACTION: BI07 WM02 LIQtc q sill = BI07 LIQtc q sill san
+ REACTION:  42  28  =  37
+ position:      7.86889E+02   6.25000E+03      7.86961E+02   6.25000E+03
+ LABELED WITH ASSEMBLAGES
+ REACTION: BI07 LIQtc q sill san = GT07W2 BI07 LIQtc q sill san
+ REACTION:  43  37  =  32
+ position:      8.06762E+02   6.25000E+03      8.06834E+02   6.25000E+03
+ LABELED WITH ASSEMBLAGES
+ REACTION: GT07W2 BI07 LIQtc q sill san = GT07W2 CRD LIQtc q sill san
+ REACTION:  44  32  =  33
+ position:      8.82424E+02   6.25000E+03      8.82496E+02   6.25000E+03
+ LABELED WITH ASSEMBLAGES
+ REACTION: GT07W2 CRD LIQtc q sill san = GT07W2 CRD LIQtc q sill
+ REACTION:  45  33  =  30
+ position:      8.97311E+02   6.25000E+03      8.97383E+02   6.25000E+03
+ LABELED WITH ASSEMBLAGES
+ REACTION: GT07W2 CRD LIQtc q sill = GT07W2 CRD LIQtc q
+     79   477  Y =           6250.0000 ,      9 REACTIONS:   37   38   39   40   41   42   43   44   45
+ ASSEMBLAGE:  38: x,y =  6.67000000E+02   7.40000000E+03  BI07 WM02 H2O q ky                                                              
+      assemblage: BI07_ann1 WM02_mu H2O q ky
+ ASSEMBLAGE:  39: x,y =  8.52000000E+02   7.40000000E+03  GT07W2 LIQtc q sill san                                                         
+      assemblage: GT07W2_alm LIQtc_H2O.liq q sill san
+ ASSEMBLAGE:  40: x,y =  8.89000000E+02   7.40000000E+03  GT07W2 LIQtc q sill                                                             
+      assemblage: GT07W2_alm LIQtc_H2O.liq q sill
+ ASSEMBLAGE:  41: x,y =  6.56593750E+02   7.40000000E+03  BI07 WM02 ST H2O q ky                                                           
+      assemblage: BI07_ann1 WM02_mu ST_fst H2O q ky
+ REACTION:  46  31  =  41
+ position:      6.56088E+02   7.40000E+03      6.56160E+02   7.40000E+03
+ LABELED WITH ASSEMBLAGES
+ REACTION: BI07 WM02 ST q ky = BI07 WM02 ST H2O q ky
+ REACTION:  47  41  =  38
+ position:      6.57244E+02   7.40000E+03      6.57316E+02   7.40000E+03
+ LABELED WITH ASSEMBLAGES
+ REACTION: BI07 WM02 ST H2O q ky = BI07 WM02 H2O q ky
+ REACTION:  48  38  =  21
+ position:      6.87379E+02   7.40000E+03      6.87451E+02   7.40000E+03
+ LABELED WITH ASSEMBLAGES
+ REACTION: BI07 WM02 H2O q ky = BI07 WM02 H2O q sill
+ REACTION:  49  37  =  39
+ position:      8.32416E+02   7.40000E+03      8.32488E+02   7.40000E+03
+ LABELED WITH ASSEMBLAGES
+ REACTION: GT07W2 BI07 LIQtc q sill san = GT07W2 LIQtc q sill san
+ REACTION:  50  39  =  40
+ position:      8.85676E+02   7.40000E+03      8.85748E+02   7.40000E+03
+ LABELED WITH ASSEMBLAGES
+ REACTION: GT07W2 LIQtc q sill san = GT07W2 LIQtc q sill
+     78   555  Y =           7400.0000 ,      8 REACTIONS:   46   47   48   40   41   42   49   50
+ ASSEMBLAGE:  42: x,y =  6.30000000E+02   8.55000000E+03  GT07W2 BI07 WM02 ST q ky                                                        
+      assemblage: GT07W2_alm BI07_ann1 WM02_mu ST_fst q ky
+ ASSEMBLAGE:  43: x,y =  7.04000000E+02   8.55000000E+03  GT07W2 BI07 WM02 H2O q ky                                                       
+      assemblage: GT07W2_alm BI07_ann1 WM02_mu H2O q ky
+ ASSEMBLAGE:  44: x,y =  7.41000000E+02   8.55000000E+03  GT07W2 BI07 WM02 H2O q sill                                                     
+      assemblage: GT07W2_alm BI07_ann1 WM02_mu H2O q sill
+ REACTION:  51  42  =  43
+ position:      6.67289E+02   8.55000E+03      6.67361E+02   8.55000E+03
+ LABELED WITH ASSEMBLAGES
+ REACTION: GT07W2 BI07 WM02 ST q ky = GT07W2 BI07 WM02 H2O q ky
+ REACTION:  52  43  =  44
+ position:      7.40133E+02   8.55000E+03      7.40205E+02   8.55000E+03
+ LABELED WITH ASSEMBLAGES
+ REACTION: GT07W2 BI07 WM02 H2O q ky = GT07W2 BI07 WM02 H2O q sill
+ REACTION:  53  44  =  36
+ position:      7.52996E+02   8.55000E+03      7.53068E+02   8.55000E+03
+ LABELED WITH ASSEMBLAGES
+ REACTION: GT07W2 BI07 WM02 H2O q sill = BI07 WM02 LIQtc q sill
+     70   625  Y =           8550.0000 ,      7 REACTIONS:   51   52   53   41   42   49   50
+ ASSEMBLAGE:  45: x,y =  7.78000000E+02   9.70000000E+03  GT07W2 BI07 WM02 LIQtc q ky                                                     
+      assemblage: GT07W2_alm BI07_ann1 WM02_mu LIQtc_H2O.liq q ky
+ ASSEMBLAGE:  46: x,y =  6.53125000E+02   9.70000000E+03  GT07W2 BI07 WM02 ST q                                                           
+      assemblage: GT07W2_alm BI07_ann1 WM02_mu ST_fst q
+ ASSEMBLAGE:  47: x,y =  6.55437500E+02   9.70000000E+03  GT07W2 BI07 WM02 ST H2O q                                                       
+      assemblage: GT07W2_alm BI07_ann1 WM02_mu ST_fst H2O q
+ ASSEMBLAGE:  48: x,y =  7.93031250E+02   9.70000000E+03  GT07W2 BI07 WM02 LIQtc q sill                                                   
+      assemblage: GT07W2_alm BI07_ann1 WM02_mu LIQtc_H2O.liq q sill
+ REACTION:  54  42  =  46
+ position:      6.49078E+02   9.70000E+03      6.49150E+02   9.70000E+03
+ LABELED WITH ASSEMBLAGES
+ REACTION: GT07W2 BI07 WM02 ST q ky = GT07W2 BI07 WM02 ST q
+ REACTION:  55  46  =  47
+ position:      6.55004E+02   9.70000E+03      6.55076E+02   9.70000E+03
+ LABELED WITH ASSEMBLAGES
+ REACTION: GT07W2 BI07 WM02 ST q = GT07W2 BI07 WM02 ST H2O q
+ REACTION:  56  47  =  43
+ position:      6.56449E+02   9.70000E+03      6.56521E+02   9.70000E+03
+ LABELED WITH ASSEMBLAGES
+ REACTION: GT07W2 BI07 WM02 ST H2O q = GT07W2 BI07 WM02 H2O q ky
+ REACTION:  57  43  =  45
+ position:      7.65137E+02   9.70000E+03      7.65209E+02   9.70000E+03
+ LABELED WITH ASSEMBLAGES
+ REACTION: GT07W2 BI07 WM02 H2O q ky = GT07W2 BI07 WM02 LIQtc q ky
+ REACTION:  58  45  =  48
+ position:      7.92381E+02   9.70000E+03      7.92453E+02   9.70000E+03
+ LABELED WITH ASSEMBLAGES
+ REACTION: GT07W2 BI07 WM02 LIQtc q ky = GT07W2 BI07 WM02 LIQtc q sill
+ REACTION:  59  48  =  37
+ position:      7.93248E+02   9.70000E+03      7.93320E+02   9.70000E+03
+ LABELED WITH ASSEMBLAGES
+ REACTION: GT07W2 BI07 WM02 LIQtc q sill = GT07W2 BI07 LIQtc q sill san
+     71   696  Y =           9700.0000 ,      8 REACTIONS:   54   55   56   57   58   59   49   50
+ ASSEMBLAGE:  49: x,y =  6.30000000E+02   1.08500000E+04  GT07W2 BI07 WM02 H2O q                                                          
+      assemblage: GT07W2_alm BI07_ann1 WM02_mu H2O q
+ ASSEMBLAGE:  50: x,y =  7.78000000E+02   1.08500000E+04  GT07W2 BI07 WM02 LIQtc q                                                        
+      assemblage: GT07W2_alm BI07_ann1 WM02_mu LIQtc_H2O.liq q
+ ASSEMBLAGE:  51: x,y =  8.15000000E+02   1.08500000E+04  GT07W2 BI07 LIQtc q ky san                                                      
+      assemblage: GT07W2_alm BI07_east LIQtc_H2O.liq q ky san
+ ASSEMBLAGE:  52: x,y =  7.69039062E+02   1.08500000E+04  GT07W2 BI07 WM02 LIQtc H2O q                                                    
+      assemblage: GT07W2_alm BI07_ann1 WM02_mu LIQtc_H2O.liq H2O q
+ ASSEMBLAGE:  53: x,y =  8.05750000E+02   1.08500000E+04  GT07W2 BI07 WM02 LIQtc q san                                                    
+      assemblage: GT07W2_alm BI07_east WM02_mu LIQtc_H2O.liq q san
+ ASSEMBLAGE:  54: x,y =  8.33500000E+02   1.08500000E+04  GT07W2 LIQtc q ky san                                                           
+      assemblage: GT07W2_alm LIQtc_H2O.liq q ky san
+ REACTION:  60  49  =  52
+ position:      7.68750E+02   1.08500E+04      7.68822E+02   1.08500E+04
+ LABELED WITH ASSEMBLAGES
+ REACTION: GT07W2 BI07 WM02 H2O q = GT07W2 BI07 WM02 LIQtc H2O q
+ REACTION:  61  52  =  50
+ position:      7.69039E+02   1.08500E+04      7.69111E+02   1.08500E+04
+ LABELED WITH ASSEMBLAGES
+ REACTION: GT07W2 BI07 WM02 LIQtc H2O q = GT07W2 BI07 WM02 LIQtc q
+ REACTION:  62  50  =  53
+ position:      7.98523E+02   1.08500E+04      7.98596E+02   1.08500E+04
+ LABELED WITH ASSEMBLAGES
+ REACTION: GT07W2 BI07 WM02 LIQtc q = GT07W2 BI07 WM02 LIQtc q san
+ REACTION:  63  53  =  51
+ position:      8.09725E+02   1.08500E+04      8.09797E+02   1.08500E+04
+ LABELED WITH ASSEMBLAGES
+ REACTION: GT07W2 BI07 WM02 LIQtc q san = GT07W2 BI07 LIQtc q ky san
+ REACTION:  64  51  =  54
+ position:      8.26418E+02   1.08500E+04      8.26490E+02   1.08500E+04
+ LABELED WITH ASSEMBLAGES
+ REACTION: GT07W2 BI07 LIQtc q ky san = GT07W2 LIQtc q ky san
+ REACTION:  65  54  =  39
+ position:      8.44195E+02   1.08500E+04      8.44268E+02   1.08500E+04
+ LABELED WITH ASSEMBLAGES
+ REACTION: GT07W2 LIQtc q ky san = GT07W2 LIQtc q sill san
+     64   760  Y =          10850.0000 ,      7 REACTIONS:   60   61   62   63   64   65   50
+ ASSEMBLAGE:  55: x,y =  8.24250000E+02   1.20000000E+04  GT07W2 WM02 LIQtc q san                                                         
+      assemblage: GT07W2_alm WM02_mu LIQtc_H2O.liq q san
+ ASSEMBLAGE:  56: x,y =  8.25695312E+02   1.20000000E+04  GT07W2 WM02 LIQtc q ky san                                                      
+      assemblage: GT07W2_alm WM02_mu LIQtc_H2O.liq q ky san
+ REACTION:  66  53  =  55
+ position:      8.23021E+02   1.20000E+04      8.23094E+02   1.20000E+04
+ LABELED WITH ASSEMBLAGES
+ REACTION: GT07W2 BI07 WM02 LIQtc q san = GT07W2 WM02 LIQtc q san
+ REACTION:  67  55  =  56
+ position:      8.25623E+02   1.20000E+04      8.25695E+02   1.20000E+04
+ LABELED WITH ASSEMBLAGES
+ REACTION: GT07W2 WM02 LIQtc q san = GT07W2 WM02 LIQtc q ky san
+ REACTION:  68  56  =  54
+ position:      8.25840E+02   1.20000E+04      8.25912E+02   1.20000E+04
+ LABELED WITH ASSEMBLAGES
+ REACTION: GT07W2 WM02 LIQtc q ky san = GT07W2 LIQtc q ky san
+     69   829  Y =          12000.0000 ,      8 REACTIONS:   60   61   62   66   67   68   65   50
+ REACTION:  69   1  =   2
+ position:      6.30000E+02   6.23535E+02      6.30000E+02   6.25781E+02
+ LABELED WITH ASSEMBLAGES
+ REACTION: BI07 OSM H2O q san = BI07 CRD H2O q san
+ REACTION:  70   2  =  20
+ position:      6.30000E+02   1.90381E+03      6.30000E+02   1.90605E+03
+ LABELED WITH ASSEMBLAGES
+ REACTION: BI07 CRD H2O q san = BI07 CRD H2O q and san
+ REACTION:  71  17  =  21
+ position:      6.30000E+02   3.22451E+03      6.30000E+02   3.22676E+03
+ LABELED WITH ASSEMBLAGES
+ REACTION: BI07 WM02 H2O q and = BI07 WM02 H2O q sill
+ REACTION:  72  31  =  42
+ position:      6.30000E+02   8.08506E+03      6.30000E+02   8.08730E+03
+ LABELED WITH ASSEMBLAGES
+ REACTION: BI07 WM02 ST q ky = GT07W2 BI07 WM02 ST q ky
+ REACTION:  73  47  =  49
+ position:      6.30000E+02   1.06973E+04      6.30000E+02   1.06995E+04
+ LABELED WITH ASSEMBLAGES
+ REACTION: GT07W2 BI07 WM02 ST H2O q = GT07W2 BI07 WM02 H2O q
+     93   922  X =            630.0000 ,     12 REACTIONS:   69   70   17   16   71   39   38   37   72   54   55   73
+ REACTION:  74  43  =  49
+ position:      6.67000E+02   1.01717E+04      6.67000E+02   1.01739E+04
+ LABELED WITH ASSEMBLAGES
+ REACTION: GT07W2 BI07 WM02 H2O q ky = GT07W2 BI07 WM02 H2O q
+     80  1002  X =            667.0000 ,     10 REACTIONS:   70   18   23   30   48   47   46   72   51   74
+ REACTION:  75  38  =  43
+ position:      7.04000E+02   8.28496E+03      7.04000E+02   8.28721E+03
+ LABELED WITH ASSEMBLAGES
+ REACTION: BI07 WM02 H2O q ky = GT07W2 BI07 WM02 H2O q ky
+     64  1066  X =            704.0000 ,      8 REACTIONS:    4    3   19   23   30   48   75   74
+ REACTION:  76  21  =  44
+ position:      7.41000E+02   8.44668E+03      7.41000E+02   8.44893E+03
+ LABELED WITH ASSEMBLAGES
+ REACTION: BI07 WM02 H2O q sill = GT07W2 BI07 WM02 H2O q sill
+     82  1148  X =            741.0000 ,     11 REACTIONS:    4    3    9   10   25   32   41   40   76   52   74
+ REACTION:  77   9  =  10
+ position:      7.78000E+02   1.16035E+03      7.78000E+02   1.16260E+03
+ LABELED WITH ASSEMBLAGES
+ REACTION: OPX CRD LIQtc H2O q san = OPX CRD LIQtc q san
+ REACTION:  78  45  =  50
+ position:      7.78000E+02   9.81230E+03      7.78000E+02   9.81455E+03
+ LABELED WITH ASSEMBLAGES
+ REACTION: GT07W2 BI07 WM02 LIQtc q ky = GT07W2 BI07 WM02 LIQtc q
+     85  1233  X =            778.0000 ,     11 REACTIONS:    5   77   12   11   26   33   32   42   59   58   78
+ REACTION:  79   5  =  12
+ position:      8.15000E+02   9.37988E+02      8.15000E+02   9.40234E+02
+ LABELED WITH ASSEMBLAGES
+ REACTION: OPX CRD LIQtc H2O = OPX CRD LIQtc
+ REACTION:  80  10  =  23
+ position:      8.15000E+02   3.40645E+03      8.15000E+02   3.40869E+03
+ LABELED WITH ASSEMBLAGES
+ REACTION: OPX CRD LIQtc q san = GT07W2 OPX CRD LIQtc q san
+ REACTION:  81  29  =  32
+ position:      8.15000E+02   6.04785E+03      8.15000E+02   6.05010E+03
+ LABELED WITH ASSEMBLAGES
+ REACTION: GT07W2 CRD LIQtc q san = GT07W2 CRD LIQtc q sill san
+ REACTION:  82  37  =  51
+ position:      8.15000E+02   1.01986E+04      8.15000E+02   1.02009E+04
+ LABELED WITH ASSEMBLAGES
+ REACTION: GT07W2 BI07 LIQtc q sill san = GT07W2 BI07 LIQtc q ky san
+    100  1333  X =            815.0000 ,     13 REACTIONS:    5    6    7   79   14   13   80   27   34   81   43   82   63
+ REACTION:  83  23  =  29
+ position:      8.52000E+02   4.62158E+03      8.52000E+02   4.62383E+03
+ LABELED WITH ASSEMBLAGES
+ REACTION: GT07W2 OPX CRD LIQtc q san = GT07W2 CRD LIQtc q san
+ REACTION:  84  32  =  39
+ position:      8.52000E+02   7.08555E+03      8.52000E+02   7.08779E+03
+ LABELED WITH ASSEMBLAGES
+ REACTION: GT07W2 CRD LIQtc q sill san = GT07W2 LIQtc q sill san
+     76  1409  X =            852.0000 ,      9 REACTIONS:    7   79   14   29   28   83   81   84   65
+ REACTION:  85  33  =  40
+ position:      8.89000E+02   6.99121E+03      8.89000E+02   6.99346E+03
+ LABELED WITH ASSEMBLAGES
+ REACTION: GT07W2 CRD LIQtc q sill = GT07W2 LIQtc q sill
+     71  1480  X =            889.0000 ,      8 REACTIONS:   79   14   29   36   45   85   50   65
+     62  1542  X =            926.0000 ,      7 REACTIONS:   79   14   29   36   45   85   50
+ REACTION:  86   6  =  13
+ position:      9.63000E+02   7.83008E+02      9.63000E+02   7.85254E+02
+ LABELED WITH ASSEMBLAGES
+ REACTION: CRD LIQtc H2O = CRD LIQtc
+     61  1603  X =            963.0000 ,      7 REACTIONS:   86   15   14   29   36   45   85
+     57  1660  X =           1000.0000 ,      7 REACTIONS:   86   15   14   29   36   45   85
+ NUMBER OF LINES:   87    NUMBER OF POINTS:   194    max.ph.:  366
+ LEVEL:  0   SQUARE: (  1 ,  1 ) LINE     1   REACTION    1: OPEN END              
+      3  1663  Y =           1075.0000 ,      0 REACTIONS:
+     12  1675  X =            648.5000 ,      2 REACTIONS:    1    2
+ NUMBER OF LINES:   87    NUMBER OF POINTS:   196    max.ph.:  362
+ LEVEL:  0   SQUARE: (  4 ,  1 ) LINE     3   REACTION    3: OPEN END              
+     16  1691  Y =           1075.0000 ,      2 REACTIONS:    3    4
+     21  1712  X =            759.5000 ,      4 REACTIONS:    4    3    9   10
+ NUMBER OF LINES:   87    NUMBER OF POINTS:   202    max.ph.:  381
+ LEVEL:  0   SQUARE: (  3 ,  1 ) LINE     3   REACTION    3: BUMP                  
+      3  1715  Y =           1075.0000 ,      0 REACTIONS:
+     14  1729  X =            722.5000 ,      2 REACTIONS:    4    3
+ NUMBER OF LINES:   87    NUMBER OF POINTS:   204    max.ph.:  373
+ LEVEL:  0   SQUARE: (  5 ,  1 ) LINE     5   REACTION    5: BUMP                  
+     28  1757  Y =           1075.0000 ,      4 REACTIONS:    5   77   13   14
+ REACTION:  87   4  =  11
+ position:      7.96500E+02   9.37988E+02      7.96500E+02   9.40234E+02
+ LABELED WITH ASSEMBLAGES
+ REACTION: OPX CRD LIQtc H2O q = OPX CRD LIQtc q
+     24  1781  X =            796.5000 ,      4 REACTIONS:    5    6   87   13
+ NUMBER OF LINES:   88    NUMBER OF POINTS:   212    max.ph.:  401
+ LEVEL:  0   SQUARE: (  9 ,  1 ) LINE     8   REACTION    8: OPEN END              
+     11  1792  Y =           1075.0000 ,      1 REACTIONS:   15
+     17  1809  X =            944.5000 ,      2 REACTIONS:    8   86
+ NUMBER OF LINES:   88    NUMBER OF POINTS:   215    max.ph.:  438
+ LEVEL:  0   SQUARE: (  3 ,  2 ) LINE     9   REACTION    9: OPEN END              
+      3  1812  Y =           2225.0000 ,      0 REACTIONS:
+      2  1814  X =            722.5000 ,      0 REACTIONS:
+ NUMBER OF LINES:   88    NUMBER OF POINTS:   215    max.ph.:  404
+ LEVEL:  0   SQUARE: (  5 ,  3 ) LINE    11   REACTION   11: OPEN END              
+     25  1839  Y =           3375.0000 ,      3 REACTIONS:   26   27   80
+     18  1857  X =            796.5000 ,      2 REACTIONS:   80   27
+ NUMBER OF LINES:   88    NUMBER OF POINTS:   220    max.ph.:  365
+ LEVEL:  0   SQUARE: (  6 ,  3 ) LINE    13   REACTION   13: OPEN END              
+     11  1868  Y =           3375.0000 ,      1 REACTIONS:   13
+     18  1886  X =            833.5000 ,      2 REACTIONS:   13   80
+ NUMBER OF LINES:   88    NUMBER OF POINTS:   223    max.ph.:  390
+ LEVEL:  0   SQUARE: ( 10 ,  3 ) LINE    15   REACTION   15: BUMP                  
+     11  1897  Y =           3375.0000 ,      1 REACTIONS:   15
+     10  1907  X =            981.5000 ,      1 REACTIONS:   15
+ NUMBER OF LINES:   88    NUMBER OF POINTS:   225    max.ph.:  591
+ LEVEL:  0   SQUARE: (  1 ,  3 ) LINE    16   REACTION   16: OPEN END              
+     11  1918  Y =           3375.0000 ,      1 REACTIONS:   30
+ REACTION:  88  19  =  22
+ position:      6.48500E+02   2.95723E+03      6.48500E+02   2.95947E+03
+ LABELED WITH ASSEMBLAGES
+ REACTION: BI07 H2O q and san = BI07 H2O q sill san
+     15  1933  X =            648.5000 ,      2 REACTIONS:   88   30
+ NUMBER OF LINES:   89    NUMBER OF POINTS:   228    max.ph.:  378
+ LEVEL:  0   SQUARE: (  1 ,  2 ) LINE    16   REACTION   16: TWO POINTS            
+     11  1944  Y =           2225.0000 ,      1 REACTIONS:   70
+     17  1961  X =            648.5000 ,      2 REACTIONS:   70   17
+ NUMBER OF LINES:   89    NUMBER OF POINTS:   231    max.ph.:  371
+ LEVEL:  0   SQUARE: (  2 ,  2 ) LINE    18   REACTION   18: OPEN END              
+      3  1964  Y =           2225.0000 ,      0 REACTIONS:
+      2  1966  X =            685.5000 ,      0 REACTIONS:
+ NUMBER OF LINES:   89    NUMBER OF POINTS:   231    max.ph.:  402
+ LEVEL:  0   SQUARE: (  3 ,  3 ) LINE    19   REACTION   19: OPEN END              
+     20  1986  Y =           3375.0000 ,      3 REACTIONS:   19    9   10
+     18  2004  X =            722.5000 ,      3 REACTIONS:    9   10   25
+ NUMBER OF LINES:   91    NUMBER OF POINTS:   237    max.ph.:  455
+ LEVEL:  0   SQUARE: (  2 ,  3 ) LINE    21   REACTION   21: OPEN END              
+     11  2015  Y =           3375.0000 ,      1 REACTIONS:   23
+     18  2033  X =            685.5000 ,      2 REACTIONS:   19   23
+ NUMBER OF LINES:   91    NUMBER OF POINTS:   240    max.ph.:  388
+ LEVEL:  0   SQUARE: (  2 ,  4 ) LINE    21   REACTION   21: OPEN END              
+     11  2044  Y =           4525.0000 ,      1 REACTIONS:   30
+     10  2054  X =            685.5000 ,      1 REACTIONS:   30
+ NUMBER OF LINES:   91    NUMBER OF POINTS:   242    max.ph.:  382
+ LEVEL:  0   SQUARE: (  3 ,  4 ) LINE    23   REACTION   23: OPEN END              
+     11  2065  Y =           4525.0000 ,      1 REACTIONS:   31
+     10  2075  X =            722.5000 ,      1 REACTIONS:   32
+ NUMBER OF LINES:   91    NUMBER OF POINTS:   244    max.ph.:  413
+ LEVEL:  0   SQUARE: (  4 ,  4 ) LINE    25   REACTION   25: OPEN END              
+     18  2093  Y =           4525.0000 ,      2 REACTIONS:   32   25
+     17  2110  X =            759.5000 ,      2 REACTIONS:   25   32
+ NUMBER OF LINES:   91    NUMBER OF POINTS:   248    max.ph.:  355
+ LEVEL:  0   SQUARE: (  6 ,  4 ) LINE    27   REACTION   27: OPEN END              
+     17  2127  Y =           4525.0000 ,      2 REACTIONS:   34   83
+     10  2137  X =            833.5000 ,      1 REACTIONS:   83
+ NUMBER OF LINES:   91    NUMBER OF POINTS:   251    max.ph.:  343
+ LEVEL:  0   SQUARE: (  7 ,  4 ) LINE    28   REACTION   28: OPEN END              
+     11  2148  Y =           4525.0000 ,      1 REACTIONS:   28
+     10  2158  X =            870.5000 ,      1 REACTIONS:   36
+ NUMBER OF LINES:   91    NUMBER OF POINTS:   253    max.ph.:  390
+ LEVEL:  0   SQUARE: (  9 ,  4 ) LINE    29   REACTION   29: BUMP                  
+      3  2161  Y =           4525.0000 ,      0 REACTIONS:
+     10  2171  X =            944.5000 ,      1 REACTIONS:   29
+ NUMBER OF LINES:   91    NUMBER OF POINTS:   254    max.ph.:  400
+ LEVEL:  0   SQUARE: (  3 ,  5 ) LINE    30   REACTION   30: OPEN END              
+     17  2188  Y =           5675.0000 ,      2 REACTIONS:   40   41
+     17  2205  X =            722.5000 ,      2 REACTIONS:   41   40
+ NUMBER OF LINES:   91    NUMBER OF POINTS:   258    max.ph.:  410
+ LEVEL:  0   SQUARE: (  5 ,  5 ) LINE    32   REACTION   32: OPEN END              
+ REACTION:  89  37  =  26
+ position:      7.92453E+02   5.67500E+03      7.92525E+02   5.67500E+03
+ LABELED WITH ASSEMBLAGES
+ REACTION: GT07W2 BI07 LIQtc q sill san = GT07W2 BI07 CRD LIQtc q san
+     25  2230  Y =           5675.0000 ,      3 REACTIONS:   42   89   34
+     10  2240  X =            796.5000 ,      1 REACTIONS:   89
+ NUMBER OF LINES:   92    NUMBER OF POINTS:   262    max.ph.:  337
+ LEVEL:  0   SQUARE: (  5 ,  4 ) LINE    33   REACTION   33: TWO POINTS            
+     11  2251  Y =           4525.0000 ,      1 REACTIONS:   26
+      2  2253  X =            796.5000 ,      0 REACTIONS:
+ NUMBER OF LINES:   92    NUMBER OF POINTS:   263    max.ph.:  373
+ LEVEL:  0   SQUARE: (  7 ,  5 ) LINE    35   REACTION   35: OPEN END              
+     11  2264  Y =           5675.0000 ,      1 REACTIONS:   35
+     18  2282  X =            870.5000 ,      2 REACTIONS:   35   81
+ NUMBER OF LINES:   92    NUMBER OF POINTS:   266    max.ph.:  342
+ LEVEL:  0   SQUARE: ( 10 ,  5 ) LINE    36   REACTION   36: BUMP                  
+     19  2301  Y =           5675.0000 ,      2 REACTIONS:   36   29
+     18  2319  X =            981.5000 ,      2 REACTIONS:   29   36
+ NUMBER OF LINES:   92    NUMBER OF POINTS:   270    max.ph.:  406
+ LEVEL:  0   SQUARE: (  1 ,  6 ) LINE    37   REACTION   37: OPEN END              
+     22  2341  Y =           6825.0000 ,      3 REACTIONS:   46   47   48
+     23  2364  X =            648.5000 ,      3 REACTIONS:   48   47   46
+ NUMBER OF LINES:   92    NUMBER OF POINTS:   276    max.ph.:  610
+ LEVEL:  0   SQUARE: (  1 ,  5 ) LINE    37   REACTION   37: TWO POINTS            
+      3  2367  Y =           5675.0000 ,      0 REACTIONS:
+      2  2369  X =            648.5000 ,      0 REACTIONS:
+ NUMBER OF LINES:   92    NUMBER OF POINTS:   276    max.ph.:  395
+ LEVEL:  0   SQUARE: (  4 ,  7 ) LINE    40   REACTION   40: OPEN END              
+     19  2388  Y =           7975.0000 ,      2 REACTIONS:   40   41
+ ASSEMBLAGE:  57: x,y =  7.59500000E+02   7.83349609E+03  BI07 WM02 LIQtc q sill san                                                      
+      assemblage: BI07_ann1 WM02_mu LIQtc_H2O.liq q sill san
+ REACTION:  90  28  =  57
+ position:      7.59500E+02   7.83125E+03      7.59500E+02   7.83350E+03
+ LABELED WITH ASSEMBLAGES
+ REACTION: BI07 LIQtc q sill san = BI07 WM02 LIQtc q sill san
+ REACTION:  91  57  =  36
+ position:      7.59500E+02   7.83350E+03      7.59500E+02   7.83574E+03
+ LABELED WITH ASSEMBLAGES
+ REACTION: BI07 WM02 LIQtc q sill san = BI07 WM02 LIQtc q sill
+     10  2398  X =            759.5000 ,      2 REACTIONS:   90   91
+ NUMBER OF LINES:   95    NUMBER OF POINTS:   280    max.ph.:  418
+ LEVEL:  0   SQUARE: (  4 ,  8 ) LINE    42   REACTION   41: OPEN END              
+     17  2415  Y =           9125.0000 ,      2 REACTIONS:   57   58
+ REACTION:  92  36  =  48
+ position:      7.59500E+02   8.60391E+03      7.59500E+02   8.60615E+03
+ LABELED WITH ASSEMBLAGES
+ REACTION: BI07 WM02 LIQtc q sill = GT07W2 BI07 WM02 LIQtc q sill
+     23  2438  X =            759.5000 ,      3 REACTIONS:   92   58   57
+ NUMBER OF LINES:   96    NUMBER OF POINTS:   285    max.ph.:  368
+ LEVEL:  0   SQUARE: (  5 ,  6 ) LINE    43   REACTION   42: BUMP                  
+     11  2449  Y =           6825.0000 ,      1 REACTIONS:   42
+      2  2451  X =            796.5000 ,      0 REACTIONS:
+ NUMBER OF LINES:   96    NUMBER OF POINTS:   286    max.ph.:  329
+ LEVEL:  0   SQUARE: (  6 ,  6 ) LINE    44   REACTION   43: OPEN END              
+     11  2462  Y =           6825.0000 ,      1 REACTIONS:   43
+     10  2472  X =            833.5000 ,      1 REACTIONS:   84
+ NUMBER OF LINES:   96    NUMBER OF POINTS:   288    max.ph.:  308
+ LEVEL:  0   SQUARE: (  7 ,  6 ) LINE    45   REACTION   44: OPEN END              
+     11  2483  Y =           6825.0000 ,      1 REACTIONS:   44
+     10  2493  X =            870.5000 ,      1 REACTIONS:   84
+ NUMBER OF LINES:   96    NUMBER OF POINTS:   290    max.ph.:  287
+ LEVEL:  0   SQUARE: (  2 ,  7 ) LINE    47   REACTION   46: OPEN END              
+     11  2504  Y =           7975.0000 ,      1 REACTIONS:   47
+     10  2514  X =            685.5000 ,      1 REACTIONS:   75
+ NUMBER OF LINES:   96    NUMBER OF POINTS:   292    max.ph.:  343
+ LEVEL:  0   SQUARE: (  3 ,  7 ) LINE    49   REACTION   48: OPEN END              
+     11  2525  Y =           7975.0000 ,      1 REACTIONS:   48
+     17  2542  X =            722.5000 ,      2 REACTIONS:   48   75
+ NUMBER OF LINES:   96    NUMBER OF POINTS:   295    max.ph.:  344
+ LEVEL:  0   SQUARE: (  6 ,  9 ) LINE    50   REACTION   49: OPEN END              
+     18  2560  Y =          10275.0000 ,      2 REACTIONS:   82   49
+     10  2570  X =            833.5000 ,      1 REACTIONS:   65
+ NUMBER OF LINES:   96    NUMBER OF POINTS:   298    max.ph.:  341
+ LEVEL:  0   SQUARE: (  1 ,  8 ) LINE    52   REACTION   51: OPEN END              
+     11  2581  Y =           9125.0000 ,      1 REACTIONS:   51
+      2  2583  X =            648.5000 ,      0 REACTIONS:
+ NUMBER OF LINES:   96    NUMBER OF POINTS:   299    max.ph.:  343
+ LEVEL:  0   SQUARE: (  3 ,  8 ) LINE    53   REACTION   52: TWO POINTS            
+      3  2586  Y =           9125.0000 ,      0 REACTIONS:
+      2  2588  X =            722.5000 ,      0 REACTIONS:
+ NUMBER OF LINES:   96    NUMBER OF POINTS:   299    max.ph.:  347
+ LEVEL:  0   SQUARE: (  1 ,  9 ) LINE    55   REACTION   54: TWO POINTS            
+     13  2601  Y =          10275.0000 ,      2 REACTIONS:   56   74
+     23  2624  X =            648.5000 ,      3 REACTIONS:   54   55   73
+ NUMBER OF LINES:   96    NUMBER OF POINTS:   304    max.ph.:  327
+ LEVEL:  0   SQUARE: (  4 ,  9 ) LINE    58   REACTION   57: OPEN END              
+     13  2637  Y =          10275.0000 ,      2 REACTIONS:   60   61
+     10  2647  X =            759.5000 ,      1 REACTIONS:   74
+ NUMBER OF LINES:   96    NUMBER OF POINTS:   307    max.ph.:  345
+ LEVEL:  0   SQUARE: (  5 ,  9 ) LINE    59   REACTION   58: OPEN END              
+     17  2664  Y =          10275.0000 ,      2 REACTIONS:   62   63
+     23  2687  X =            796.5000 ,      3 REACTIONS:   82   63   62
+ NUMBER OF LINES:   96    NUMBER OF POINTS:   312    max.ph.:  421
+ LEVEL:  0   SQUARE: (  5 ,  8 ) LINE    60   REACTION   59: TWO POINTS            
+     11  2698  Y =           9125.0000 ,      1 REACTIONS:   59
+      2  2700  X =            796.5000 ,      0 REACTIONS:
+ NUMBER OF LINES:   96    NUMBER OF POINTS:   313    max.ph.:  326
+ LEVEL:  0   SQUARE: (  6 , 10 ) LINE    64   REACTION   63: OPEN END              
+     18  2718  Y =          11425.0000 ,      2 REACTIONS:   63   64
+      2  2720  X =            833.5000 ,      0 REACTIONS:
+ NUMBER OF LINES:   96    NUMBER OF POINTS:   315    max.ph.:  322
+ LEVEL:  0   SQUARE: (  1 ,  7 ) LINE    73   REACTION   72: TWO POINTS            
+     11  2731  Y =           7975.0000 ,      1 REACTIONS:   46
+     10  2741  X =            648.5000 ,      1 REACTIONS:   72
+ NUMBER OF LINES:   96    NUMBER OF POINTS:   317    max.ph.:  394
+ LEVEL:  1   SQUARE: (  1 ,  1 ) LINE     1   REACTION    1: OPEN END              
+      3  2744  Y =            787.5000 ,      0 REACTIONS:
+     14  2758  X =            639.2500 ,      2 REACTIONS:    1    2
+ NUMBER OF LINES:   96    NUMBER OF POINTS:   319    max.ph.:  363
+ LEVEL:  1   SQUARE: (  8 ,  2 ) LINE     3   REACTION    3: OPEN END              
+     21  2779  Y =           1362.5000 ,      4 REACTIONS:    3    4    5   77
+     23  2802  X =            768.7500 ,      4 REACTIONS:    5   77   12   11
+ NUMBER OF LINES:   96    NUMBER OF POINTS:   327    max.ph.:  410
+ LEVEL:  1   SQUARE: (  9 ,  1 ) LINE     6   REACTION    6: OPEN END              
+      3  2805  Y =            787.5000 ,      0 REACTIONS:
+     10  2815  X =            787.2500 ,      2 REACTIONS:    5   77
+ NUMBER OF LINES:   96    NUMBER OF POINTS:   329    max.ph.:  375
+ LEVEL:  1   SQUARE: ( 10 ,  1 ) LINE     7   REACTION    7: OPEN END              
+     20  2835  Y =            787.5000 ,      3 REACTIONS:    5    6    7
+     27  2862  X =            805.7500 ,      5 REACTIONS:    5    6    7   79   14
+ NUMBER OF LINES:   96    NUMBER OF POINTS:   337    max.ph.:  389
+ LEVEL:  1   SQUARE: ( 17 ,  1 ) LINE     8   REACTION    8: OPEN END              
+     10  2872  Y =            787.5000 ,      1 REACTIONS:    8
+     16  2888  X =            935.2500 ,      2 REACTIONS:    8   86
+ NUMBER OF LINES:   96    NUMBER OF POINTS:   340    max.ph.:  440
+ LEVEL:  1   SQUARE: (  6 ,  4 ) LINE     9   REACTION    9: OPEN END              
+     10  2898  Y =           2512.5000 ,      1 REACTIONS:   20
+     11  2909  X =            731.7500 ,      2 REACTIONS:    9   10
+ NUMBER OF LINES:   99    NUMBER OF POINTS:   343    max.ph.:  400
+ LEVEL:  1   SQUARE: (  9 ,  5 ) LINE    11   REACTION   11: OPEN END              
+     16  2925  Y =           3087.5000 ,      2 REACTIONS:   11   12
+      2  2927  X =            787.2500 ,      0 REACTIONS:
+ NUMBER OF LINES:   99    NUMBER OF POINTS:   345    max.ph.:  440
+ LEVEL:  1   SQUARE: ( 12 ,  6 ) LINE    13   REACTION   13: OPEN END              
+     15  2942  Y =           3662.5000 ,      2 REACTIONS:   28   29
+      9  2951  X =            842.7500 ,      1 REACTIONS:   80
+ NUMBER OF LINES:   99    NUMBER OF POINTS:   348    max.ph.:  394
+ LEVEL:  1   SQUARE: (  1 ,  5 ) LINE    16   REACTION   16: OPEN END              
+     10  2961  Y =           3087.5000 ,      1 REACTIONS:   71
+      9  2970  X =            639.2500 ,      1 REACTIONS:   71
+ NUMBER OF LINES:   99    NUMBER OF POINTS:   350    max.ph.:  377
+ LEVEL:  1   SQUARE: (  1 ,  4 ) LINE    16   REACTION   16: TWO POINTS            
+     10  2980  Y =           2512.5000 ,      1 REACTIONS:   17
+     15  2995  X =            639.2500 ,      2 REACTIONS:   17   16
+ NUMBER OF LINES:   99    NUMBER OF POINTS:   353    max.ph.:  348
+ LEVEL:  1   SQUARE: (  2 ,  5 ) LINE    17   REACTION   17: OPEN END              
+     10  3005  Y =           3087.5000 ,      1 REACTIONS:   30
+     21  3026  X =            657.7500 ,      3 REACTIONS:   18   23   30
+ NUMBER OF LINES:   99    NUMBER OF POINTS:   357    max.ph.:  378
+ LEVEL:  1   SQUARE: (  3 ,  4 ) LINE    18   REACTION   18: OPEN END              
+      3  3029  Y =           2512.5000 ,      0 REACTIONS:
+      2  3031  X =            676.2500 ,      0 REACTIONS:
+ NUMBER OF LINES:   99    NUMBER OF POINTS:   357    max.ph.:  416
+ LEVEL:  1   SQUARE: (  5 ,  6 ) LINE    19   REACTION   19: OPEN END              
+     14  3045  Y =           3662.5000 ,      3 REACTIONS:   19    9   10
+     16  3061  X =            713.2500 ,      2 REACTIONS:   19   23
+ NUMBER OF LINES:   99    NUMBER OF POINTS:   362    max.ph.:  396
+ LEVEL:  1   SQUARE: (  6 ,  5 ) LINE    20   REACTION   20: OPEN END              
+     10  3071  Y =           3087.5000 ,      2 REACTIONS:    9   10
+      2  3073  X =            731.7500 ,      0 REACTIONS:
+ NUMBER OF LINES:   99    NUMBER OF POINTS:   364    max.ph.:  455
+ LEVEL:  1   SQUARE: (  3 ,  6 ) LINE    21   REACTION   21: OPEN END              
+      3  3076  Y =           3662.5000 ,      0 REACTIONS:
+      2  3078  X =            676.2500 ,      0 REACTIONS:
+ NUMBER OF LINES:   99    NUMBER OF POINTS:   364    max.ph.:  374
+ LEVEL:  1   SQUARE: (  3 ,  7 ) LINE    21   REACTION   21: OPEN END              
+     10  3088  Y =           4237.5000 ,      2 REACTIONS:   21   22
+      9  3097  X =            676.2500 ,      1 REACTIONS:   30
+ NUMBER OF LINES:  102    NUMBER OF POINTS:   367    max.ph.:  401
+ LEVEL:  1   SQUARE: (  5 ,  7 ) LINE    23   REACTION   23: OPEN END              
+     10  3107  Y =           4237.5000 ,      1 REACTIONS:   31
+      2  3109  X =            713.2500 ,      0 REACTIONS:
+ NUMBER OF LINES:  102    NUMBER OF POINTS:   368    max.ph.:  388
+ LEVEL:  1   SQUARE: (  8 ,  8 ) LINE    25   REACTION   25: OPEN END              
+     16  3125  Y =           4812.5000 ,      2 REACTIONS:   25   26
+     16  3141  X =            768.7500 ,      2 REACTIONS:   25   32
+ NUMBER OF LINES:  102    NUMBER OF POINTS:   372    max.ph.:  380
+ LEVEL:  1   SQUARE: ( 11 ,  7 ) LINE    27   REACTION   27: OPEN END              
+      3  3144  Y =           4237.5000 ,      0 REACTIONS:
+      2  3146  X =            824.2500 ,      0 REACTIONS:
+ NUMBER OF LINES:  102    NUMBER OF POINTS:   372    max.ph.:  332
+ LEVEL:  1   SQUARE: ( 13 ,  8 ) LINE    28   REACTION   28: OPEN END              
+     10  3156  Y =           4812.5000 ,      1 REACTIONS:   35
+     13  3169  X =            861.2500 ,      2 REACTIONS:   28   83
+ NUMBER OF LINES:  102    NUMBER OF POINTS:   375    max.ph.:  368
+ LEVEL:  1   SQUARE: (  5 ,  9 ) LINE    30   REACTION   30: OPEN END              
+     10  3179  Y =           5387.5000 ,      2 REACTIONS:   40   41
+      9  3188  X =            713.2500 ,      1 REACTIONS:   30
+ NUMBER OF LINES:  102    NUMBER OF POINTS:   378    max.ph.:  395
+ LEVEL:  1   SQUARE: (  9 ,  9 ) LINE    32   REACTION   32: OPEN END              
+     15  3203  Y =           5387.5000 ,      2 REACTIONS:   32   33
+     14  3217  X =            787.2500 ,      2 REACTIONS:   33   32
+ NUMBER OF LINES:  102    NUMBER OF POINTS:   382    max.ph.:  403
+ LEVEL:  1   SQUARE: ( 10 , 10 ) LINE    34   REACTION   34: OPEN END              
+     16  3233  Y =           5962.5000 ,      2 REACTIONS:   89   34
+     15  3248  X =            805.7500 ,      2 REACTIONS:   81   43
+ NUMBER OF LINES:  102    NUMBER OF POINTS:   386    max.ph.:  332
+ LEVEL:  1   SQUARE: ( 14 , 10 ) LINE    35   REACTION   35: OPEN END              
+     10  3258  Y =           5962.5000 ,      1 REACTIONS:   35
+     16  3274  X =            879.7500 ,      2 REACTIONS:   35   81
+ NUMBER OF LINES:  102    NUMBER OF POINTS:   389    max.ph.:  330
+ LEVEL:  1   SQUARE: (  1 , 11 ) LINE    37   REACTION   37: OPEN END              
+     21  3295  Y =           6537.5000 ,      3 REACTIONS:   46   47   48
+     19  3314  X =            639.2500 ,      3 REACTIONS:   48   47   46
+ NUMBER OF LINES:  102    NUMBER OF POINTS:   395    max.ph.:  358
+ LEVEL:  1   SQUARE: (  1 , 10 ) LINE    37   REACTION   37: TWO POINTS            
+      3  3317  Y =           5962.5000 ,      0 REACTIONS:
+      2  3319  X =            639.2500 ,      0 REACTIONS:
+ NUMBER OF LINES:  102    NUMBER OF POINTS:   395    max.ph.:  404
+ LEVEL:  1   SQUARE: (  7 , 14 ) LINE    40   REACTION   40: OPEN END              
+     10  3329  Y =           8262.5000 ,      1 REACTIONS:   40
+     15  3344  X =            750.2500 ,      2 REACTIONS:   40   76
+ NUMBER OF LINES:  102    NUMBER OF POINTS:   398    max.ph.:  388
+ LEVEL:  1   SQUARE: (  7 , 13 ) LINE    41   REACTION   41: OPEN END              
+     17  3361  Y =           7687.5000 ,      2 REACTIONS:   40   41
+      2  3363  X =            750.2500 ,      0 REACTIONS:
+ NUMBER OF LINES:  102    NUMBER OF POINTS:   400    max.ph.:  432
+ LEVEL:  1   SQUARE: (  8 , 13 ) LINE    42   REACTION   41: OPEN END              
+      3  3366  Y =           7687.5000 ,      0 REACTIONS:
+      2  3368  X =            768.7500 ,      0 REACTIONS:
+ NUMBER OF LINES:  102    NUMBER OF POINTS:   400    max.ph.:  410
+ LEVEL:  1   SQUARE: (  8 , 15 ) LINE    42   REACTION   41: OPEN END              
+     10  3378  Y =           8837.5000 ,      1 REACTIONS:   59
+      9  3387  X =            768.7500 ,      1 REACTIONS:   92
+ NUMBER OF LINES:  102    NUMBER OF POINTS:   402    max.ph.:  412
+ LEVEL:  1   SQUARE: (  8 , 14 ) LINE    42   REACTION   41: TWO POINTS            
+     10  3397  Y =           8262.5000 ,      1 REACTIONS:   41
+      9  3406  X =            768.7500 ,      1 REACTIONS:   41
+ NUMBER OF LINES:  102    NUMBER OF POINTS:   404    max.ph.:  413
+ LEVEL:  1   SQUARE: ( 11 , 12 ) LINE    44   REACTION   43: OPEN END              
+     10  3416  Y =           7112.5000 ,      1 REACTIONS:   43
+      9  3425  X =            824.2500 ,      1 REACTIONS:   43
+ NUMBER OF LINES:  102    NUMBER OF POINTS:   406    max.ph.:  293
+ LEVEL:  1   SQUARE: ( 14 , 12 ) LINE    45   REACTION   44: OPEN END              
+     10  3435  Y =           7112.5000 ,      1 REACTIONS:   50
+     17  3452  X =            879.7500 ,      3 REACTIONS:   44   85   50
+ NUMBER OF LINES:  102    NUMBER OF POINTS:   410    max.ph.:  324
+ LEVEL:  1   SQUARE: (  3 , 14 ) LINE    47   REACTION   46: OPEN END              
+     10  3462  Y =           8262.5000 ,      1 REACTIONS:   51
+      9  3471  X =            676.2500 ,      1 REACTIONS:   75
+ NUMBER OF LINES:  102    NUMBER OF POINTS:   412    max.ph.:  588
+ LEVEL:  1   SQUARE: (  6 , 14 ) LINE    49   REACTION   48: OPEN END              
+     10  3481  Y =           8262.5000 ,      1 REACTIONS:   48
+ REACTION:  93  21  =  43
+ position:      7.31750E+02   8.36582E+03      7.31750E+02   8.36807E+03
+ LABELED WITH ASSEMBLAGES
+ REACTION: BI07 WM02 H2O q sill = GT07W2 BI07 WM02 H2O q ky
+      9  3490  X =            731.7500 ,      1 REACTIONS:   93
+ NUMBER OF LINES:  103    NUMBER OF POINTS:   414    max.ph.:  383
+ LEVEL:  1   SQUARE: ( 11 , 18 ) LINE    50   REACTION   49: OPEN END              
+     16  3506  Y =          10562.5000 ,      2 REACTIONS:   64   65
+      9  3515  X =            824.2500 ,      1 REACTIONS:   82
+ NUMBER OF LINES:  103    NUMBER OF POINTS:   417    max.ph.:  298
+ LEVEL:  1   SQUARE: (  2 , 16 ) LINE    52   REACTION   51: OPEN END              
+     10  3525  Y =           9412.5000 ,      1 REACTIONS:   51
+      9  3534  X =            657.7500 ,      1 REACTIONS:   51
+ NUMBER OF LINES:  103    NUMBER OF POINTS:   419    max.ph.:  323
+ LEVEL:  1   SQUARE: (  7 , 15 ) LINE    53   REACTION   52: OPEN END              
+ REACTION:  94  44  =  48
+ position:      7.56609E+02   8.83750E+03      7.56682E+02   8.83750E+03
+ LABELED WITH ASSEMBLAGES
+ REACTION: GT07W2 BI07 WM02 H2O q sill = GT07W2 BI07 WM02 LIQtc q sill
+     16  3550  Y =           8837.5000 ,      2 REACTIONS:   52   94
+      9  3559  X =            750.2500 ,      1 REACTIONS:   52
+ NUMBER OF LINES:  104    NUMBER OF POINTS:   422    max.ph.:  347
+ LEVEL:  1   SQUARE: (  2 , 18 ) LINE    57   REACTION   56: OPEN END              
+      3  3562  Y =          10562.5000 ,      0 REACTIONS:
+      2  3564  X =            657.7500 ,      0 REACTIONS:
+ NUMBER OF LINES:  104    NUMBER OF POINTS:   422    max.ph.:  335
+ LEVEL:  1   SQUARE: (  2 , 17 ) LINE    57   REACTION   56: TWO POINTS            
+     10  3574  Y =           9987.5000 ,      1 REACTIONS:   56
+      9  3583  X =            657.7500 ,      1 REACTIONS:   74
+ NUMBER OF LINES:  104    NUMBER OF POINTS:   424    max.ph.:  326
+ LEVEL:  1   SQUARE: (  8 , 17 ) LINE    58   REACTION   57: OPEN END              
+     12  3595  Y =           9987.5000 ,      2 REACTIONS:   60   61
+      9  3604  X =            768.7500 ,      1 REACTIONS:   78
+ NUMBER OF LINES:  104    NUMBER OF POINTS:   427    max.ph.:  348
+ LEVEL:  1   SQUARE: (  9 , 17 ) LINE    59   REACTION   58: OPEN END              
+     10  3614  Y =           9987.5000 ,      1 REACTIONS:   62
+      9  3623  X =            787.2500 ,      1 REACTIONS:   78
+ NUMBER OF LINES:  104    NUMBER OF POINTS:   429    max.ph.:  391
+ LEVEL:  1   SQUARE: ( 10 , 18 ) LINE    63   REACTION   62: BUMP                  
+     16  3639  Y =          10562.5000 ,      2 REACTIONS:   62   63
+      9  3648  X =            805.7500 ,      1 REACTIONS:   63
+ NUMBER OF LINES:  104    NUMBER OF POINTS:   432    max.ph.:  321
+ LEVEL:  1   SQUARE: ( 11 , 20 ) LINE    64   REACTION   63: OPEN END              
+     17  3665  Y =          11712.5000 ,      2 REACTIONS:   63   64
+ REACTION:  95  51  =  56
+ position:      8.24250E+02   1.18787E+04      8.24250E+02   1.18810E+04
+ LABELED WITH ASSEMBLAGES
+ REACTION: GT07W2 BI07 LIQtc q ky san = GT07W2 WM02 LIQtc q ky san
+     13  3678  X =            824.2500 ,      2 REACTIONS:   95   67
+ NUMBER OF LINES:  105    NUMBER OF POINTS:   436    max.ph.:  319
+ LEVEL:  1   SQUARE: (  1 , 18 ) LINE    74   REACTION   73: TWO POINTS            
+     10  3688  Y =          10562.5000 ,      1 REACTIONS:   73
+      9  3697  X =            639.2500 ,      1 REACTIONS:   73
+ NUMBER OF LINES:  105    NUMBER OF POINTS:   438    max.ph.:  334
+ LEVEL:  2   SQUARE: (  1 ,  1 ) LINE     1   REACTION    1: OPEN END              
+      3  3700  Y =            643.7500 ,      0 REACTIONS:
+      8  3708  X =            634.6250 ,      2 REACTIONS:    1    2
+ NUMBER OF LINES:  105    NUMBER OF POINTS:   440    max.ph.:  348
+ LEVEL:  2   SQUARE: ( 15 ,  4 ) LINE     3   REACTION    3: OPEN END              
+     11  3719  Y =           1506.2500 ,      2 REACTIONS:    9   10
+      8  3727  X =            764.1250 ,      2 REACTIONS:    9   10
+ NUMBER OF LINES:  105    NUMBER OF POINTS:   444    max.ph.:  395
+ LEVEL:  2   SQUARE: ( 18 ,  2 ) LINE     6   REACTION    6: OPEN END              
+     10  3737  Y =            931.2500 ,      2 REACTIONS:    5    6
+ REACTION:  96   9  =  11
+ position:      7.91875E+02   9.42480E+02      7.91875E+02   9.44727E+02
+ LABELED WITH ASSEMBLAGES
+ REACTION: OPX CRD LIQtc H2O q san = OPX CRD LIQtc q
+     13  3750  X =            791.8750 ,      3 REACTIONS:    5   96   13
+ NUMBER OF LINES:  106    NUMBER OF POINTS:   449    max.ph.:  374
+ LEVEL:  2   SQUARE: ( 19 ,  2 ) LINE     7   REACTION    7: OPEN END              
+      9  3759  Y =            931.2500 ,      1 REACTIONS:    7
+     23  3782  X =            801.1250 ,      5 REACTIONS:    5    6    7   79   14
+ NUMBER OF LINES:  106    NUMBER OF POINTS:   455    max.ph.:  364
+ LEVEL:  2   SQUARE: ( 33 ,  2 ) LINE     8   REACTION    8: OPEN END              
+      9  3791  Y =            931.2500 ,      1 REACTIONS:   15
+     14  3805  X =            930.6250 ,      2 REACTIONS:   86   15
+ NUMBER OF LINES:  106    NUMBER OF POINTS:   458    max.ph.:  361
+ LEVEL:  2   SQUARE: ( 12 ,  7 ) LINE     9   REACTION    9: OPEN END              
+      9  3814  Y =           2368.7500 ,      1 REACTIONS:   20
+      8  3822  X =            736.3750 ,      2 REACTIONS:    9   10
+ NUMBER OF LINES:  109    NUMBER OF POINTS:   461    max.ph.:  419
+ LEVEL:  2   SQUARE: ( 18 , 10 ) LINE    11   REACTION   11: OPEN END              
+ REACTION:  97  26  =  16
+ position:      7.93682E+02   3.23125E+03      7.93754E+02   3.23125E+03
+ LABELED WITH ASSEMBLAGES
+ REACTION: GT07W2 BI07 CRD LIQtc q san = BI07 OPX CRD LIQtc q san
+     17  3839  Y =           3231.2500 ,      3 REACTIONS:   26   97   12
+      8  3847  X =            791.8750 ,      1 REACTIONS:   97
+ NUMBER OF LINES:  110    NUMBER OF POINTS:   465    max.ph.:  422
+ LEVEL:  2   SQUARE: ( 24 , 11 ) LINE    13   REACTION   13: OPEN END              
+      9  3856  Y =           3518.7500 ,      1 REACTIONS:   13
+     12  3868  X =            847.3750 ,      2 REACTIONS:   13   80
+ NUMBER OF LINES:  110    NUMBER OF POINTS:   468    max.ph.:  378
+ LEVEL:  2   SQUARE: (  2 ,  9 ) LINE    16   REACTION   16: OPEN END              
+      9  3877  Y =           2943.7500 ,      1 REACTIONS:   16
+     14  3891  X =            643.8750 ,      2 REACTIONS:   16   71
+ NUMBER OF LINES:  110    NUMBER OF POINTS:   471    max.ph.:  374
+ LEVEL:  2   SQUARE: (  3 ,  9 ) LINE    17   REACTION   17: OPEN END              
+      9  3900  Y =           2943.7500 ,      1 REACTIONS:   88
+     13  3913  X =            653.1250 ,      2 REACTIONS:   17   88
+ NUMBER OF LINES:  110    NUMBER OF POINTS:   474    max.ph.:  373
+ LEVEL:  2   SQUARE: (  5 ,  8 ) LINE    18   REACTION   18: OPEN END              
+      3  3916  Y =           2656.2500 ,      0 REACTIONS:
+      8  3924  X =            671.6250 ,      1 REACTIONS:   19
+ NUMBER OF LINES:  110    NUMBER OF POINTS:   475    max.ph.:  424
+ LEVEL:  2   SQUARE: ( 10 , 12 ) LINE    19   REACTION   19: OPEN END              
+      9  3933  Y =           3806.2500 ,      1 REACTIONS:   24
+      2  3935  X =            717.8750 ,      0 REACTIONS:
+ NUMBER OF LINES:  110    NUMBER OF POINTS:   476    max.ph.:  368
+ LEVEL:  2   SQUARE: ( 11 ,  8 ) LINE    20   REACTION   20: OPEN END              
+      3  3938  Y =           2656.2500 ,      0 REACTIONS:
+      2  3940  X =            727.1250 ,      0 REACTIONS:
+ NUMBER OF LINES:  110    NUMBER OF POINTS:   476    max.ph.:  397
+ LEVEL:  2   SQUARE: ( 11 ,  9 ) LINE    20   REACTION   20: OPEN END              
+     11  3951  Y =           2943.7500 ,      2 REACTIONS:    9   10
+      9  3960  X =            727.1250 ,      2 REACTIONS:    9   10
+ NUMBER OF LINES:  110    NUMBER OF POINTS:   480    max.ph.:  436
+ LEVEL:  2   SQUARE: (  5 , 12 ) LINE    21   REACTION   21: OPEN END              
+      9  3969  Y =           3806.2500 ,      1 REACTIONS:   30
+      8  3977  X =            671.6250 ,      1 REACTIONS:   30
+ NUMBER OF LINES:  110    NUMBER OF POINTS:   482    max.ph.:  393
+ LEVEL:  2   SQUARE: (  5 , 13 ) LINE    21   REACTION   21: OPEN END              
+      3  3980  Y =           4093.7500 ,      0 REACTIONS:
+      2  3982  X =            671.6250 ,      0 REACTIONS:
+ NUMBER OF LINES:  110    NUMBER OF POINTS:   482    max.ph.:  371
+ LEVEL:  2   SQUARE: ( 10 , 13 ) LINE    23   REACTION   23: OPEN END              
+     15  3997  Y =           4093.7500 ,      2 REACTIONS:   31   32
+     13  4010  X =            717.8750 ,      2 REACTIONS:   23   31
+ NUMBER OF LINES:  110    NUMBER OF POINTS:   486    max.ph.:  411
+ LEVEL:  2   SQUARE: ( 16 , 16 ) LINE    25   REACTION   25: OPEN END              
+      9  4019  Y =           4956.2500 ,      1 REACTIONS:   33
+      8  4027  X =            773.3750 ,      1 REACTIONS:   25
+ NUMBER OF LINES:  110    NUMBER OF POINTS:   488    max.ph.:  368
+ LEVEL:  2   SQUARE: ( 21 , 14 ) LINE    27   REACTION   27: OPEN END              
+      3  4030  Y =           4381.2500 ,      0 REACTIONS:
+      8  4038  X =            819.6250 ,      1 REACTIONS:   83
+ NUMBER OF LINES:  110    NUMBER OF POINTS:   489    max.ph.:  366
+ LEVEL:  2   SQUARE: ( 26 , 15 ) LINE    28   REACTION   28: OPEN END              
+     13  4051  Y =           4668.7500 ,      2 REACTIONS:   35   36
+      8  4059  X =            865.8750 ,      1 REACTIONS:   36
+ NUMBER OF LINES:  110    NUMBER OF POINTS:   492    max.ph.:  414
+ LEVEL:  2   SQUARE: (  6 , 14 ) LINE    30   REACTION   30: OPEN END              
+      3  4062  Y =           4381.2500 ,      0 REACTIONS:
+      2  4064  X =            680.8750 ,      0 REACTIONS:
+ NUMBER OF LINES:  110    NUMBER OF POINTS:   492    max.ph.:  400
+ LEVEL:  2   SQUARE: ( 10 , 17 ) LINE    30   REACTION   30: OPEN END              
+      9  4073  Y =           5243.7500 ,      1 REACTIONS:   31
+      2  4075  X =            717.8750 ,      0 REACTIONS:
+ NUMBER OF LINES:  110    NUMBER OF POINTS:   493    max.ph.:  428
+ LEVEL:  2   SQUARE: ( 18 , 18 ) LINE    32   REACTION   32: OPEN END              
+     13  4088  Y =           5531.2500 ,      2 REACTIONS:   42   89
+      8  4096  X =            791.8750 ,      1 REACTIONS:   89
+ NUMBER OF LINES:  110    NUMBER OF POINTS:   496    max.ph.:  322
+ LEVEL:  2   SQUARE: ( 19 , 20 ) LINE    34   REACTION   34: OPEN END              
+      9  4105  Y =           6106.2500 ,      1 REACTIONS:   43
+     11  4116  X =            801.1250 ,      3 REACTIONS:   34   81   43
+ NUMBER OF LINES:  110    NUMBER OF POINTS:   500    max.ph.:  339
+ LEVEL:  2   SQUARE: ( 28 , 20 ) LINE    35   REACTION   35: OPEN END              
+      9  4125  Y =           6106.2500 ,      1 REACTIONS:   35
+      8  4133  X =            884.3750 ,      1 REACTIONS:   45
+ NUMBER OF LINES:  110    NUMBER OF POINTS:   502    max.ph.:  382
+ LEVEL:  2   SQUARE: (  1 , 21 ) LINE    37   REACTION   37: OPEN END              
+      9  4142  Y =           6393.7500 ,      1 REACTIONS:   46
+      8  4150  X =            634.6250 ,      1 REACTIONS:   37
+ NUMBER OF LINES:  110    NUMBER OF POINTS:   504    max.ph.:  407
+ LEVEL:  2   SQUARE: (  1 , 20 ) LINE    38   REACTION   38: TWO POINTS            
+     12  4162  Y =           6106.2500 ,      2 REACTIONS:   38   39
+     11  4173  X =            634.6250 ,      2 REACTIONS:   39   38
+ NUMBER OF LINES:  110    NUMBER OF POINTS:   508    max.ph.:  406
+ LEVEL:  2   SQUARE: ( 14 , 28 ) LINE    40   REACTION   40: OPEN END              
+      9  4182  Y =           8406.2500 ,      1 REACTIONS:   40
+      2  4184  X =            754.8750 ,      0 REACTIONS:
+ NUMBER OF LINES:  110    NUMBER OF POINTS:   509    max.ph.:  404
+ LEVEL:  2   SQUARE: ( 14 , 26 ) LINE    41   REACTION   41: OPEN END              
+      9  4193  Y =           7831.2500 ,      1 REACTIONS:   41
+      2  4195  X =            754.8750 ,      0 REACTIONS:
+ NUMBER OF LINES:  110    NUMBER OF POINTS:   510    max.ph.:  425
+ LEVEL:  2   SQUARE: ( 15 , 26 ) LINE    42   REACTION   41: OPEN END              
+      3  4198  Y =           7831.2500 ,      0 REACTIONS:
+      2  4200  X =            764.1250 ,      0 REACTIONS:
+ NUMBER OF LINES:  110    NUMBER OF POINTS:   510    max.ph.:  411
+ LEVEL:  2   SQUARE: ( 16 , 29 ) LINE    42   REACTION   41: OPEN END              
+     20  4220  Y =           8693.7500 ,      3 REACTIONS:   92   41   42
+     14  4234  X =            773.3750 ,      3 REACTIONS:   90   91   92
+ NUMBER OF LINES:  113    NUMBER OF POINTS:   516    max.ph.:  379
+ LEVEL:  2   SQUARE: ( 22 , 24 ) LINE    44   REACTION   43: OPEN END              
+      9  4243  Y =           7256.2500 ,      1 REACTIONS:   49
+      2  4245  X =            828.8750 ,      0 REACTIONS:
+ NUMBER OF LINES:  113    NUMBER OF POINTS:   517    max.ph.:  289
+ LEVEL:  2   SQUARE: ( 27 , 23 ) LINE    45   REACTION   44: OPEN END              
+     11  4256  Y =           6968.7500 ,      2 REACTIONS:   84   50
+      8  4264  X =            875.1250 ,      1 REACTIONS:   84
+ NUMBER OF LINES:  113    NUMBER OF POINTS:   520    max.ph.:  314
+ LEVEL:  2   SQUARE: (  5 , 27 ) LINE    47   REACTION   46: OPEN END              
+     14  4278  Y =           8118.7500 ,      2 REACTIONS:   46   47
+      8  4286  X =            671.6250 ,      1 REACTIONS:   75
+ NUMBER OF LINES:  113    NUMBER OF POINTS:   523    max.ph.:  362
+ LEVEL:  2   SQUARE: ( 11 , 28 ) LINE    49   REACTION   48: OPEN END              
+      3  4289  Y =           8406.2500 ,      0 REACTIONS:
+     13  4302  X =            727.1250 ,      2 REACTIONS:   48   75
+ NUMBER OF LINES:  113    NUMBER OF POINTS:   525    max.ph.:  367
+ LEVEL:  2   SQUARE: ( 22 , 35 ) LINE    50   REACTION   49: OPEN END              
+     14  4316  Y =          10418.7500 ,      2 REACTIONS:   82   49
+      8  4324  X =            828.8750 ,      1 REACTIONS:   65
+ NUMBER OF LINES:  113    NUMBER OF POINTS:   528    max.ph.:  333
+ LEVEL:  2   SQUARE: (  3 , 32 ) LINE    52   REACTION   51: OPEN END              
+      3  4327  Y =           9556.2500 ,      0 REACTIONS:
+      8  4335  X =            653.1250 ,      1 REACTIONS:   54
+ NUMBER OF LINES:  113    NUMBER OF POINTS:   529    max.ph.:  335
+ LEVEL:  2   SQUARE: ( 12 , 28 ) LINE    53   REACTION   52: OPEN END              
+     14  4349  Y =           8406.2500 ,      2 REACTIONS:   52   76
+     12  4361  X =            736.3750 ,      2 REACTIONS:   76   52
+ NUMBER OF LINES:  113    NUMBER OF POINTS:   533    max.ph.:  345
+ LEVEL:  2   SQUARE: ( 14 , 30 ) LINE    53   REACTION   52: OPEN END              
+      9  4370  Y =           8981.2500 ,      1 REACTIONS:   57
+      8  4378  X =            754.8750 ,      1 REACTIONS:   52
+ NUMBER OF LINES:  113    NUMBER OF POINTS:   535    max.ph.:  352
+ LEVEL:  2   SQUARE: ( 14 , 29 ) LINE    54   REACTION   53: OPEN END              
+      9  4387  Y =           8693.7500 ,      1 REACTIONS:   94
+     14  4401  X =            754.8750 ,      2 REACTIONS:   92   94
+ NUMBER OF LINES:  113    NUMBER OF POINTS:   538    max.ph.:  379
+ LEVEL:  2   SQUARE: (  3 , 35 ) LINE    57   REACTION   56: OPEN END              
+      3  4404  Y =          10418.7500 ,      0 REACTIONS:
+      2  4406  X =            653.1250 ,      0 REACTIONS:
+ NUMBER OF LINES:  113    NUMBER OF POINTS:   538    max.ph.:  335
+ LEVEL:  2   SQUARE: ( 15 , 33 ) LINE    58   REACTION   57: OPEN END              
+     10  4416  Y =           9843.7500 ,      2 REACTIONS:   60   61
+      8  4424  X =            764.1250 ,      1 REACTIONS:   74
+ NUMBER OF LINES:  113    NUMBER OF POINTS:   541    max.ph.:  399
+ LEVEL:  2   SQUARE: ( 18 , 33 ) LINE    59   REACTION   58: OPEN END              
+     13  4437  Y =           9843.7500 ,      2 REACTIONS:   62   63
+      8  4445  X =            791.8750 ,      1 REACTIONS:   78
+ NUMBER OF LINES:  113    NUMBER OF POINTS:   544    max.ph.:  412
+ LEVEL:  2   SQUARE: ( 21 , 40 ) LINE    64   REACTION   63: OPEN END              
+     14  4459  Y =          11856.2500 ,      3 REACTIONS:   66   67   95
+      2  4461  X =            819.6250 ,      0 REACTIONS:
+ NUMBER OF LINES:  113    NUMBER OF POINTS:   547    max.ph.:  333
+ LEVEL:  2   SQUARE: ( 22 , 40 ) LINE    65   REACTION   64: OPEN END              
+      9  4470  Y =          11856.2500 ,      1 REACTIONS:   64
+      2  4472  X =            828.8750 ,      0 REACTIONS:
+ NUMBER OF LINES:  113    NUMBER OF POINTS:   548    max.ph.:  314
+ LEVEL:  2   SQUARE: ( 12 ,  8 ) LINE    97   REACTION   20: OPEN END              
+      9  4481  Y =           2656.2500 ,      2 REACTIONS:    9   10
+      2  4483  X =            736.3750 ,      0 REACTIONS:
+ NUMBER OF LINES:  113    NUMBER OF POINTS:   550    max.ph.:  430
+ LEVEL:  2   SQUARE: (  6 , 13 ) LINE   100   REACTION   21: OPEN END              
+      9  4492  Y =           4093.7500 ,      1 REACTIONS:   30
+      8  4500  X =            680.8750 ,      1 REACTIONS:   30
+ NUMBER OF LINES:  113    NUMBER OF POINTS:   552    max.ph.:  402
+ LEVEL:  3   SQUARE: (  1 ,  1 ) LINE     1   REACTION    1: OPEN END              
+      3  4503  Y =            571.8750 ,      0 REACTIONS:
+      7  4510  X =            632.3125 ,      2 REACTIONS:    1    2
+ NUMBER OF LINES:  113    NUMBER OF POINTS:   554    max.ph.:  353
+ LEVEL:  3   SQUARE: ( 30 ,  7 ) LINE     3   REACTION    3: OPEN END              
+     19  4529  Y =           1434.3750 ,      4 REACTIONS:    9   10   11   12
+     12  4541  X =            766.4375 ,      3 REACTIONS:    3    9   10
+ NUMBER OF LINES:  113    NUMBER OF POINTS:   561    max.ph.:  397
+ LEVEL:  3   SQUARE: ( 36 ,  4 ) LINE     6   REACTION    6: OPEN END              
+      8  4549  Y =           1003.1250 ,      1 REACTIONS:   13
+     12  4561  X =            794.1875 ,      2 REACTIONS:   87   13
+ NUMBER OF LINES:  113    NUMBER OF POINTS:   564    max.ph.:  392
+ LEVEL:  3   SQUARE: ( 37 ,  4 ) LINE     7   REACTION    7: OPEN END              
+      3  4564  Y =           1003.1250 ,      0 REACTIONS:
+     10  4574  X =            798.8125 ,      2 REACTIONS:   79   14
+ NUMBER OF LINES:  113    NUMBER OF POINTS:   566    max.ph.:  379
+ LEVEL:  3   SQUARE: ( 65 ,  3 ) LINE     8   REACTION    8: OPEN END              
+      8  4582  Y =            859.3750 ,      1 REACTIONS:   15
+      7  4589  X =            928.3125 ,      1 REACTIONS:   79
+ NUMBER OF LINES:  113    NUMBER OF POINTS:   568    max.ph.:  416
+ LEVEL:  3   SQUARE: ( 24 , 13 ) LINE     9   REACTION    9: OPEN END              
+      8  4597  Y =           2296.8750 ,      2 REACTIONS:    9   10
+      2  4599  X =            738.6875 ,      0 REACTIONS:
+ NUMBER OF LINES:  113    NUMBER OF POINTS:   570    max.ph.:  414
+ LEVEL:  3   SQUARE: ( 35 , 19 ) LINE    11   REACTION   11: OPEN END              
+      8  4607  Y =           3159.3750 ,      1 REACTIONS:   26
+      2  4609  X =            789.5625 ,      0 REACTIONS:
+ NUMBER OF LINES:  113    NUMBER OF POINTS:   571    max.ph.:  402
+ LEVEL:  3   SQUARE: ( 36 , 20 ) LINE    12   REACTION   12: OPEN END              
+      8  4617  Y =           3303.1250 ,      1 REACTIONS:   27
+      8  4625  X =            794.1875 ,      2 REACTIONS:   12   97
+ NUMBER OF LINES:  113    NUMBER OF POINTS:   574    max.ph.:  393
+ LEVEL:  3   SQUARE: ( 35 ,  4 ) LINE    13   REACTION   13: OPEN END              
+     10  4635  Y =           1003.1250 ,      2 REACTIONS:    5   77
+      7  4642  X =            789.5625 ,      2 REACTIONS:    5   77
+ NUMBER OF LINES:  113    NUMBER OF POINTS:   578    max.ph.:  347
+ LEVEL:  3   SQUARE: ( 48 , 22 ) LINE    13   REACTION   13: OPEN END              
+      3  4645  Y =           3590.6250 ,      0 REACTIONS:
+      7  4652  X =            849.6875 ,      1 REACTIONS:   29
+ NUMBER OF LINES:  113    NUMBER OF POINTS:   579    max.ph.:  415
+ LEVEL:  3   SQUARE: (  4 , 18 ) LINE    16   REACTION   16: OPEN END              
+     13  4665  Y =           3015.6250 ,      2 REACTIONS:   71   30
+      9  4674  X =            646.1875 ,      2 REACTIONS:   16   71
+ NUMBER OF LINES:  113    NUMBER OF POINTS:   583    max.ph.:  374
+ LEVEL:  3   SQUARE: (  6 , 17 ) LINE    17   REACTION   17: OPEN END              
+     13  4687  Y =           2871.8750 ,      2 REACTIONS:   88   23
+ REACTION:  98  20  =  22
+ position:      6.55438E+02   2.85615E+03      6.55438E+02   2.85840E+03
+ LABELED WITH ASSEMBLAGES
+ REACTION: BI07 CRD H2O q and san = BI07 H2O q sill san
+      7  4694  X =            655.4375 ,      1 REACTIONS:   98
+ NUMBER OF LINES:  114    NUMBER OF POINTS:   586    max.ph.:  346
+ LEVEL:  3   SQUARE: (  9 , 16 ) LINE    18   REACTION   18: OPEN END              
+      8  4702  Y =           2728.1250 ,      1 REACTIONS:   19
+      7  4709  X =            669.3125 ,      1 REACTIONS:   19
+ NUMBER OF LINES:  114    NUMBER OF POINTS:   588    max.ph.:  372
+ LEVEL:  3   SQUARE: ( 20 , 23 ) LINE    19   REACTION   19: OPEN END              
+     13  4722  Y =           3734.3750 ,      2 REACTIONS:   24   25
+      7  4729  X =            720.1875 ,      1 REACTIONS:   25
+ NUMBER OF LINES:  114    NUMBER OF POINTS:   591    max.ph.:  443
+ LEVEL:  3   SQUARE: ( 22 , 16 ) LINE    20   REACTION   20: OPEN END              
+      3  4732  Y =           2728.1250 ,      0 REACTIONS:
+      2  4734  X =            729.4375 ,      0 REACTIONS:
+ NUMBER OF LINES:  114    NUMBER OF POINTS:   591    max.ph.:  410
+ LEVEL:  3   SQUARE: ( 22 , 17 ) LINE    20   REACTION   20: OPEN END              
+      8  4742  Y =           2871.8750 ,      2 REACTIONS:    9   10
+      7  4749  X =            729.4375 ,      2 REACTIONS:    9   10
+ NUMBER OF LINES:  114    NUMBER OF POINTS:   595    max.ph.:  373
+ LEVEL:  3   SQUARE: ( 10 , 24 ) LINE    21   REACTION   21: OPEN END              
+      8  4757  Y =           3878.1250 ,      1 REACTIONS:   30
+      7  4764  X =            673.9375 ,      1 REACTIONS:   30
+ NUMBER OF LINES:  114    NUMBER OF POINTS:   597    max.ph.:  389
+ LEVEL:  3   SQUARE: ( 10 , 25 ) LINE    21   REACTION   21: OPEN END              
+      3  4767  Y =           4021.8750 ,      0 REACTIONS:
+      2  4769  X =            673.9375 ,      0 REACTIONS:
+ NUMBER OF LINES:  114    NUMBER OF POINTS:   597    max.ph.:  401
+ LEVEL:  3   SQUARE: ( 20 , 25 ) LINE    23   REACTION   23: OPEN END              
+     10  4779  Y =           4021.8750 ,      2 REACTIONS:   31   32
+      7  4786  X =            720.1875 ,      1 REACTIONS:   32
+ NUMBER OF LINES:  114    NUMBER OF POINTS:   600    max.ph.:  424
+ LEVEL:  3   SQUARE: ( 32 , 31 ) LINE    25   REACTION   25: OPEN END              
+     13  4799  Y =           4884.3750 ,      2 REACTIONS:   25   26
+      7  4806  X =            775.6875 ,      1 REACTIONS:   25
+ NUMBER OF LINES:  114    NUMBER OF POINTS:   603    max.ph.:  425
+ LEVEL:  3   SQUARE: ( 41 , 28 ) LINE    27   REACTION   27: OPEN END              
+      3  4809  Y =           4453.1250 ,      0 REACTIONS:
+      7  4816  X =            817.3125 ,      1 REACTIONS:   83
+ NUMBER OF LINES:  114    NUMBER OF POINTS:   604    max.ph.:  347
+ LEVEL:  3   SQUARE: ( 51 , 29 ) LINE    28   REACTION   28: OPEN END              
+      3  4819  Y =           4596.8750 ,      0 REACTIONS:
+      2  4821  X =            863.5625 ,      0 REACTIONS:
+ NUMBER OF LINES:  114    NUMBER OF POINTS:   604    max.ph.:  380
+ LEVEL:  3   SQUARE: ( 12 , 27 ) LINE    30   REACTION   30: OPEN END              
+      8  4829  Y =           4309.3750 ,      1 REACTIONS:   30
+      7  4836  X =            683.1875 ,      1 REACTIONS:   30
+ NUMBER OF LINES:  114    NUMBER OF POINTS:   606    max.ph.:  393
+ LEVEL:  3   SQUARE: ( 19 , 34 ) LINE    30   REACTION   30: OPEN END              
+      8  4844  Y =           5315.6250 ,      1 REACTIONS:   31
+      2  4846  X =            715.5625 ,      0 REACTIONS:
+ NUMBER OF LINES:  114    NUMBER OF POINTS:   607    max.ph.:  420
+ LEVEL:  3   SQUARE: ( 35 , 35 ) LINE    32   REACTION   32: OPEN END              
+      8  4854  Y =           5459.3750 ,      1 REACTIONS:   33
+      2  4856  X =            789.5625 ,      0 REACTIONS:
+ NUMBER OF LINES:  114    NUMBER OF POINTS:   608    max.ph.:  335
+ LEVEL:  3   SQUARE: ( 37 , 39 ) LINE    34   REACTION   34: OPEN END              
+      3  4859  Y =           6034.3750 ,      0 REACTIONS:
+      2  4861  X =            798.8125 ,      0 REACTIONS:
+ NUMBER OF LINES:  114    NUMBER OF POINTS:   608    max.ph.:  332
+ LEVEL:  3   SQUARE: ( 55 , 40 ) LINE    35   REACTION   35: OPEN END              
+      8  4869  Y =           6178.1250 ,      1 REACTIONS:   44
+      7  4876  X =            882.0625 ,      1 REACTIONS:   81
+ NUMBER OF LINES:  114    NUMBER OF POINTS:   610    max.ph.:  358
+ LEVEL:  3   SQUARE: (  2 , 41 ) LINE    37   REACTION   37: OPEN END              
+ REACTION:  99  41  =  35
+ position:      6.37588E+02   6.32188E+03      6.37660E+02   6.32188E+03
+ LABELED WITH ASSEMBLAGES
+ REACTION: BI07 WM02 ST H2O q ky = BI07 WM02 ST H2O q sill
+     13  4889  Y =           6321.8750 ,      3 REACTIONS:   46   99   39
+     10  4899  X =            636.9375 ,      3 REACTIONS:   39   38   37
+ NUMBER OF LINES:  115    NUMBER OF POINTS:   616    max.ph.:  395
+ LEVEL:  3   SQUARE: ( 27 , 56 ) LINE    40   REACTION   40: OPEN END              
+      8  4907  Y =           8478.1250 ,      1 REACTIONS:   40
+     11  4918  X =            752.5625 ,      2 REACTIONS:   40   76
+ NUMBER OF LINES:  115    NUMBER OF POINTS:   619    max.ph.:  361
+ LEVEL:  3   SQUARE: ( 28 , 52 ) LINE    41   REACTION   41: OPEN END              
+      3  4921  Y =           7903.1250 ,      0 REACTIONS:
+      2  4923  X =            757.1875 ,      0 REACTIONS:
+ NUMBER OF LINES:  115    NUMBER OF POINTS:   619    max.ph.:  413
+ LEVEL:  3   SQUARE: ( 29 , 52 ) LINE    42   REACTION   41: OPEN END              
+      8  4931  Y =           7903.1250 ,      1 REACTIONS:   41
+      7  4938  X =            761.8125 ,      1 REACTIONS:   41
+ NUMBER OF LINES:  115    NUMBER OF POINTS:   621    max.ph.:  410
+ LEVEL:  3   SQUARE: ( 31 , 57 ) LINE    42   REACTION   41: OPEN END              
+      3  4941  Y =           8621.8750 ,      0 REACTIONS:
+      2  4943  X =            771.0625 ,      0 REACTIONS:
+ NUMBER OF LINES:  115    NUMBER OF POINTS:   621    max.ph.:  395
+ LEVEL:  3   SQUARE: ( 32 , 58 ) LINE    43   REACTION   42: OPEN END              
+      8  4951  Y =           8765.6250 ,      1 REACTIONS:   59
+      9  4960  X =            775.6875 ,      2 REACTIONS:   41   92
+ NUMBER OF LINES:  115    NUMBER OF POINTS:   624    max.ph.:  417
+ LEVEL:  3   SQUARE: ( 44 , 47 ) LINE    44   REACTION   43: OPEN END              
+      8  4968  Y =           7184.3750 ,      1 REACTIONS:   49
+      7  4975  X =            831.1875 ,      1 REACTIONS:   43
+ NUMBER OF LINES:  115    NUMBER OF POINTS:   626    max.ph.:  290
+ LEVEL:  3   SQUARE: ( 54 , 45 ) LINE    45   REACTION   44: OPEN END              
+      3  4978  Y =           6896.8750 ,      0 REACTIONS:
+      2  4980  X =            877.4375 ,      0 REACTIONS:
+ NUMBER OF LINES:  115    NUMBER OF POINTS:   626    max.ph.:  300
+ LEVEL:  3   SQUARE: (  9 , 54 ) LINE    47   REACTION   46: OPEN END              
+ REACTION: 100  41  =  43
+ position:      6.70396E+02   8.19062E+03      6.70469E+02   8.19062E+03
+ LABELED WITH ASSEMBLAGES
+ REACTION: BI07 WM02 ST H2O q ky = GT07W2 BI07 WM02 H2O q ky
+     11  4991  Y =           8190.6250 ,      2 REACTIONS:   46  100
+     12  5003  X =            669.3125 ,      2 REACTIONS:   46   72
+ NUMBER OF LINES:  116    NUMBER OF POINTS:   630    max.ph.:  355
+ LEVEL:  3   SQUARE: ( 22 , 55 ) LINE    49   REACTION   48: OPEN END              
+      8  5011  Y =           8334.3750 ,      1 REACTIONS:   48
+     12  5023  X =            729.4375 ,      2 REACTIONS:   48   75
+ NUMBER OF LINES:  116    NUMBER OF POINTS:   633    max.ph.:  350
+ LEVEL:  3   SQUARE: ( 43 , 70 ) LINE    50   REACTION   49: OPEN END              
+     12  5035  Y =          10490.6250 ,      2 REACTIONS:   64   65
+      7  5042  X =            826.5625 ,      1 REACTIONS:   82
+ NUMBER OF LINES:  116    NUMBER OF POINTS:   636    max.ph.:  304
+ LEVEL:  3   SQUARE: (  6 , 64 ) LINE    52   REACTION   51: OPEN END              
+      8  5050  Y =           9628.1250 ,      1 REACTIONS:   51
+     10  5060  X =            655.4375 ,      2 REACTIONS:   54   55
+ NUMBER OF LINES:  116    NUMBER OF POINTS:   639    max.ph.:  357
+ LEVEL:  3   SQUARE: ( 23 , 55 ) LINE    53   REACTION   52: OPEN END              
+      3  5063  Y =           8334.3750 ,      0 REACTIONS:
+      7  5070  X =            734.0625 ,      1 REACTIONS:   76
+ NUMBER OF LINES:  116    NUMBER OF POINTS:   640    max.ph.:  383
+ LEVEL:  3   SQUARE: ( 28 , 59 ) LINE    53   REACTION   52: OPEN END              
+     13  5083  Y =           8909.3750 ,      2 REACTIONS:   52   94
+     12  5095  X =            757.1875 ,      2 REACTIONS:   94   52
+ NUMBER OF LINES:  116    NUMBER OF POINTS:   644    max.ph.:  340
+ LEVEL:  3   SQUARE: ( 27 , 57 ) LINE    54   REACTION   53: OPEN END              
+      8  5103  Y =           8621.8750 ,      1 REACTIONS:   94
+      2  5105  X =            752.5625 ,      0 REACTIONS:
+ NUMBER OF LINES:  116    NUMBER OF POINTS:   645    max.ph.:  348
+ LEVEL:  3   SQUARE: (  5 , 69 ) LINE    57   REACTION   56: OPEN END              
+      3  5108  Y =          10346.8750 ,      0 REACTIONS:
+      2  5110  X =            650.8125 ,      0 REACTIONS:
+ NUMBER OF LINES:  116    NUMBER OF POINTS:   645    max.ph.:  337
+ LEVEL:  3   SQUARE: ( 30 , 65 ) LINE    58   REACTION   57: OPEN END              
+      8  5118  Y =           9771.8750 ,      1 REACTIONS:   57
+      7  5125  X =            766.4375 ,      1 REACTIONS:   78
+ NUMBER OF LINES:  116    NUMBER OF POINTS:   647    max.ph.:  369
+ LEVEL:  3   SQUARE: ( 36 , 65 ) LINE    59   REACTION   58: OPEN END              
+ REACTION: 101  45  =  51
+ position:      7.94404E+02   9.77188E+03      7.94477E+02   9.77188E+03
+ LABELED WITH ASSEMBLAGES
+ REACTION: GT07W2 BI07 WM02 LIQtc q ky = GT07W2 BI07 LIQtc q ky san
+     12  5137  Y =           9771.8750 ,      2 REACTIONS:  101   82
+     15  5152  X =            794.1875 ,      3 REACTIONS:   82  101   78
+ NUMBER OF LINES:  117    NUMBER OF POINTS:   652    max.ph.:  330
+ LEVEL:  3   SQUARE: ( 42 , 79 ) LINE    64   REACTION   63: OPEN END              
+     11  5163  Y =          11784.3750 ,      3 REACTIONS:   66   67   95
+      7  5170  X =            821.9375 ,      1 REACTIONS:   63
+ NUMBER OF LINES:  117    NUMBER OF POINTS:   656    max.ph.:  300
+ LEVEL:  3   SQUARE: ( 43 , 80 ) LINE    65   REACTION   64: OPEN END              
+     15  5185  Y =          11928.1250 ,      3 REACTIONS:   67   95   64
+      2  5187  X =            826.5625 ,      0 REACTIONS:
+ NUMBER OF LINES:  117    NUMBER OF POINTS:   659    max.ph.:  332
+ LEVEL:  3   SQUARE: ( 23 , 14 ) LINE    97   REACTION   20: OPEN END              
+      3  5190  Y =           2440.6250 ,      0 REACTIONS:
+      2  5192  X =            734.0625 ,      0 REACTIONS:
+ NUMBER OF LINES:  117    NUMBER OF POINTS:   659    max.ph.:  409
+ LEVEL:  3   SQUARE: ( 23 , 15 ) LINE    97   REACTION   20: OPEN END              
+      8  5200  Y =           2584.3750 ,      1 REACTIONS:   20
+      7  5207  X =            734.0625 ,      2 REACTIONS:    9   10
+ NUMBER OF LINES:  117    NUMBER OF POINTS:   662    max.ph.:  409
+ LEVEL:  3   SQUARE: ( 12 , 26 ) LINE   100   REACTION   21: OPEN END              
+      3  5210  Y =           4165.6250 ,      0 REACTIONS:
+      2  5212  X =            683.1875 ,      0 REACTIONS:
+ NUMBER OF LINES:  117    NUMBER OF POINTS:   662    max.ph.:  379
+ LEVEL:  3   SQUARE: ( 24 , 14 ) LINE   107   REACTION   20: OPEN END              
+      8  5220  Y =           2440.6250 ,      2 REACTIONS:    9   10
+      7  5227  X =            738.6875 ,      2 REACTIONS:    9   10
+ NUMBER OF LINES:  117    NUMBER OF POINTS:   666    max.ph.:  406
+ LEVEL:  3   SQUARE: ( 32 , 57 ) LINE   111   REACTION   41: OPEN END              
+     13  5240  Y =           8621.8750 ,      3 REACTIONS:   91   90   42
+      2  5242  X =            775.6875 ,      0 REACTIONS:
+ NUMBER OF LINES:  117    NUMBER OF POINTS:   669    max.ph.:  404
+ LEVEL:  4   SQUARE: (  1 ,  2 ) LINE     1   REACTION    1: OPEN END              
+      3  5245  Y =            607.8125 ,      0 REACTIONS:
+      8  5253  X =            631.1562 ,      2 REACTIONS:    1    2
+ NUMBER OF LINES:  117    NUMBER OF POINTS:   671    max.ph.:  380
+ LEVEL:  4   SQUARE: ( 60 , 13 ) LINE     3   REACTION    3: OPEN END              
+     11  5264  Y =           1398.4375 ,      2 REACTIONS:   11   12
+     12  5276  X =            767.5938 ,      4 REACTIONS:    5   77   12   11
+ NUMBER OF LINES:  117    NUMBER OF POINTS:   677    max.ph.:  428
+ LEVEL:  4   SQUARE: ( 71 ,  7 ) LINE     6   REACTION    6: OPEN END              
+      7  5283  Y =            967.1875 ,      1 REACTIONS:   13
+     10  5293  X =            793.0312 ,      2 REACTIONS:   87   13
+ NUMBER OF LINES:  117    NUMBER OF POINTS:   680    max.ph.:  376
+ LEVEL:  4   SQUARE: ( 73 ,  7 ) LINE     7   REACTION    7: OPEN END              
+      3  5296  Y =            967.1875 ,      0 REACTIONS:
+      9  5305  X =            797.6562 ,      3 REACTIONS:    7   79   14
+ NUMBER OF LINES:  117    NUMBER OF POINTS:   683    max.ph.:  364
+ LEVEL:  4   SQUARE: (130 ,  5 ) LINE     8   REACTION    8: OPEN END              
+      7  5312  Y =            823.4375 ,      1 REACTIONS:   15
+      8  5320  X =            929.4688 ,      2 REACTIONS:    8   86
+ NUMBER OF LINES:  117    NUMBER OF POINTS:   686    max.ph.:  404
+ LEVEL:  4   SQUARE: ( 48 , 26 ) LINE     9   REACTION    9: OPEN END              
+      7  5327  Y =           2332.8125 ,      1 REACTIONS:   20
+      7  5334  X =            739.8438 ,      2 REACTIONS:    9   10
+ NUMBER OF LINES:  117    NUMBER OF POINTS:   689    max.ph.:  421
+ LEVEL:  4   SQUARE: ( 70 , 37 ) LINE    11   REACTION   11: OPEN END              
+      7  5341  Y =           3123.4375 ,      1 REACTIONS:   26
+      2  5343  X =            790.7188 ,      0 REACTIONS:
+ NUMBER OF LINES:  117    NUMBER OF POINTS:   690    max.ph.:  418
+ LEVEL:  4   SQUARE: ( 72 , 39 ) LINE    12   REACTION   12: OPEN END              
+ REACTION: 102  26  =  10
+ position:      7.94332E+02   3.26719E+03      7.94404E+02   3.26719E+03
+ LABELED WITH ASSEMBLAGES
+ REACTION: GT07W2 BI07 CRD LIQtc q san = OPX CRD LIQtc q san
+      7  5350  Y =           3267.1875 ,      1 REACTIONS:  102
+      6  5356  X =            795.3438 ,      1 REACTIONS:   80
+ NUMBER OF LINES:  118    NUMBER OF POINTS:   692    max.ph.:  364
+ LEVEL:  4   SQUARE: ( 70 ,  7 ) LINE    13   REACTION   13: OPEN END              
+      8  5364  Y =            967.1875 ,      2 REACTIONS:    5   77
+      8  5372  X =            790.7188 ,      2 REACTIONS:    5   77
+ NUMBER OF LINES:  118    NUMBER OF POINTS:   696    max.ph.:  364
+ LEVEL:  4   SQUARE: ( 95 , 44 ) LINE    13   REACTION   13: OPEN END              
+      7  5379  Y =           3626.5625 ,      1 REACTIONS:   13
+      8  5387  X =            848.5312 ,      2 REACTIONS:   29   28
+ NUMBER OF LINES:  118    NUMBER OF POINTS:   699    max.ph.:  403
+ LEVEL:  4   SQUARE: (  8 , 35 ) LINE    16   REACTION   16: OPEN END              
+      7  5394  Y =           2979.6875 ,      1 REACTIONS:   88
+      6  5400  X =            647.3438 ,      1 REACTIONS:   88
+ NUMBER OF LINES:  118    NUMBER OF POINTS:   701    max.ph.:  360
+ LEVEL:  4   SQUARE: ( 11 , 33 ) LINE    17   REACTION   17: OPEN END              
+      7  5407  Y =           2835.9375 ,      1 REACTIONS:   17
+      6  5413  X =            654.2812 ,      1 REACTIONS:   17
+ NUMBER OF LINES:  118    NUMBER OF POINTS:   703    max.ph.:  351
+ LEVEL:  4   SQUARE: ( 17 , 31 ) LINE    18   REACTION   18: OPEN END              
+     10  5423  Y =           2692.1875 ,      2 REACTIONS:   18   19
+      6  5429  X =            668.1562 ,      1 REACTIONS:   19
+ NUMBER OF LINES:  118    NUMBER OF POINTS:   706    max.ph.:  408
+ LEVEL:  4   SQUARE: ( 12 , 33 ) LINE    18   REACTION   18: OPEN END              
+      7  5436  Y =           2835.9375 ,      1 REACTIONS:   18
+      6  5442  X =            656.5938 ,      1 REACTIONS:   18
+ NUMBER OF LINES:  118    NUMBER OF POINTS:   708    max.ph.:  344
+ LEVEL:  4   SQUARE: ( 39 , 45 ) LINE    19   REACTION   19: OPEN END              
+      7  5449  Y =           3698.4375 ,      1 REACTIONS:   24
+      2  5451  X =            719.0312 ,      0 REACTIONS:
+ NUMBER OF LINES:  118    NUMBER OF POINTS:   709    max.ph.:  366
+ LEVEL:  4   SQUARE: ( 44 , 32 ) LINE    20   REACTION   20: OPEN END              
+      3  5454  Y =           2764.0625 ,      0 REACTIONS:
+      2  5456  X =            730.5938 ,      0 REACTIONS:
+ NUMBER OF LINES:  118    NUMBER OF POINTS:   709    max.ph.:  414
+ LEVEL:  4   SQUARE: ( 44 , 33 ) LINE    20   REACTION   20: OPEN END              
+      7  5463  Y =           2835.9375 ,      1 REACTIONS:   20
+      6  5469  X =            730.5938 ,      2 REACTIONS:    9   10
+ NUMBER OF LINES:  118    NUMBER OF POINTS:   712    max.ph.:  423
+ LEVEL:  4   SQUARE: ( 20 , 48 ) LINE    21   REACTION   21: OPEN END              
+      3  5472  Y =           3914.0625 ,      0 REACTIONS:
+      2  5474  X =            675.0938 ,      0 REACTIONS:
+ NUMBER OF LINES:  118    NUMBER OF POINTS:   712    max.ph.:  369
+ LEVEL:  4   SQUARE: ( 20 , 49 ) LINE    21   REACTION   21: OPEN END              
+      7  5481  Y =           3985.9375 ,      1 REACTIONS:   30
+      6  5487  X =            675.0938 ,      1 REACTIONS:   30
+ NUMBER OF LINES:  118    NUMBER OF POINTS:   714    max.ph.:  398
+ LEVEL:  4   SQUARE: ( 39 , 49 ) LINE    23   REACTION   23: OPEN END              
+      7  5494  Y =           3985.9375 ,      1 REACTIONS:   24
+      2  5496  X =            719.0312 ,      0 REACTIONS:
+ NUMBER OF LINES:  118    NUMBER OF POINTS:   715    max.ph.:  395
+ LEVEL:  4   SQUARE: ( 64 , 62 ) LINE    25   REACTION   25: OPEN END              
+      7  5503  Y =           4920.3125 ,      1 REACTIONS:   33
+      6  5509  X =            776.8438 ,      1 REACTIONS:   33
+ NUMBER OF LINES:  118    NUMBER OF POINTS:   717    max.ph.:  354
+ LEVEL:  4   SQUARE: ( 81 , 56 ) LINE    27   REACTION   27: OPEN END              
+      7  5516  Y =           4489.0625 ,      1 REACTIONS:   27
+      6  5522  X =            816.1562 ,      1 REACTIONS:   83
+ NUMBER OF LINES:  118    NUMBER OF POINTS:   719    max.ph.:  354
+ LEVEL:  4   SQUARE: (101 , 58 ) LINE    28   REACTION   28: OPEN END              
+      7  5529  Y =           4632.8125 ,      1 REACTIONS:   28
+      6  5535  X =            862.4062 ,      1 REACTIONS:   36
+ NUMBER OF LINES:  118    NUMBER OF POINTS:   721    max.ph.:  379
+ LEVEL:  4   SQUARE: ( 23 , 53 ) LINE    30   REACTION   30: OPEN END              
+      3  5538  Y =           4273.4375 ,      0 REACTIONS:
+      2  5540  X =            682.0312 ,      0 REACTIONS:
+ NUMBER OF LINES:  118    NUMBER OF POINTS:   721    max.ph.:  390
+ LEVEL:  4   SQUARE: ( 37 , 68 ) LINE    30   REACTION   30: OPEN END              
+      7  5547  Y =           5351.5625 ,      1 REACTIONS:   31
+      2  5549  X =            714.4062 ,      0 REACTIONS:
+ NUMBER OF LINES:  118    NUMBER OF POINTS:   722    max.ph.:  429
+ LEVEL:  4   SQUARE: ( 69 , 70 ) LINE    32   REACTION   32: OPEN END              
+      9  5558  Y =           5495.3125 ,      2 REACTIONS:   42   89
+      6  5564  X =            788.4062 ,      1 REACTIONS:   89
+ NUMBER OF LINES:  118    NUMBER OF POINTS:   725    max.ph.:  349
+ LEVEL:  4   SQUARE: ( 74 , 77 ) LINE    34   REACTION   34: OPEN END              
+      7  5571  Y =           5998.4375 ,      1 REACTIONS:   89
+      6  5577  X =            799.9688 ,      1 REACTIONS:   89
+ NUMBER OF LINES:  118    NUMBER OF POINTS:   727    max.ph.:  347
+ LEVEL:  4   SQUARE: (110 , 79 ) LINE    35   REACTION   35: OPEN END              
+      9  5586  Y =           6142.1875 ,      2 REACTIONS:   81   35
+      6  5592  X =            883.2188 ,      1 REACTIONS:   45
+ NUMBER OF LINES:  118    NUMBER OF POINTS:   730    max.ph.:  371
+ LEVEL:  4   SQUARE: (  4 , 81 ) LINE    37   REACTION   37: OPEN END              
+      3  5595  Y =           6285.9375 ,      0 REACTIONS:
+      2  5597  X =            638.0938 ,      0 REACTIONS:
+ NUMBER OF LINES:  118    NUMBER OF POINTS:   730    max.ph.:  395
+ LEVEL:  4   SQUARE: (  4 , 82 ) LINE    39   REACTION   39: OPEN END              
+     11  5608  Y =           6357.8125 ,      2 REACTIONS:   46   47
+     12  5620  X =            638.0938 ,      3 REACTIONS:   39   99   46
+ NUMBER OF LINES:  118    NUMBER OF POINTS:   735    max.ph.:  357
+ LEVEL:  4   SQUARE: ( 54 ,112 ) LINE    40   REACTION   40: OPEN END              
+      7  5627  Y =           8514.0625 ,      1 REACTIONS:   40
+      2  5629  X =            753.7188 ,      0 REACTIONS:
+ NUMBER OF LINES:  118    NUMBER OF POINTS:   736    max.ph.:  421
+ LEVEL:  4   SQUARE: ( 56 ,103 ) LINE    41   REACTION   41: OPEN END              
+      3  5632  Y =           7867.1875 ,      0 REACTIONS:
+      2  5634  X =            758.3438 ,      0 REACTIONS:
+ NUMBER OF LINES:  118    NUMBER OF POINTS:   736    max.ph.:  412
+ LEVEL:  4   SQUARE: ( 57 ,103 ) LINE    42   REACTION   41: OPEN END              
+      7  5641  Y =           7867.1875 ,      1 REACTIONS:   41
+      6  5647  X =            760.6562 ,      1 REACTIONS:   41
+ NUMBER OF LINES:  118    NUMBER OF POINTS:   738    max.ph.:  411
+ LEVEL:  4   SQUARE: ( 62 ,113 ) LINE    42   REACTION   41: OPEN END              
+      7  5654  Y =           8585.9375 ,      1 REACTIONS:   41
+      2  5656  X =            772.2188 ,      0 REACTIONS:
+ NUMBER OF LINES:  118    NUMBER OF POINTS:   739    max.ph.:  405
+ LEVEL:  4   SQUARE: ( 64 ,115 ) LINE    43   REACTION   42: OPEN END              
+      7  5663  Y =           8729.6875 ,      1 REACTIONS:   42
+      2  5665  X =            776.8438 ,      0 REACTIONS:
+ NUMBER OF LINES:  118    NUMBER OF POINTS:   740    max.ph.:  337
+ LEVEL:  4   SQUARE: ( 88 , 93 ) LINE    44   REACTION   43: OPEN END              
+      7  5672  Y =           7148.4375 ,      1 REACTIONS:   43
+      6  5678  X =            832.3438 ,      1 REACTIONS:   43
+ NUMBER OF LINES:  118    NUMBER OF POINTS:   742    max.ph.:  304
+ LEVEL:  4   SQUARE: (108 , 90 ) LINE    45   REACTION   44: OPEN END              
+      3  5681  Y =           6932.8125 ,      0 REACTIONS:
+      2  5683  X =            878.5938 ,      0 REACTIONS:
+ NUMBER OF LINES:  118    NUMBER OF POINTS:   742    max.ph.:  286
+ LEVEL:  4   SQUARE: ( 18 ,108 ) LINE    47   REACTION   46: OPEN END              
+      7  5690  Y =           8226.5625 ,      1 REACTIONS:   51
+      2  5692  X =            670.4688 ,      0 REACTIONS:
+ NUMBER OF LINES:  118    NUMBER OF POINTS:   743    max.ph.:  344
+ LEVEL:  4   SQUARE: ( 18 ,107 ) LINE    48   REACTION   47: OPEN END              
+      7  5699  Y =           8154.6875 ,      1 REACTIONS:   47
+      8  5707  X =            670.4688 ,      2 REACTIONS:   47  100
+ NUMBER OF LINES:  118    NUMBER OF POINTS:   746    max.ph.:  359
+ LEVEL:  4   SQUARE: ( 44 ,110 ) LINE    49   REACTION   48: OPEN END              
+      3  5710  Y =           8370.3125 ,      0 REACTIONS:
+      9  5719  X =            730.5938 ,      2 REACTIONS:   48   75
+ NUMBER OF LINES:  118    NUMBER OF POINTS:   748    max.ph.:  376
+ LEVEL:  4   SQUARE: ( 86 ,139 ) LINE    50   REACTION   49: OPEN END              
+      7  5726  Y =          10454.6875 ,      1 REACTIONS:   49
+      6  5732  X =            827.7188 ,      1 REACTIONS:   65
+ NUMBER OF LINES:  118    NUMBER OF POINTS:   750    max.ph.:  314
+ LEVEL:  4   SQUARE: ( 12 ,128 ) LINE    52   REACTION   51: OPEN END              
+      7  5739  Y =           9664.0625 ,      1 REACTIONS:   51
+      9  5748  X =            656.5938 ,      3 REACTIONS:   54   55   56
+ NUMBER OF LINES:  118    NUMBER OF POINTS:   754    max.ph.:  322
+ LEVEL:  4   SQUARE: ( 45 ,110 ) LINE    53   REACTION   52: OPEN END              
+      9  5757  Y =           8370.3125 ,      2 REACTIONS:   52   76
+      9  5766  X =            732.9062 ,      2 REACTIONS:   76   52
+ NUMBER OF LINES:  118    NUMBER OF POINTS:   758    max.ph.:  349
+ LEVEL:  4   SQUARE: ( 56 ,118 ) LINE    53   REACTION   52: OPEN END              
+      9  5775  Y =           8945.3125 ,      2 REACTIONS:   57   58
+      6  5781  X =            758.3438 ,      1 REACTIONS:   58
+ NUMBER OF LINES:  118    NUMBER OF POINTS:   761    max.ph.:  385
+ LEVEL:  4   SQUARE: ( 54 ,113 ) LINE    54   REACTION   53: OPEN END              
+      7  5788  Y =           8585.9375 ,      1 REACTIONS:   94
+     10  5798  X =            753.7188 ,      2 REACTIONS:   92   94
+ NUMBER OF LINES:  118    NUMBER OF POINTS:   764    max.ph.:  362
+ LEVEL:  4   SQUARE: (  9 ,137 ) LINE    57   REACTION   56: OPEN END              
+      7  5805  Y =          10310.9375 ,      1 REACTIONS:   73
+      6  5811  X =            649.6562 ,      1 REACTIONS:   73
+ NUMBER OF LINES:  118    NUMBER OF POINTS:   766    max.ph.:  319
+ LEVEL:  4   SQUARE: ( 59 ,130 ) LINE    58   REACTION   57: OPEN END              
+ REACTION: 103  52  =  45
+ position:      7.66148E+02   9.80781E+03      7.66221E+02   9.80781E+03
+ LABELED WITH ASSEMBLAGES
+ REACTION: GT07W2 BI07 WM02 LIQtc H2O q = GT07W2 BI07 WM02 LIQtc q ky
+      9  5820  Y =           9807.8125 ,      2 REACTIONS:   60  103
+      6  5826  X =            765.2812 ,      1 REACTIONS:   74
+ NUMBER OF LINES:  119    NUMBER OF POINTS:   769    max.ph.:  408
+ LEVEL:  4   SQUARE: ( 71 ,129 ) LINE    59   REACTION   58: OPEN END              
+      8  5834  Y =           9735.9375 ,      2 REACTIONS:  101   82
+      6  5840  X =            793.0312 ,      1 REACTIONS:   58
+ NUMBER OF LINES:  119    NUMBER OF POINTS:   772    max.ph.:  341
+ LEVEL:  4   SQUARE: ( 72 ,130 ) LINE    63   REACTION   62: OPEN END              
+      7  5847  Y =           9807.8125 ,      1 REACTIONS:  101
+      6  5853  X =            795.3438 ,      1 REACTIONS:   63
+ NUMBER OF LINES:  119    NUMBER OF POINTS:   774    max.ph.:  345
+ LEVEL:  4   SQUARE: ( 84 ,157 ) LINE    64   REACTION   63: OPEN END              
+ REACTION: 104  55  =  51
+ position:      8.22371E+02   1.17484E+04      8.22443E+02   1.17484E+04
+ LABELED WITH ASSEMBLAGES
+ REACTION: GT07W2 WM02 LIQtc q san = GT07W2 BI07 LIQtc q ky san
+      8  5861  Y =          11748.4375 ,      2 REACTIONS:   66  104
+      2  5863  X =            823.0938 ,      0 REACTIONS:
+ NUMBER OF LINES:  120    NUMBER OF POINTS:   776    max.ph.:  303
+ LEVEL:  4   SQUARE: ( 85 ,160 ) LINE    65   REACTION   64: OPEN END              
+     11  5874  Y =          11964.0625 ,      2 REACTIONS:   67   68
+     10  5884  X =            825.4062 ,      2 REACTIONS:   95   67
+ NUMBER OF LINES:  120    NUMBER OF POINTS:   780    max.ph.:  324
+ LEVEL:  4   SQUARE: ( 46 , 28 ) LINE    97   REACTION   20: OPEN END              
+      3  5887  Y =           2476.5625 ,      0 REACTIONS:
+      2  5889  X =            735.2188 ,      0 REACTIONS:
+ NUMBER OF LINES:  120    NUMBER OF POINTS:   780    max.ph.:  402
+ LEVEL:  4   SQUARE: ( 46 , 30 ) LINE    97   REACTION   20: OPEN END              
+      9  5898  Y =           2620.3125 ,      2 REACTIONS:    9   10
+      2  5900  X =            735.2188 ,      0 REACTIONS:
+ NUMBER OF LINES:  120    NUMBER OF POINTS:   782    max.ph.:  422
+ LEVEL:  4   SQUARE: ( 46 , 29 ) LINE    97   REACTION   20: TWO POINTS            
+      7  5907  Y =           2548.4375 ,      1 REACTIONS:   20
+      7  5914  X =            735.2188 ,      2 REACTIONS:    9   10
+ NUMBER OF LINES:  123    NUMBER OF POINTS:   785    max.ph.:  434
+ LEVEL:  4   SQUARE: ( 23 , 52 ) LINE   101   REACTION   21: OPEN END              
+      7  5921  Y =           4201.5625 ,      1 REACTIONS:   30
+      6  5927  X =            682.0312 ,      1 REACTIONS:   30
+ NUMBER OF LINES:  123    NUMBER OF POINTS:   787    max.ph.:  392
+ LEVEL:  4   SQUARE: ( 48 , 27 ) LINE   108   REACTION   20: OPEN END              
+      3  5930  Y =           2404.6875 ,      0 REACTIONS:
+      2  5932  X =            739.8438 ,      0 REACTIONS:
+ NUMBER OF LINES:  123    NUMBER OF POINTS:   787    max.ph.:  447
+ LEVEL:  4   SQUARE: ( 63 ,114 ) LINE   112   REACTION   41: OPEN END              
+      7  5939  Y =           8657.8125 ,      1 REACTIONS:   41
+      6  5945  X =            774.5312 ,      1 REACTIONS:   41
+ NUMBER OF LINES:  123    NUMBER OF POINTS:   789    max.ph.:  402
+ LEVEL:  4   SQUARE: ( 63 ,113 ) LINE   113   REACTION   90: TWO POINTS            
+      3  5948  Y =           8585.9375 ,      0 REACTIONS:
+      2  5950  X =            774.5312 ,      0 REACTIONS:
+ NUMBER OF LINES:  123    NUMBER OF POINTS:   789    max.ph.:  373
+ LEVEL:  5   SQUARE: (  1 ,  4 ) LINE     1   REACTION    1: OPEN END              
+      3  5953  Y =            625.7812 ,      0 REACTIONS:
+      6  5959  X =            630.5781 ,      2 REACTIONS:    1    2
+ NUMBER OF LINES:  123    NUMBER OF POINTS:   791    max.ph.:  373
+ LEVEL:  5   SQUARE: (119 , 25 ) LINE     3   REACTION    3: OPEN END              
+ REACTION: 105   8  =  16
+ position:      7.66871E+02   1.38047E+03      7.66943E+02   1.38047E+03
+ LABELED WITH ASSEMBLAGES
+ REACTION: BI07 OPX CRD H2O q san = BI07 OPX CRD LIQtc q san
+      8  5967  Y =           1380.4688 ,      2 REACTIONS:    3  105
+      9  5976  X =            767.0156 ,      3 REACTIONS:    4  105   11
+ NUMBER OF LINES:  124    NUMBER OF POINTS:   796    max.ph.:  424
+ LEVEL:  5   SQUARE: (141 , 13 ) LINE     6   REACTION    6: OPEN END              
+      3  5979  Y =            949.2188 ,      0 REACTIONS:
+      7  5986  X =            792.4531 ,      3 REACTIONS:    5    6   87
+ NUMBER OF LINES:  124    NUMBER OF POINTS:   799    max.ph.:  377
+ LEVEL:  5   SQUARE: (145 , 13 ) LINE     7   REACTION    7: OPEN END              
+      3  5989  Y =            949.2188 ,      0 REACTIONS:
+ REACTION: 106   4  =  12
+ position:      7.97078E+02   9.35742E+02      7.97078E+02   9.37988E+02
+ LABELED WITH ASSEMBLAGES
+ REACTION: OPX CRD LIQtc H2O q = OPX CRD LIQtc
+      5  5994  X =            797.0781 ,      2 REACTIONS:  106   14
+ NUMBER OF LINES:  125    NUMBER OF POINTS:   801    max.ph.:  369
+ LEVEL:  5   SQUARE: (259 ,  9 ) LINE     8   REACTION    8: OPEN END              
+      8  6002  Y =            805.4688 ,      2 REACTIONS:   79   15
+      9  6011  X =            928.8906 ,      3 REACTIONS:    8   86   15
+ NUMBER OF LINES:  125    NUMBER OF POINTS:   806    max.ph.:  382
+ LEVEL:  5   SQUARE: ( 95 , 51 ) LINE     9   REACTION    9: OPEN END              
+      3  6014  Y =           2314.8438 ,      0 REACTIONS:
+      2  6016  X =            739.2656 ,      0 REACTIONS:
+ NUMBER OF LINES:  125    NUMBER OF POINTS:   806    max.ph.:  406
+ LEVEL:  5   SQUARE: (140 , 73 ) LINE    11   REACTION   11: OPEN END              
+      6  6022  Y =           3105.4688 ,      1 REACTIONS:   11
+      2  6024  X =            791.2969 ,      0 REACTIONS:
+ NUMBER OF LINES:  125    NUMBER OF POINTS:   807    max.ph.:  410
+ LEVEL:  5   SQUARE: (143 , 77 ) LINE    12   REACTION   12: OPEN END              
+      3  6027  Y =           3249.2188 ,      0 REACTIONS:
+      2  6029  X =            794.7656 ,      0 REACTIONS:
+ NUMBER OF LINES:  125    NUMBER OF POINTS:   807    max.ph.:  392
+ LEVEL:  5   SQUARE: (140 , 13 ) LINE    13   REACTION   13: OPEN END              
+     11  6040  Y =            949.2188 ,      3 REACTIONS:    5   77   13
+      8  6048  X =            791.2969 ,      2 REACTIONS:    5   77
+ NUMBER OF LINES:  125    NUMBER OF POINTS:   812    max.ph.:  351
+ LEVEL:  5   SQUARE: (189 , 88 ) LINE    13   REACTION   13: OPEN END              
+ REACTION: 107  23  =  11
+ position:      8.48242E+02   3.64453E+03      8.48314E+02   3.64453E+03
+ LABELED WITH ASSEMBLAGES
+ REACTION: GT07W2 OPX CRD LIQtc q san = OPX CRD LIQtc q
+      6  6054  Y =           3644.5312 ,      1 REACTIONS:  107
+      5  6059  X =            847.9531 ,      1 REACTIONS:   80
+ NUMBER OF LINES:  126    NUMBER OF POINTS:   814    max.ph.:  396
+ LEVEL:  5   SQUARE: ( 15 , 70 ) LINE    16   REACTION   16: OPEN END              
+      6  6065  Y =           2997.6562 ,      1 REACTIONS:   30
+      8  6073  X =            646.7656 ,      2 REACTIONS:   88   30
+ NUMBER OF LINES:  126    NUMBER OF POINTS:   817    max.ph.:  387
+ LEVEL:  5   SQUARE: ( 22 , 66 ) LINE    17   REACTION   17: OPEN END              
+      6  6079  Y =           2853.9062 ,      1 REACTIONS:   17
+      8  6087  X =            654.8594 ,      2 REACTIONS:   17   88
+ NUMBER OF LINES:  126    NUMBER OF POINTS:   820    max.ph.:  360
+ LEVEL:  5   SQUARE: ( 33 , 61 ) LINE    18   REACTION   18: OPEN END              
+      6  6093  Y =           2674.2188 ,      1 REACTIONS:   70
+      5  6098  X =            667.5781 ,      1 REACTIONS:   19
+ NUMBER OF LINES:  126    NUMBER OF POINTS:   822    max.ph.:  372
+ LEVEL:  5   SQUARE: ( 23 , 66 ) LINE    18   REACTION   18: OPEN END              
+      6  6104  Y =           2853.9062 ,      1 REACTIONS:   18
+      8  6112  X =            656.0156 ,      2 REACTIONS:   18   23
+ NUMBER OF LINES:  126    NUMBER OF POINTS:   825    max.ph.:  332
+ LEVEL:  5   SQUARE: ( 78 , 89 ) LINE    19   REACTION   19: OPEN END              
+ REACTION: 108  18  =  15
+ position:      7.19537E+02   3.68047E+03      7.19609E+02   3.68047E+03
+ LABELED WITH ASSEMBLAGES
+ REACTION: BI07 CRD H2O q sill san = BI07 CRD LIQtc H2O q san
+      9  6121  Y =           3680.4688 ,      2 REACTIONS:  108   10
+ REACTION: 109  15  =  25
+ position:      7.19609E+02   3.68047E+03      7.19609E+02   3.68271E+03
+ LABELED WITH ASSEMBLAGES
+ REACTION: BI07 CRD LIQtc H2O q san = BI07 CRD LIQtc q sill san
+     10  6131  X =            719.6094 ,      3 REACTIONS:   19  108  109
+ NUMBER OF LINES:  128    NUMBER OF POINTS:   830    max.ph.:  392
+ LEVEL:  5   SQUARE: ( 88 , 64 ) LINE    20   REACTION   20: OPEN END              
+      7  6138  Y =           2782.0312 ,      2 REACTIONS:    9   10
+      2  6140  X =            731.1719 ,      0 REACTIONS:
+ NUMBER OF LINES:  128    NUMBER OF POINTS:   832    max.ph.:  411
+ LEVEL:  5   SQUARE: ( 88 , 66 ) LINE    20   REACTION   20: OPEN END              
+      3  6143  Y =           2853.9062 ,      0 REACTIONS:
+      2  6145  X =            731.1719 ,      0 REACTIONS:
+ NUMBER OF LINES:  128    NUMBER OF POINTS:   832    max.ph.:  443
+ LEVEL:  5   SQUARE: ( 88 , 65 ) LINE    20   REACTION   20: TWO POINTS            
+      6  6151  Y =           2817.9688 ,      1 REACTIONS:   20
+      5  6156  X =            731.1719 ,      2 REACTIONS:    9   10
+ NUMBER OF LINES:  131    NUMBER OF POINTS:   835    max.ph.:  383
+ LEVEL:  5   SQUARE: ( 39 , 96 ) LINE    22   REACTION   21: OPEN END              
+      3  6159  Y =           3932.0312 ,      0 REACTIONS:
+      2  6161  X =            674.5156 ,      0 REACTIONS:
+ NUMBER OF LINES:  131    NUMBER OF POINTS:   835    max.ph.:  396
+ LEVEL:  5   SQUARE: ( 39 , 97 ) LINE    22   REACTION   21: OPEN END              
+      6  6167  Y =           3967.9688 ,      1 REACTIONS:   30
+      5  6172  X =            674.5156 ,      1 REACTIONS:   30
+ NUMBER OF LINES:  131    NUMBER OF POINTS:   837    max.ph.:  372
+ LEVEL:  5   SQUARE: ( 77 , 98 ) LINE    24   REACTION   23: OPEN END              
+      6  6178  Y =           4003.9062 ,      1 REACTIONS:   24
+      2  6180  X =            718.4531 ,      0 REACTIONS:
+ NUMBER OF LINES:  131    NUMBER OF POINTS:   838    max.ph.:  419
+ LEVEL:  5   SQUARE: (127 ,123 ) LINE    26   REACTION   25: OPEN END              
+      6  6186  Y =           4902.3438 ,      1 REACTIONS:   33
+      5  6191  X =            776.2656 ,      1 REACTIONS:   33
+ NUMBER OF LINES:  131    NUMBER OF POINTS:   840    max.ph.:  365
+ LEVEL:  5   SQUARE: (143 , 78 ) LINE    28   REACTION   27: OPEN END              
+      6  6197  Y =           3285.1562 ,      1 REACTIONS:   27
+      8  6205  X =            794.7656 ,      2 REACTIONS:   80   27
+ NUMBER OF LINES:  131    NUMBER OF POINTS:   843    max.ph.:  331
+ LEVEL:  5   SQUARE: (161 ,112 ) LINE    28   REACTION   27: OPEN END              
+      6  6211  Y =           4507.0312 ,      1 REACTIONS:   34
+      8  6219  X =            815.5781 ,      2 REACTIONS:   27   34
+ NUMBER OF LINES:  131    NUMBER OF POINTS:   846    max.ph.:  372
+ LEVEL:  5   SQUARE: (201 ,116 ) LINE    29   REACTION   28: OPEN END              
+      6  6225  Y =           4650.7812 ,      1 REACTIONS:   28
+      8  6233  X =            861.8281 ,      2 REACTIONS:   28   83
+ NUMBER OF LINES:  131    NUMBER OF POINTS:   849    max.ph.:  345
+ LEVEL:  5   SQUARE: ( 46 ,105 ) LINE    31   REACTION   30: OPEN END              
+      6  6239  Y =           4255.4688 ,      1 REACTIONS:   30
+      5  6244  X =            682.6094 ,      1 REACTIONS:   30
+ NUMBER OF LINES:  131    NUMBER OF POINTS:   851    max.ph.:  390
+ LEVEL:  5   SQUARE: ( 73 ,136 ) LINE    31   REACTION   30: OPEN END              
+      8  6252  Y =           5369.5312 ,      2 REACTIONS:   30   31
+      2  6254  X =            713.8281 ,      0 REACTIONS:
+ NUMBER OF LINES:  131    NUMBER OF POINTS:   853    max.ph.:  431
+ LEVEL:  5   SQUARE: (137 ,139 ) LINE    33   REACTION   32: OPEN END              
+ REACTION: 110  28  =  26
+ position:      7.87900E+02   5.47734E+03      7.87973E+02   5.47734E+03
+ LABELED WITH ASSEMBLAGES
+ REACTION: BI07 LIQtc q sill san = GT07W2 BI07 CRD LIQtc q san
+      6  6260  Y =           5477.3438 ,      1 REACTIONS:  110
+      6  6266  X =            787.8281 ,      2 REACTIONS:   33   32
+ NUMBER OF LINES:  132    NUMBER OF POINTS:   856    max.ph.:  394
+ LEVEL:  5   SQUARE: (148 ,154 ) LINE    35   REACTION   34: OPEN END              
+      6  6272  Y =           6016.4062 ,      1 REACTIONS:   89
+      5  6277  X =            800.5469 ,      1 REACTIONS:   89
+ NUMBER OF LINES:  132    NUMBER OF POINTS:   858    max.ph.:  331
+ LEVEL:  5   SQUARE: (219 ,158 ) LINE    36   REACTION   35: OPEN END              
+      6  6283  Y =           6160.1562 ,      1 REACTIONS:   44
+      5  6288  X =            882.6406 ,      1 REACTIONS:   45
+ NUMBER OF LINES:  132    NUMBER OF POINTS:   860    max.ph.:  361
+ LEVEL:  5   SQUARE: (  7 ,162 ) LINE    38   REACTION   37: OPEN END              
+      6  6294  Y =           6303.9062 ,      1 REACTIONS:   39
+      7  6301  X =            637.5156 ,      2 REACTIONS:   39   99
+ NUMBER OF LINES:  132    NUMBER OF POINTS:   863    max.ph.:  359
+ LEVEL:  5   SQUARE: (  8 ,163 ) LINE    40   REACTION   39: OPEN END              
+      7  6308  Y =           6339.8438 ,      2 REACTIONS:   99   39
+      5  6313  X =            638.6719 ,      2 REACTIONS:   39   99
+ NUMBER OF LINES:  132    NUMBER OF POINTS:   867    max.ph.:  347
+ LEVEL:  5   SQUARE: (107 ,224 ) LINE    41   REACTION   40: OPEN END              
+      6  6319  Y =           8532.0312 ,      1 REACTIONS:   40
+      2  6321  X =            753.1406 ,      0 REACTIONS:
+ NUMBER OF LINES:  132    NUMBER OF POINTS:   868    max.ph.:  425
+ LEVEL:  5   SQUARE: (112 ,205 ) LINE    42   REACTION   41: OPEN END              
+      3  6324  Y =           7849.2188 ,      0 REACTIONS:
+      2  6326  X =            758.9219 ,      0 REACTIONS:
+ NUMBER OF LINES:  132    NUMBER OF POINTS:   868    max.ph.:  419
+ LEVEL:  5   SQUARE: (113 ,205 ) LINE    43   REACTION   41: OPEN END              
+      6  6332  Y =           7849.2188 ,      1 REACTIONS:   41
+      5  6337  X =            760.0781 ,      1 REACTIONS:   41
+ NUMBER OF LINES:  132    NUMBER OF POINTS:   870    max.ph.:  406
+ LEVEL:  5   SQUARE: (124 ,226 ) LINE    43   REACTION   41: OPEN END              
+      3  6340  Y =           8603.9062 ,      0 REACTIONS:
+      2  6342  X =            772.7969 ,      0 REACTIONS:
+ NUMBER OF LINES:  132    NUMBER OF POINTS:   870    max.ph.:  402
+ LEVEL:  5   SQUARE: (127 ,230 ) LINE    44   REACTION   42: OPEN END              
+ REACTION: 111  48  =  28
+ position:      7.75977E+02   8.74766E+03      7.76049E+02   8.74766E+03
+ LABELED WITH ASSEMBLAGES
+ REACTION: GT07W2 BI07 WM02 LIQtc q sill = BI07 LIQtc q sill san
+      7  6349  Y =           8747.6562 ,      2 REACTIONS:  111   42
+      8  6357  X =            776.2656 ,      2 REACTIONS:   42   59
+ NUMBER OF LINES:  133    NUMBER OF POINTS:   874    max.ph.:  340
+ LEVEL:  5   SQUARE: (176 ,186 ) LINE    45   REACTION   43: OPEN END              
+      6  6363  Y =           7166.4062 ,      1 REACTIONS:   49
+      5  6368  X =            832.9219 ,      1 REACTIONS:   84
+ NUMBER OF LINES:  133    NUMBER OF POINTS:   876    max.ph.:  308
+ LEVEL:  5   SQUARE: (216 ,180 ) LINE    46   REACTION   44: OPEN END              
+      3  6371  Y =           6950.7812 ,      0 REACTIONS:
+      2  6373  X =            879.1719 ,      0 REACTIONS:
+ NUMBER OF LINES:  133    NUMBER OF POINTS:   876    max.ph.:  299
+ LEVEL:  5   SQUARE: ( 35 ,215 ) LINE    48   REACTION   46: OPEN END              
+      9  6382  Y =           8208.5938 ,      2 REACTIONS:   46  100
+      7  6389  X =            669.8906 ,      2 REACTIONS:   46   72
+ NUMBER OF LINES:  133    NUMBER OF POINTS:   880    max.ph.:  385
+ LEVEL:  5   SQUARE: ( 36 ,214 ) LINE    49   REACTION   47: OPEN END              
+      3  6392  Y =           8172.6562 ,      0 REACTIONS:
+      5  6397  X =            671.0469 ,      1 REACTIONS:   75
+ NUMBER OF LINES:  133    NUMBER OF POINTS:   881    max.ph.:  369
+ LEVEL:  5   SQUARE: ( 88 ,219 ) LINE    50   REACTION   48: OPEN END              
+      6  6403  Y =           8352.3438 ,      1 REACTIONS:   48
+      7  6410  X =            731.1719 ,      2 REACTIONS:   48   75
+ NUMBER OF LINES:  133    NUMBER OF POINTS:   884    max.ph.:  363
+ LEVEL:  5   SQUARE: (171 ,278 ) LINE    51   REACTION   49: OPEN END              
+      9  6419  Y =          10472.6562 ,      2 REACTIONS:   64   65
+      5  6424  X =            827.1406 ,      1 REACTIONS:   65
+ NUMBER OF LINES:  133    NUMBER OF POINTS:   887    max.ph.:  332
+ LEVEL:  5   SQUARE: ( 24 ,256 ) LINE    53   REACTION   51: OPEN END              
+      6  6430  Y =           9682.0312 ,      1 REACTIONS:   56
+      2  6432  X =            657.1719 ,      0 REACTIONS:
+ NUMBER OF LINES:  133    NUMBER OF POINTS:   888    max.ph.:  328
+ LEVEL:  5   SQUARE: ( 89 ,219 ) LINE    54   REACTION   52: OPEN END              
+      3  6435  Y =           8352.3438 ,      0 REACTIONS:
+      2  6437  X =            732.3281 ,      0 REACTIONS:
+ NUMBER OF LINES:  133    NUMBER OF POINTS:   888    max.ph.:  385
+ LEVEL:  5   SQUARE: (111 ,235 ) LINE    54   REACTION   52: OPEN END              
+      8  6445  Y =           8927.3438 ,      2 REACTIONS:   52   94
+      6  6451  X =            757.7656 ,      2 REACTIONS:   94   52
+ NUMBER OF LINES:  133    NUMBER OF POINTS:   892    max.ph.:  349
+ LEVEL:  5   SQUARE: (107 ,225 ) LINE    55   REACTION   53: OPEN END              
+      6  6457  Y =           8567.9688 ,      1 REACTIONS:   94
+      6  6463  X =            753.1406 ,      2 REACTIONS:   92   94
+ NUMBER OF LINES:  133    NUMBER OF POINTS:   895    max.ph.:  366
+ LEVEL:  5   SQUARE: ( 18 ,273 ) LINE    58   REACTION   56: OPEN END              
+      3  6466  Y =          10292.9688 ,      0 REACTIONS:
+      5  6471  X =            650.2344 ,      1 REACTIONS:   73
+ NUMBER OF LINES:  133    NUMBER OF POINTS:   896    max.ph.:  349
+ LEVEL:  5   SQUARE: (118 ,259 ) LINE    59   REACTION   57: OPEN END              
+      6  6477  Y =           9789.8438 ,      1 REACTIONS:   57
+      8  6485  X =            765.8594 ,      2 REACTIONS:   57   74
+ NUMBER OF LINES:  133    NUMBER OF POINTS:   899    max.ph.:  401
+ LEVEL:  5   SQUARE: (142 ,257 ) LINE    60   REACTION   58: OPEN END              
+      9  6494  Y =           9717.9688 ,      2 REACTIONS:   58   59
+      8  6502  X =            793.6094 ,      2 REACTIONS:   59   58
+ NUMBER OF LINES:  133    NUMBER OF POINTS:   903    max.ph.:  334
+ LEVEL:  5   SQUARE: (118 ,260 ) LINE    63   REACTION   61: OPEN END              
+      8  6510  Y =           9825.7812 ,      2 REACTIONS:   60  103
+      2  6512  X =            765.8594 ,      0 REACTIONS:
+ NUMBER OF LINES:  133    NUMBER OF POINTS:   905    max.ph.:  425
+ LEVEL:  5   SQUARE: (143 ,260 ) LINE    64   REACTION   62: OPEN END              
+      8  6520  Y =           9825.7812 ,      2 REACTIONS:   62   63
+      5  6525  X =            794.7656 ,      1 REACTIONS:   78
+ NUMBER OF LINES:  133    NUMBER OF POINTS:   908    max.ph.:  333
+ LEVEL:  5   SQUARE: (167 ,313 ) LINE    65   REACTION   63: OPEN END              
+      6  6531  Y =          11730.4688 ,      1 REACTIONS:   63
+      2  6533  X =            822.5156 ,      0 REACTIONS:
+ NUMBER OF LINES:  133    NUMBER OF POINTS:   909    max.ph.:  305
+ LEVEL:  5   SQUARE: (170 ,319 ) LINE    66   REACTION   64: OPEN END              
+      6  6539  Y =          11946.0938 ,      1 REACTIONS:   64
+      2  6541  X =            825.9844 ,      0 REACTIONS:
+ NUMBER OF LINES:  133    NUMBER OF POINTS:   910    max.ph.:  324
+ LEVEL:  5   SQUARE: (167 ,314 ) LINE    69   REACTION   67: OPEN END              
+      9  6550  Y =          11766.4062 ,      2 REACTIONS:   66  104
+      7  6557  X =            822.5156 ,      2 REACTIONS:   95   67
+ NUMBER OF LINES:  136    NUMBER OF POINTS:   914    max.ph.:  338
+ LEVEL:  1   SQUARE: (  2 ,  4 ) LINE    72   REACTION   70: BUMP                  
+     10  6567  Y =           2512.5000 ,      1 REACTIONS:   70
+      9  6576  X =            657.7500 ,      1 REACTIONS:   70
+ NUMBER OF LINES:  136    NUMBER OF POINTS:   916    max.ph.:  404
+ LEVEL:  5   SQUARE: ( 92 , 56 ) LINE    98   REACTION   20: OPEN END              
+      3  6579  Y =           2494.5312 ,      0 REACTIONS:
+      2  6581  X =            735.7969 ,      0 REACTIONS:
+ NUMBER OF LINES:  136    NUMBER OF POINTS:   916    max.ph.:  418
+ LEVEL:  5   SQUARE: ( 92 , 58 ) LINE    98   REACTION   20: OPEN END              
+      6  6587  Y =           2566.4062 ,      2 REACTIONS:    9   10
+      2  6589  X =            735.7969 ,      0 REACTIONS:
+ NUMBER OF LINES:  136    NUMBER OF POINTS:   918    max.ph.:  436
+ LEVEL:  5   SQUARE: ( 92 , 57 ) LINE    98   REACTION   20: TWO POINTS            
+      7  6596  Y =           2530.4688 ,      2 REACTIONS:    9   10
+      5  6601  X =            735.7969 ,      2 REACTIONS:    9   10
+ NUMBER OF LINES:  139    NUMBER OF POINTS:   922    max.ph.:  430
+ LEVEL:  5   SQUARE: ( 91 , 58 ) LINE   100   REACTION   20: OPEN END              
+      3  6604  Y =           2566.4062 ,      0 REACTIONS:
+      2  6606  X =            734.6406 ,      0 REACTIONS:
+ NUMBER OF LINES:  139    NUMBER OF POINTS:   922    max.ph.:  404
+ LEVEL:  5   SQUARE: ( 91 , 59 ) LINE   100   REACTION   20: OPEN END              
+      9  6615  Y =           2602.3438 ,      2 REACTIONS:    9   10
+      8  6623  X =            734.6406 ,      2 REACTIONS:    9   10
+ NUMBER OF LINES:  139    NUMBER OF POINTS:   926    max.ph.:  444
+ LEVEL:  5   SQUARE: ( 46 ,104 ) LINE   103   REACTION   21: OPEN END              
+      3  6626  Y =           4219.5312 ,      0 REACTIONS:
+      2  6628  X =            682.6094 ,      0 REACTIONS:
+ NUMBER OF LINES:  139    NUMBER OF POINTS:   926    max.ph.:  388
+ LEVEL:  5   SQUARE: ( 95 , 53 ) LINE   110   REACTION   20: OPEN END              
+      3  6631  Y =           2386.7188 ,      0 REACTIONS:
+      2  6633  X =            739.2656 ,      0 REACTIONS:
+ NUMBER OF LINES:  139    NUMBER OF POINTS:   926    max.ph.:  457
+ LEVEL:  5   SQUARE: ( 95 , 52 ) LINE   110   REACTION   20: TWO POINTS            
+      6  6639  Y =           2350.7812 ,      1 REACTIONS:   20
+      5  6644  X =            739.2656 ,      2 REACTIONS:    9   10
+ NUMBER OF LINES:  142    NUMBER OF POINTS:   929    max.ph.:  419
+ LEVEL:  5   SQUARE: (125 ,227 ) LINE   115   REACTION   41: OPEN END              
+      6  6650  Y =           8639.8438 ,      1 REACTIONS:   41
+      5  6655  X =            773.9531 ,      1 REACTIONS:   41
+ NUMBER OF LINES:  142    NUMBER OF POINTS:   931    max.ph.:  411
+ LEVEL:  5   SQUARE: (125 ,226 ) LINE   116   REACTION   90: TWO POINTS            
+      6  6661  Y =           8603.9062 ,      1 REACTIONS:   41
+      2  6663  X =            773.9531 ,      0 REACTIONS:
+ NUMBER OF LINES:  145    NUMBER OF POINTS:   932    max.ph.:  403
+ exit DOMINO
+ CPU time:    0h 11m 28.50s
