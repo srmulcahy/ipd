@@ -4,6 +4,7 @@
 *.xls
 *.xlsx
 *.pdf
+spreadsheets/
 
 # Theriak-Domino
 
