@@ -1,9 +1,9 @@
 # Various Files
-.doc
-.docx
-.xls
-.xlsx
-.pdf
+*.doc
+*.docx
+*.xls
+*.xlsx
+*.pdf
 
 # Theriak-Domino
 
