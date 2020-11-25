@@ -877,15 +877,6 @@ M   609.4488   253.4252
  transform="rotate(   -0.0000,  609.4488,  253.4252)"
  font-family="'Arial'" font-size="    7.7754"
  style="fill: #000000; stroke: none">LIQtc: external+margules</text>
-<path stroke-width="    0.2551" stroke="#000000" fill="none" d=" 
-M   223.1262   494.5841
-L   233.8431   507.8512
-"/>
-M   217.1786   493.2515
-<text x="  217.1786" y="  493.2515"
- transform="rotate(   -0.0000,  217.1786,  493.2515)"
- font-family="'Arial'" font-size="    9.3305"
- style="fill: #000000; stroke: none">1</text>
 <path stroke-width="    0.8504" stroke="#000000" fill="none" d=" 
 M   230.3011   509.9606
 L   248.0315   505.9329
@@ -896,15 +887,6 @@ L   281.2500   496.1334
 L   281.5407   496.0089
 L   281.9144   495.8843
 "/>
-<path stroke-width="    0.2551" stroke="#000000" fill="none" d=" 
-M   282.2728   477.7146
-L   281.3278   498.3117
-"/>
-M   280.0703   476.0138
-<text x="  280.0703" y="  476.0138"
- transform="rotate(   -0.0000,  280.0703,  476.0138)"
- font-family="'Arial'" font-size="    9.3305"
- style="fill: #000000; stroke: none">2</text>
 <path stroke-width="    0.8504" stroke="#000000" fill="none" d=" 
 M   239.6023   509.9606
 L   248.0315   508.2582
@@ -917,15 +899,6 @@ L   290.5512   496.7978
 L   291.0079   496.6732
 L   291.2156   496.6317
 "/>
-<path stroke-width="    0.2551" stroke="#000000" fill="none" d=" 
-M   269.4133   470.6562
-L   300.1290   498.7460
-"/>
-M   262.8259   470.2679
-<text x="  262.8259" y="  470.2679"
- transform="rotate(   -0.0000,  262.8259,  470.2679)"
- font-family="'Arial'" font-size="    9.3305"
- style="fill: #000000; stroke: none">3</text>
 <path stroke-width="    0.8504" stroke="#000000" fill="none" d=" 
 M   338.1782   509.9606
 L   333.0709   508.7565
@@ -938,15 +911,6 @@ L   293.2087   497.0469
 L   292.2536   496.6732
 L   291.8799   496.5487
 "/>
-<path stroke-width="    0.2551" stroke="#000000" fill="none" d=" 
-M   337.0417   483.4605
-L   326.1571   502.4525
-"/>
-M   337.5036   481.7597
-<text x="  337.5036" y="  481.7597"
- transform="rotate(   -0.0000,  337.5036,  481.7597)"
- font-family="'Arial'" font-size="    9.3305"
- style="fill: #000000; stroke: none">4</text>
 <path stroke-width="    0.8504" stroke="#000000" fill="none" d=" 
 M   346.7320   509.9606
 L   333.0709   506.1820
@@ -957,15 +921,6 @@ L   305.2919   496.6732
 L   305.1673   496.6317
 L   304.5030   496.3826
 "/>
-<path stroke-width="    0.2551" stroke="#000000" fill="none" d=" 
-M   353.0754   481.9495
-L   329.2876   502.6440
-"/>
-M   354.7762   481.7597
-<text x="  354.7762" y="  481.7597"
- transform="rotate(   -0.0000,  354.7762,  481.7597)"
- font-family="'Arial'" font-size="    9.3305"
- style="fill: #000000; stroke: none">5</text>
 <path stroke-width="    0.8504" stroke="#000000" fill="none" d=" 
 M   350.3030   509.9606
 L   333.0709   505.1855
@@ -974,15 +929,6 @@ L   309.1535   497.1300
 L   308.0324   496.6732
 L   306.4961   496.0504
 "/>
-<path stroke-width="    0.2551" stroke="#000000" fill="none" d=" 
-M   422.0584   487.0429
-L   398.5697   503.8951
-"/>
-M   423.7592   487.5056
-<text x="  423.7592" y="  487.5056"
- transform="rotate(   -0.0000,  423.7592,  487.5056)"
- font-family="'Arial'" font-size="    9.3305"
- style="fill: #000000; stroke: none">6</text>
 <path stroke-width="    0.8504" stroke="#000000" fill="none" d=" 
 M   422.8023   509.9606
 L   396.8504   504.6041
@@ -991,15 +937,6 @@ L   375.4660   499.3307
 L   372.9331   498.6248
 L   371.6043   498.2926
 "/>
-<path stroke-width="    0.2551" stroke="#000000" fill="none" d=" 
-M   514.0087   488.7013
-L   499.3233   505.2470
-"/>
-M   515.7094   487.5056
-<text x="  515.7094" y="  487.5056"
- transform="rotate(   -0.0000,  515.7094,  487.5056)"
- font-family="'Arial'" font-size="    9.3305"
- style="fill: #000000; stroke: none">7</text>
 <path stroke-width="    0.8504" stroke="#000000" fill="none" d=" 
 M   505.3503   509.9606
 L   503.1496   508.8395
@@ -1009,15 +946,6 @@ L   492.5197   502.8602
 L   491.1494   501.9882
 L   490.5266   501.6145
 "/>
-<path stroke-width="    0.2551" stroke="#000000" fill="none" d=" 
-M   531.2100   497.7797
-L   513.6207   507.1105
-"/>
-M   532.9108   498.9974
-<text x="  532.9108" y="  498.9974"
- transform="rotate(   -0.0000,  532.9108,  498.9974)"
- font-family="'Arial'" font-size="    9.3305"
- style="fill: #000000; stroke: none">8</text>
 <path stroke-width="    0.8504" stroke="#000000" fill="none" d=" 
 M   516.3124   509.9606
 L   513.7795   508.5904
@@ -1046,15 +974,6 @@ L   213.4843   459.1778
 L   214.8130   458.5135
 L   215.6850   458.1398
 "/>
-<path stroke-width="    0.2551" stroke="#000000" fill="none" d=" 
-M   246.9412   460.4769
-L   243.5056   476.5541
-"/>
-M   243.3142   458.7761
-<text x="  243.3142" y="  458.7761"
- transform="rotate(   -0.0000,  243.3142,  458.7761)"
- font-family="'Arial'" font-size="    9.3305"
- style="fill: #000000; stroke: none">10</text>
 <path stroke-width="    0.8504" stroke="#000000" fill="none" d=" 
 M   281.9144   495.8012
 L   281.2500   495.5521
@@ -1072,15 +991,6 @@ L   220.5847   462.1260
 L   216.1417   458.2643
 L   216.0172   458.1398
 "/>
-<path stroke-width="    0.2551" stroke="#000000" fill="none" d=" 
-M   276.2031   460.4769
-L   256.8223   476.1637
-"/>
-M   277.7896   458.7761
-<text x="  277.7896" y="  458.7761"
- transform="rotate(   -0.0000,  277.7896,  458.7761)"
- font-family="'Arial'" font-size="    9.3305"
- style="fill: #000000; stroke: none">11</text>
 <path stroke-width="    0.8504" stroke="#000000" fill="none" d=" 
 M   295.8661   495.4691
 L   293.2087   494.4725
@@ -1094,15 +1004,6 @@ L   248.0315   472.8805
 L   239.9345   467.4409
 L   226.7717   457.1847
 "/>
-<path stroke-width="    0.2551" stroke="#000000" fill="none" d=" 
-M   299.8998   460.4769
-L   300.6660   485.6664
-"/>
-M   295.0273   458.7761
-<text x="  295.0273" y="  458.7761"
- transform="rotate(   -0.0000,  295.0273,  458.7761)"
- font-family="'Arial'" font-size="    9.3305"
- style="fill: #000000; stroke: none">12</text>
 <path stroke-width="    0.8504" stroke="#000000" fill="none" d=" 
 M   296.8212   494.6801
 L   297.1534   494.0157
@@ -1112,15 +1013,6 @@ L   311.8110   464.9911
 L   330.2888   424.9213
 L   332.6141   419.6063
 "/>
-<path stroke-width="    0.2551" stroke="#000000" fill="none" d=" 
-M   317.6545   435.1779
-L   327.2937   439.3637
-"/>
-M   306.5192   435.7925
-<text x="  306.5192" y="  435.7925"
- transform="rotate(   -0.0000,  306.5192,  435.7925)"
- font-family="'Arial'" font-size="    9.3305"
- style="fill: #000000; stroke: none">13</text>
 <path stroke-width="    0.8504" stroke="#000000" fill="none" d=" 
 M   303.0496   495.3445
 L   303.7140   494.0157
@@ -1134,15 +1026,6 @@ L   339.5900   414.2913
 L   339.7146   413.9176
 L   339.8391   413.6270
 "/>
-<path stroke-width="    0.2551" stroke="#000000" fill="none" d=" 
-M   346.5045   450.2722
-L   336.5157   439.9826
-"/>
-M   346.7405   458.7761
-<text x="  346.7405" y="  458.7761"
- transform="rotate(   -0.0000,  346.7405,  458.7761)"
- font-family="'Arial'" font-size="    9.3305"
- style="fill: #000000; stroke: none">14</text>
 <path stroke-width="    0.8504" stroke="#000000" fill="none" d=" 
 M   308.1985   492.6870
 L   308.9459   491.3583
@@ -1261,15 +1144,6 @@ L   152.6529   414.2913
 L   152.3622   414.1668
 L   151.0335   413.5854
 "/>
-<path stroke-width="    0.2551" stroke="#000000" fill="none" d=" 
-M   185.5465   397.2720
-L   175.9842   406.9796
-"/>
-M   185.5420   395.5712
-<text x="  185.5420" y="  395.5712"
- transform="rotate(   -0.0000,  185.5420,  395.5712)"
- font-family="'Arial'" font-size="    9.3305"
- style="fill: #000000; stroke: none">22</text>
 <path stroke-width="    0.8504" stroke="#000000" fill="none" d=" 
 M   182.0512   425.5856
 L   181.8021   424.9213
@@ -1279,15 +1153,6 @@ L   169.6358   392.1595
 L   169.5113   391.7028
 L   169.3452   391.0384
 "/>
-<path stroke-width="    0.2551" stroke="#000000" fill="none" d=" 
-M   189.3983   444.5263
-L   185.2389   426.4512
-"/>
-M   185.5420   453.0302
-<text x="  185.5420" y="  453.0302"
- transform="rotate(   -0.0000,  185.5420,  453.0302)"
- font-family="'Arial'" font-size="    9.3305"
- style="fill: #000000; stroke: none">23</text>
 <path stroke-width="    0.8504" stroke="#000000" fill="none" d=" 
 M   182.2589   425.6272
 L   182.3834   425.5856
@@ -1297,15 +1162,6 @@ L   185.6222   424.9213
 L   186.9094   424.6306
 L   187.5738   424.4645
 "/>
-<path stroke-width="    0.2551" stroke="#000000" fill="none" d=" 
-M   171.3288   456.0181
-L   192.3871   427.2889
-"/>
-M   162.5584   464.5220
-<text x="  162.5584" y="  464.5220"
- transform="rotate(   -0.0000,  162.5584,  464.5220)"
- font-family="'Arial'" font-size="    9.3305"
- style="fill: #000000; stroke: none">24</text>
 <path stroke-width="    0.8504" stroke="#000000" fill="none" d=" 
 M   198.2037   427.8694
 L   197.5394   427.6203
@@ -1315,15 +1171,6 @@ L   189.6085   424.9213
 L   189.5669   424.8797
 L   188.2382   424.4645
 "/>
-<path stroke-width="    0.2551" stroke="#000000" fill="none" d=" 
-M   229.6012   385.7802
-L   241.7418   399.3848
-"/>
-M   220.0174   384.0794
-<text x="  220.0174" y="  384.0794"
- transform="rotate(   -0.0000,  220.0174,  384.0794)"
- font-family="'Arial'" font-size="    9.3305"
- style="fill: #000000; stroke: none">25</text>
 <path stroke-width="    0.8504" stroke="#000000" fill="none" d=" 
 M   198.8681   427.9524
 L   199.4910   427.5787
@@ -1476,15 +1323,6 @@ L   545.6693   408.4366
 L   549.6140   403.6614
 L   566.9291   385.9310
 "/>
-<path stroke-width="    0.2551" stroke="#000000" fill="none" d=" 
-M   167.4713   323.8623
-L   179.5266   312.9336
-"/>
-M   156.8058   332.3662
-<text x="  156.8058" y="  332.3662"
- transform="rotate(   -0.0000,  156.8058,  332.3662)"
- font-family="'Arial'" font-size="    9.3305"
- style="fill: #000000; stroke: none">30</text>
 <path stroke-width="    0.8504" stroke="#000000" fill="none" d=" 
 M   167.1860   391.7028
 L   167.4351   390.3740
@@ -1499,15 +1337,6 @@ L   185.3731   276.1024
 L   186.0375   270.7874
 L   186.1205   270.1230
 "/>
-<path stroke-width="    0.2551" stroke="#000000" fill="none" d=" 
-M   195.3263   309.1500
-L   185.5322   313.7562
-"/>
-M   197.0271   309.3826
-<text x="  197.0271" y="  309.3826"
- transform="rotate(   -0.0000,  197.0271,  309.3826)"
- font-family="'Arial'" font-size="    9.3305"
- style="fill: #000000; stroke: none">31</text>
 <path stroke-width="    0.8504" stroke="#000000" fill="none" d=" 
 M   170.6739   389.0453
 L   170.9230   387.7165
@@ -1522,15 +1351,6 @@ L   190.8541   268.1299
 L   190.8957   268.0054
 L   191.0202   266.8012
 "/>
-<path stroke-width="    0.2551" stroke="#000000" fill="none" d=" 
-M   213.0621   293.8457
-L   219.4918   300.0922
-"/>
-M   202.7730   292.1449
-<text x="  202.7730" y="  292.1449"
- transform="rotate(   -0.0000,  202.7730,  292.1449)"
- font-family="'Arial'" font-size="    9.3305"
- style="fill: #000000; stroke: none">32</text>
 <path stroke-width="    0.8504" stroke="#000000" fill="none" d=" 
 M   170.9230   389.0453
 L   170.9646   388.9207
@@ -1544,15 +1364,6 @@ L   226.7717   289.8465
 L   245.8308   254.8425
 L   268.6685   212.3228
 "/>
-<path stroke-width="    0.2551" stroke="#000000" fill="none" d=" 
-M   189.5804   376.8129
-L   179.6980   379.5717
-"/>
-M   191.2812   378.3335
-<text x="  191.2812" y="  378.3335"
- transform="rotate(   -0.0000,  191.2812,  378.3335)"
- font-family="'Arial'" font-size="    9.3305"
- style="fill: #000000; stroke: none">33</text>
 <path stroke-width="    0.8504" stroke="#000000" fill="none" d=" 
 M   174.5771   386.3878
 L   174.9508   385.7649
@@ -1571,15 +1382,6 @@ L   273.2360   209.6654
 L   273.2776   209.5408
 L   273.5682   209.0010
 "/>
-<path stroke-width="    0.2551" stroke="#000000" fill="none" d=" 
-M   232.7722   415.7968
-L   223.9255   403.8154
-"/>
-M   231.5025   424.3007
-<text x="  231.5025" y="  424.3007"
- transform="rotate(   -0.0000,  231.5025,  424.3007)"
- font-family="'Arial'" font-size="    9.3305"
- style="fill: #000000; stroke: none">34</text>
 <path stroke-width="    0.8504" stroke="#000000" fill="none" d=" 
 M   188.1967   424.2569
 L   188.2382   424.2154
@@ -1651,15 +1453,6 @@ L   337.0571   371.1488
 L   337.0156   371.1073
 L   336.3927   370.8166
 "/>
-<path stroke-width="    0.2551" stroke="#000000" fill="none" d=" 
-M   375.4334   356.1880
-L   380.6634   359.4788
-"/>
-M   363.6583   355.3499
-<text x="  363.6583" y="  355.3499"
- transform="rotate(   -0.0000,  363.6583,  355.3499)"
- font-family="'Arial'" font-size="    9.3305"
- style="fill: #000000; stroke: none">38</text>
 <path stroke-width="    0.8504" stroke="#000000" fill="none" d=" 
 M   363.5904   382.4016
 L   375.5906   367.9100
@@ -1670,15 +1463,6 @@ L   399.5079   338.9269
 L   399.7985   338.5531
 L   400.1722   338.0964
 "/>
-<path stroke-width="    0.2551" stroke="#000000" fill="none" d=" 
-M   358.1957   360.4074
-L   375.9078   367.5397
-"/>
-M   346.4206   361.0958
-<text x="  346.4206" y="  361.0958"
- transform="rotate(   -0.0000,  346.4206,  361.0958)"
- font-family="'Arial'" font-size="    9.3305"
- style="fill: #000000; stroke: none">39</text>
 <path stroke-width="    0.8504" stroke="#000000" fill="none" d=" 
 M   354.7875   398.3465
 L   358.6906   393.0315
@@ -1833,15 +1617,6 @@ L   311.8110   290.5939
 L   311.4373   286.7323
 L   311.2712   285.4035
 "/>
-<path stroke-width="    0.2551" stroke="#000000" fill="none" d=" 
-M   344.7008   340.1283
-L   324.5657   339.1503
-"/>
-M   346.4015   343.8581
-<text x="  346.4015" y="  343.8581"
- transform="rotate(   -0.0000,  346.4015,  343.8581)"
- font-family="'Arial'" font-size="    9.3305"
- style="fill: #000000; stroke: none">44</text>
 <path stroke-width="    0.8504" stroke="#000000" fill="none" d=" 
 M   315.7972   344.0757
 L   316.1710   343.8681
@@ -1856,15 +1631,6 @@ L   331.7421   332.8645
 L   332.1989   332.5738
 L   332.4065   332.3662
 "/>
-<path stroke-width="    0.2551" stroke="#000000" fill="none" d=" 
-M   361.9385   335.2948
-L   329.0044   338.1425
-"/>
-M   363.6393   338.1122
-<text x="  363.6393" y="  338.1122"
- transform="rotate(   -0.0000,  363.6393,  338.1122)"
- font-family="'Arial'" font-size="    9.3305"
- style="fill: #000000; stroke: none">45</text>
 <path stroke-width="    0.8504" stroke="#000000" fill="none" d=" 
 M   324.5586   345.1969
 L   326.8009   339.8819
@@ -1877,30 +1643,12 @@ L   331.7421   333.1967
 L   332.2819   332.5738
 L   332.4065   332.4492
 "/>
-<path stroke-width="    0.2551" stroke="#000000" fill="none" d=" 
-M   303.0204   381.3213
-L   327.4300   343.3002
-"/>
-M   294.6884   389.8253
-<text x="  294.6884" y="  389.8253"
- transform="rotate(   -0.0000,  294.6884,  389.8253)"
- font-family="'Arial'" font-size="    9.3305"
- style="fill: #000000; stroke: none">46</text>
 <path stroke-width="    0.8504" stroke="#000000" fill="none" d=" 
 M   324.6417   345.1969
 L   327.7559   342.4978
 L   330.7040   339.8819
 L   331.7421   339.0099
 "/>
-<path stroke-width="    0.2551" stroke="#000000" fill="none" d=" 
-M   292.8690   398.5591
-L   332.9836   354.2201
-"/>
-M   283.1966   407.0630
-<text x="  283.1966" y="  407.0630"
- transform="rotate(   -0.0000,  283.1966,  407.0630)"
- font-family="'Arial'" font-size="    9.3305"
- style="fill: #000000; stroke: none">47</text>
 <path stroke-width="    0.8504" stroke="#000000" fill="none" d=" 
 M   336.0190   370.4429
 L   335.8529   369.1142
@@ -1912,15 +1660,6 @@ L   332.9463   345.1969
 L   332.2819   339.8819
 L   332.1989   339.2175
 "/>
-<path stroke-width="    0.2551" stroke="#000000" fill="none" d=" 
-M   202.5781   266.4033
-L   173.5710   238.1155
-"/>
-M   202.7540   274.9072
-<text x="  202.7540" y="  274.9072"
- transform="rotate(   -0.0000,  202.7540,  274.9072)"
- font-family="'Arial'" font-size="    9.3305"
- style="fill: #000000; stroke: none">48</text>
 <path stroke-width="    0.8504" stroke="#000000" fill="none" d=" 
 M   143.6008   299.3553
 L   143.7254   299.1477
@@ -1996,15 +1735,6 @@ L   314.0117   185.7480
 L   312.9321   183.0906
 L   312.4339   181.7618
 "/>
-<path stroke-width="    0.2551" stroke="#000000" fill="none" d=" 
-M   377.9126   288.0998
-L   383.0664   295.6753
-"/>
-M   369.4201   286.3990
-<text x="  369.4201" y="  286.3990"
- transform="rotate(   -0.0000,  369.4201,  286.3990)"
- font-family="'Arial'" font-size="    9.3305"
- style="fill: #000000; stroke: none">52</text>
 <path stroke-width="    0.8504" stroke="#000000" fill="none" d=" 
 M   345.6939   322.6498
 L   345.7354   322.6083
@@ -2029,15 +1759,6 @@ L   421.2245   272.1161
 L   422.0965   271.5763
 L   422.3041   271.4518
 "/>
-<path stroke-width="    0.2551" stroke="#000000" fill="none" d=" 
-M   355.7990   293.8457
-L   346.8805   326.2414
-"/>
-M   352.1823   292.1449
-<text x="  352.1823" y="  292.1449"
- transform="rotate(   -0.0000,  352.1823,  292.1449)"
- font-family="'Arial'" font-size="    9.3305"
- style="fill: #000000; stroke: none">53</text>
 <path stroke-width="    0.8504" stroke="#000000" fill="none" d=" 
 M   332.2819   338.5531
 L   333.0709   337.9303
@@ -2168,15 +1889,6 @@ L   545.6693   286.7738
 L   563.5658   276.1024
 L   566.9291   273.9847
 "/>
-<path stroke-width="    0.2551" stroke="#000000" fill="none" d=" 
-M   157.8317   300.8787
-L   147.5702   287.8258
-"/>
-M   156.8216   309.3826
-<text x="  156.8216" y="  309.3826"
- transform="rotate(   -0.0000,  156.8216,  309.3826)"
- font-family="'Arial'" font-size="    9.3305"
- style="fill: #000000; stroke: none">57</text>
 <path stroke-width="    0.8504" stroke="#000000" fill="none" d=" 
 M   141.7323   297.3207
 L   151.6563   276.1024
@@ -2187,15 +1899,6 @@ L   173.6220   226.5653
 L   174.0788   225.6102
 L   175.1584   222.9528
 "/>
-<path stroke-width="    0.2551" stroke="#000000" fill="none" d=" 
-M   202.3584   242.1326
-L   188.0349   255.5379
-"/>
-M   202.7889   240.4318
-<text x="  202.7889" y="  240.4318"
- transform="rotate(   -0.0000,  202.7889,  240.4318)"
- font-family="'Arial'" font-size="    9.3305"
- style="fill: #000000; stroke: none">58</text>
 <path stroke-width="    0.8504" stroke="#000000" fill="none" d=" 
 M   186.1205   269.4587
 L   186.2036   268.1299
@@ -2205,15 +1908,6 @@ L   188.3628   233.5827
 L   188.9441   222.9528
 L   189.1102   220.2953
 "/>
-<path stroke-width="    0.2551" stroke="#000000" fill="none" d=" 
-M   218.3258   263.2679
-L   193.3456   254.0081
-"/>
-M   220.0266   269.1613
-<text x="  220.0266" y="  269.1613"
- transform="rotate(   -0.0000,  220.0266,  269.1613)"
- font-family="'Arial'" font-size="    9.3305"
- style="fill: #000000; stroke: none">59</text>
 <path stroke-width="    0.8504" stroke="#000000" fill="none" d=" 
 M   191.1033   266.1368
 L   191.1863   265.4724
@@ -2354,15 +2048,6 @@ L   167.0199   207.0079
 L   168.3071   206.4681
 L   169.6358   205.9698
 "/>
-<path stroke-width="    0.2551" stroke="#000000" fill="none" d=" 
-M   156.7459   201.9113
-L   171.5816   213.7485
-"/>
-M   145.3619   200.2105
-<text x="  145.3619" y="  200.2105"
- transform="rotate(   -0.0000,  145.3619,  200.2105)"
- font-family="'Arial'" font-size="    9.3305"
- style="fill: #000000; stroke: none">66</text>
 <path stroke-width="    0.8504" stroke="#000000" fill="none" d=" 
 M   175.1584   222.2884
 L   174.9923   221.6240
@@ -2373,15 +2058,6 @@ L   173.6220   217.4302
 L   171.9196   212.3228
 L   170.0926   207.0079
 "/>
-<path stroke-width="    0.2551" stroke="#000000" fill="none" d=" 
-M   168.8665   196.1654
-L   173.5556   214.8910
-"/>
-M   162.5996   194.4646
-<text x="  162.5996" y="  194.4646"
- transform="rotate(   -0.0000,  162.5996,  194.4646)"
- font-family="'Arial'" font-size="    9.3305"
- style="fill: #000000; stroke: none">67</text>
 <path stroke-width="    0.8504" stroke="#000000" fill="none" d=" 
 M   177.4007   225.6102
 L   176.4041   222.9528
@@ -2394,15 +2070,6 @@ L   173.6220   215.5201
 L   172.3348   212.3228
 L   170.1756   207.0079
 "/>
-<path stroke-width="    0.2551" stroke="#000000" fill="none" d=" 
-M   206.8661   195.1751
-L   189.9176   205.5928
-"/>
-M   208.5669   194.4646
-<text x="  208.5669" y="  194.4646"
- transform="rotate(   -0.0000,  208.5669,  194.4646)"
- font-family="'Arial'" font-size="    9.3305"
- style="fill: #000000; stroke: none">68</text>
 <path stroke-width="    0.8504" stroke="#000000" fill="none" d=" 
 M   189.1102   219.6309
 L   189.1102   218.9665
@@ -2413,15 +2080,6 @@ L   188.1967   196.3780
 L   188.0306   193.7205
 L   187.9475   193.0561
 "/>
-<path stroke-width="    0.2551" stroke="#000000" fill="none" d=" 
-M   212.6120   216.0494
-L   192.9655   205.0570
-"/>
-M   214.3128   223.1941
-<text x="  214.3128" y="  223.1941"
- transform="rotate(   -0.0000,  214.3128,  223.1941)"
- font-family="'Arial'" font-size="    9.3305"
- style="fill: #000000; stroke: none">69</text>
 <path stroke-width="    0.8504" stroke="#000000" fill="none" d=" 
 M   194.1760   217.6378
 L   193.0964   212.3228
@@ -2453,15 +2111,6 @@ L   285.7760   168.4744
 L   286.5650   168.0177
 L   287.0217   167.8100
 "/>
-<path stroke-width="    0.2551" stroke="#000000" fill="none" d=" 
-M   155.1688   169.6794
-L   147.3542   164.8252
-"/>
-M   156.8695   177.2269
-<text x="  156.8695" y="  177.2269"
- transform="rotate(   -0.0000,  156.8695,  177.2269)"
- font-family="'Arial'" font-size="    9.3305"
- style="fill: #000000; stroke: none">71</text>
 <path stroke-width="    0.8504" stroke="#000000" fill="none" d=" 
 M   141.7323   180.7237
 L   144.7635   169.8031
@@ -2470,15 +2119,6 @@ L   149.4141   148.5433
 L   150.3276   143.2283
 L   150.5767   141.8996
 "/>
-<path stroke-width="    0.2551" stroke="#000000" fill="none" d=" 
-M   183.8983   149.5727
-L   175.5529   147.9859
-"/>
-M   185.5991   154.2432
-<text x="  185.5991" y="  154.2432"
- transform="rotate(   -0.0000,  185.5991,  154.2432)"
- font-family="'Arial'" font-size="    9.3305"
- style="fill: #000000; stroke: none">72</text>
 <path stroke-width="    0.8504" stroke="#000000" fill="none" d=" 
 M   187.7814   192.3917
 L   187.4492   191.0630
@@ -2496,15 +2136,6 @@ L   161.8710   106.0236
 L   161.1236   103.3661
 L   160.9990   102.9094
 "/>
-<path stroke-width="    0.2551" stroke="#000000" fill="none" d=" 
-M   184.3200   138.7063
-L   175.4596   145.9370
-"/>
-M   185.5991   137.0055
-<text x="  185.5991" y="  137.0055"
- transform="rotate(   -0.0000,  185.5991,  137.0055)"
- font-family="'Arial'" font-size="    9.3305"
- style="fill: #000000; stroke: none">73</text>
 <path stroke-width="    0.8504" stroke="#000000" fill="none" d=" 
 M   189.3593   190.3986
 L   189.1102   189.7343
@@ -2547,15 +2178,6 @@ L   309.1535    99.0893
 L   310.4408    98.0512
 L   310.4823    98.0097
 "/>
-<path stroke-width="    0.2551" stroke="#000000" fill="none" d=" 
-M   260.4516   198.9382
-L   277.0707   189.9325
-"/>
-M   248.8040   205.9564
-<text x="  248.8040" y="  205.9564"
- transform="rotate(   -0.0000,  248.8040,  205.9564)"
- font-family="'Arial'" font-size="    9.3305"
- style="fill: #000000; stroke: none">75</text>
 <path stroke-width="    0.8504" stroke="#000000" fill="none" d=" 
 M   269.0007   211.6585
 L   269.2913   211.0356
@@ -2573,15 +2195,6 @@ L   286.5650   169.3464
 L   286.9387   168.4744
 L   287.1878   167.8100
 "/>
-<path stroke-width="    0.2551" stroke="#000000" fill="none" d=" 
-M   277.6893   161.3835
-L   287.3053   168.2934
-"/>
-M   266.0417   159.9891
-<text x="  266.0417" y="  159.9891"
- transform="rotate(   -0.0000,  266.0417,  159.9891)"
- font-family="'Arial'" font-size="    9.3305"
- style="fill: #000000; stroke: none">76</text>
 <path stroke-width="    0.8504" stroke="#000000" fill="none" d=" 
 M   289.5131   170.4675
 L   289.2224   170.0938
@@ -2589,15 +2202,6 @@ L   289.0148   169.8031
 L   287.8937   168.4329
 L   287.3539   167.8100
 "/>
-<path stroke-width="    0.2551" stroke="#000000" fill="none" d=" 
-M   310.3081   154.1853
-L   294.4395   162.1353
-"/>
-M   312.0089   154.2432
-<text x="  312.0089" y="  154.2432"
- transform="rotate(   -0.0000,  312.0089,  154.2432)"
- font-family="'Arial'" font-size="    9.3305"
- style="fill: #000000; stroke: none">77</text>
 <path stroke-width="    0.8504" stroke="#000000" fill="none" d=" 
 M   289.7622   170.4675
 L   289.8868   170.1769
@@ -2658,15 +2262,6 @@ L   400.8781   117.9823
 L   401.5010   117.5255
 L   401.7916   117.3179
 "/>
-<path stroke-width="    0.2551" stroke="#000000" fill="none" d=" 
-M   172.3701   107.9870
-L   159.9314   103.1059
-"/>
-M   174.0709   114.0219
-<text x="  174.0709" y="  114.0219"
- transform="rotate(   -0.0000,  174.0709,  114.0219)"
- font-family="'Arial'" font-size="    9.3305"
- style="fill: #000000; stroke: none">80</text>
 <path stroke-width="    0.8504" stroke="#000000" fill="none" d=" 
 M   150.8258   140.5709
 L   151.4902   137.9134
@@ -2681,15 +2276,6 @@ L   159.2966    98.7156
 L   159.3796    98.0512
 L   159.4627    97.3868
 "/>
-<path stroke-width="    0.2551" stroke="#000000" fill="none" d=" 
-M   174.8720    98.4850
-L   156.8969   120.2770
-"/>
-M   174.0709    96.7842
-<text x="  174.0709" y="   96.7842"
- transform="rotate(   -0.0000,  174.0709,   96.7842)"
- font-family="'Arial'" font-size="    9.3305"
- style="fill: #000000; stroke: none">81</text>
 <path stroke-width="    0.8504" stroke="#000000" fill="none" d=" 
 M   150.9089   140.5709
 L   151.6563   137.9134
@@ -2701,15 +2287,6 @@ L   160.3346   103.0755
 L   160.3762   102.7018
 L   160.5423   102.0374
 "/>
-<path stroke-width="    0.2551" stroke="#000000" fill="none" d=" 
-M   329.9565   111.2639
-L   315.0978    93.4818
-"/>
-M   329.2103   119.7678
-<text x="  329.2103" y="  119.7678"
- transform="rotate(   -0.0000,  329.2103,  119.7678)"
- font-family="'Arial'" font-size="    9.3305"
- style="fill: #000000; stroke: none">82</text>
 <path stroke-width="    0.8504" stroke="#000000" fill="none" d=" 
 M   316.7523    84.7638
 L   313.1813    95.3937
@@ -2717,15 +2294,6 @@ L   312.3508    98.0512
 L   311.8110    99.6706
 L   311.6865   100.0443
 "/>
-<path stroke-width="    0.2551" stroke="#000000" fill="none" d=" 
-M   300.7093    95.7707
-L   308.8577    98.6703
-"/>
-M   288.9889    96.7842
-<text x="  288.9889" y="   96.7842"
- transform="rotate(   -0.0000,  288.9889,   96.7842)"
- font-family="'Arial'" font-size="    9.3305"
- style="fill: #000000; stroke: none">83</text>
 <path stroke-width="    0.8504" stroke="#000000" fill="none" d=" 
 M   309.8179   100.2519
 L   309.8594   100.0443
@@ -2733,15 +2301,6 @@ L   310.1086    99.3799
 L   310.4823    98.3418
 L   310.6069    98.0512
 "/>
-<path stroke-width="    0.2551" stroke="#000000" fill="none" d=" 
-M   283.4716   141.1552
-L   293.2396   143.7831
-"/>
-M   271.7512   142.7514
-<text x="  271.7512" y="  142.7514"
- transform="rotate(   -0.0000,  271.7512,  142.7514)"
- font-family="'Arial'" font-size="    9.3305"
- style="fill: #000000; stroke: none">84</text>
 <path stroke-width="    0.8504" stroke="#000000" fill="none" d=" 
 M   287.4369   167.1457
 L   287.8937   165.5263
@@ -2756,15 +2315,6 @@ L   296.2398   139.2421
 L   296.4890   138.5778
 L   296.5305   138.4532
 "/>
-<path stroke-width="    0.2551" stroke="#000000" fill="none" d=" 
-M   321.7636   135.9329
-L   301.1790   143.0770
-"/>
-M   323.4644   137.0055
-<text x="  323.4644" y="  137.0055"
- transform="rotate(   -0.0000,  323.4644,  137.0055)"
- font-family="'Arial'" font-size="    9.3305"
- style="fill: #000000; stroke: none">85</text>
 <path stroke-width="    0.8504" stroke="#000000" fill="none" d=" 
 M   300.8904   138.5778
 L   300.7243   139.2421
@@ -2772,15 +2322,6 @@ L   300.4752   140.5709
 L   299.8939   143.2283
 L   298.9804   148.5433
 "/>
-<path stroke-width="    0.2551" stroke="#000000" fill="none" d=" 
-M   281.3679   109.9768
-L   298.4452   128.8906
-"/>
-M   271.7512   108.2760
-<text x="  271.7512" y="  108.2760"
- transform="rotate(   -0.0000,  271.7512,  108.2760)"
- font-family="'Arial'" font-size="    9.3305"
- style="fill: #000000; stroke: none">86</text>
 <path stroke-width="    0.8504" stroke="#000000" fill="none" d=" 
 M   296.9042   137.2490
 L   297.1534   136.5846
@@ -2796,15 +2337,6 @@ L   301.7209   123.2972
 L   301.8455   122.8405
 L   301.8870   122.6329
 "/>
-<path stroke-width="    0.2551" stroke="#000000" fill="none" d=" 
-M   339.0013   137.7741
-L   304.4948   129.6714
-"/>
-M   340.7021   142.7514
-<text x="  340.7021" y="  142.7514"
- transform="rotate(   -0.0000,  340.7021,  142.7514)"
- font-family="'Arial'" font-size="    9.3305"
- style="fill: #000000; stroke: none">87</text>
 <path stroke-width="    0.8504" stroke="#000000" fill="none" d=" 
 M   304.8767   122.6329
 L   304.7106   123.2972
@@ -2838,15 +2370,6 @@ L   329.0431    95.3937
 L   333.0709    87.6289
 L   334.5242    84.7638
 "/>
-<path stroke-width="    0.2551" stroke="#000000" fill="none" d=" 
-M   402.6826   134.2475
-L   409.1594   127.9618
-"/>
-M   392.4152   142.7514
-<text x="  392.4152" y="  142.7514"
- transform="rotate(   -0.0000,  392.4152,  142.7514)"
- font-family="'Arial'" font-size="    9.3305"
- style="fill: #000000; stroke: none">89</text>
 <path stroke-width="    0.8504" stroke="#000000" fill="none" d=" 
 M   430.0689   156.8895
 L   429.8613   156.5157
@@ -2915,44 +2438,17 @@ M   524.4094   128.0724
 M   526.5189   127.5519
 L   566.9291   119.6847
 "/>
-<path stroke-width="    0.2551" stroke="#000000" fill="none" d=" 
-M   189.6056   112.6590
-L   160.7864    96.7433
-"/>
-M   191.3064   119.7678
-<text x="  191.3064" y="  119.7678"
- transform="rotate(   -0.0000,  191.3064,  119.7678)"
- font-family="'Arial'" font-size="    9.3305"
- style="fill: #000000; stroke: none">93</text>
 <path stroke-width="    0.8504" stroke="#000000" fill="none" d=" 
 M   159.5457    96.7224
 L   159.5457    95.3937
 L   159.5457    84.7638
 "/>
-<path stroke-width="    0.2551" stroke="#000000" fill="none" d=" 
-M   189.6056    98.6275
-L   161.0421    96.4957
-"/>
-M   191.3064   102.5301
-<text x="  191.3064" y="  102.5301"
- transform="rotate(   -0.0000,  191.3064,  102.5301)"
- font-family="'Arial'" font-size="    9.3305"
- style="fill: #000000; stroke: none">94</text>
 <path stroke-width="    0.8504" stroke="#000000" fill="none" d=" 
 M   159.6288    97.3868
 L   159.6288    96.7224
 L   159.6288    95.3937
 L   159.6288    84.7638
 "/>
-<path stroke-width="    0.2551" stroke="#000000" fill="none" d=" 
-M   202.7722   139.9934
-L   160.8190    97.5038
-"/>
-M   202.7982   148.4973
-<text x="  202.7982" y="  148.4973"
- transform="rotate(   -0.0000,  202.7982,  148.4973)"
- font-family="'Arial'" font-size="    9.3305"
- style="fill: #000000; stroke: none">95</text>
 <path stroke-width="    0.8504" stroke="#000000" fill="none" d=" 
 M   159.6703    97.5944
 L   159.7118    97.3868
@@ -2960,15 +2456,6 @@ L   159.7948    96.7224
 L   159.9609    95.3937
 L   161.0405    84.7638
 "/>
-<path stroke-width="    0.2551" stroke="#000000" fill="none" d=" 
-M   206.8433   123.4182
-L   163.0540    94.4557
-"/>
-M   208.5441   131.2596
-<text x="  208.5441" y="  131.2596"
- transform="rotate(   -0.0000,  208.5441,  131.2596)"
- font-family="'Arial'" font-size="    9.3305"
- style="fill: #000000; stroke: none">96</text>
 <path stroke-width="    0.8504" stroke="#000000" fill="none" d=" 
 M   160.7084   101.3730
 L   160.7914   100.7087
@@ -2977,30 +2464,12 @@ L   161.6219    95.3937
 L   162.9921    85.9680
 L   163.1997    84.7638
 "/>
-<path stroke-width="    0.2551" stroke="#000000" fill="none" d=" 
-M   338.9991    98.6032
-L   312.1237    96.5002
-"/>
-M   340.6999   102.5301
-<text x="  340.6999" y="  102.5301"
- transform="rotate(   -0.0000,  340.6999,  102.5301)"
- font-family="'Arial'" font-size="    9.3305"
- style="fill: #000000; stroke: none">97</text>
 <path stroke-width="    0.8504" stroke="#000000" fill="none" d=" 
 M   310.6899    97.3868
 L   310.6899    96.7224
 L   310.7729    95.3937
 L   311.4373    84.7638
 "/>
-<path stroke-width="    0.2551" stroke="#000000" fill="none" d=" 
-M   344.7450   117.7713
-L   312.5079    96.9250
-"/>
-M   346.4458   125.5137
-<text x="  346.4458" y="  125.5137"
- transform="rotate(   -0.0000,  346.4458,  125.5137)"
- font-family="'Arial'" font-size="    9.3305"
- style="fill: #000000; stroke: none">98</text>
 <path stroke-width="    0.8504" stroke="#000000" fill="none" d=" 
 M   310.8560    97.3868
 L   311.1051    96.7224
@@ -3008,45 +2477,18 @@ L   311.6034    95.3937
 L   311.8110    94.9369
 L   315.8388    84.7638
 "/>
-<path stroke-width="    0.2551" stroke="#000000" fill="none" d=" 
-M   392.2396   104.2309
-L   396.2989   107.5152
-"/>
-M   380.9212   102.5301
-<text x="  380.9212" y="  102.5301"
- transform="rotate(   -0.0000,  380.9212,  102.5301)"
- font-family="'Arial'" font-size="    9.3305"
- style="fill: #000000; stroke: none">99</text>
 <path stroke-width="    0.8504" stroke="#000000" fill="none" d=" 
 M   401.5425   116.6535
 L   396.8504   107.3108
 L   396.1445   106.0236
 L   384.2689    84.7638
 "/>
-<path stroke-width="    0.2551" stroke="#000000" fill="none" d=" 
-M   437.6945   111.2639
-L   424.3668    99.3287
-"/>
-M   436.0810   119.7678
-<text x="  436.0810" y="  119.7678"
- transform="rotate(   -0.0000,  436.0810,  119.7678)"
- font-family="'Arial'" font-size="    9.3305"
- style="fill: #000000; stroke: none">100</text>
 <path stroke-width="    0.8504" stroke="#000000" fill="none" d=" 
 M   423.3837   101.3730
 L   423.3837   100.7087
 L   423.2176    95.3937
 L   422.8854    84.7638
 "/>
-<path stroke-width="    0.2551" stroke="#000000" fill="none" d=" 
-M   440.1262    95.1936
-L   436.6488    93.6752
-"/>
-M   441.8270   102.5301
-<text x="  441.8270" y="  102.5301"
- transform="rotate(   -0.0000,  441.8270,  102.5301)"
- font-family="'Arial'" font-size="    9.3305"
- style="fill: #000000; stroke: none">101</text>
 <path stroke-width="    0.8504" stroke="#000000" fill="none" d=" 
 M   423.4252   101.7467
 L   424.7955   100.7087
@@ -3055,15 +2497,6 @@ L   432.1866    95.3937
 L   439.3701    90.2033
 L   446.8027    84.7638
 "/>
-<path stroke-width="    0.2551" stroke="#000000" fill="none" d=" 
-M   191.5320   479.0017
-L   163.6490   449.2776
-"/>
-M   189.0072   487.5056
-<text x="  189.0072" y="  487.5056"
- transform="rotate(   -0.0000,  189.0072,  487.5056)"
- font-family="'Arial'" font-size="    9.3305"
- style="fill: #000000; stroke: none">102</text>
 <path stroke-width="    0.8504" stroke="#000000" fill="none" d=" 
 M   141.7323   461.2540
 L   162.9921   448.0496
@@ -3076,15 +2509,6 @@ L   186.9094   432.8522
 L   188.2382   432.0217
 L   188.9441   431.5650
 "/>
-<path stroke-width="    0.2551" stroke="#000000" fill="none" d=" 
-M   151.2429   397.2720
-L   158.5392   439.0175
-"/>
-M   143.0400   395.5712
-<text x="  143.0400" y="  395.5712"
- transform="rotate(   -0.0000,  143.0400,  395.5712)"
- font-family="'Arial'" font-size="    9.3305"
- style="fill: #000000; stroke: none">103</text>
 <path stroke-width="    0.8504" stroke="#000000" fill="none" d=" 
 M   141.7323   451.1224
 L   149.6632   446.1811
@@ -3096,15 +2520,6 @@ L   178.9370   427.4542
 L   179.6014   427.0389
 L   179.8090   426.9144
 "/>
-<path stroke-width="    0.2551" stroke="#000000" fill="none" d=" 
-M   149.8176   380.0343
-L   146.0077   416.4699
-"/>
-M   143.0400   378.3335
-<text x="  143.0400" y="  378.3335"
- transform="rotate(   -0.0000,  143.0400,  378.3335)"
- font-family="'Arial'" font-size="    9.3305"
- style="fill: #000000; stroke: none">104</text>
 <path stroke-width="    0.8504" stroke="#000000" fill="none" d=" 
 M   141.7323   422.1392
 L   144.1821   419.6063
@@ -3113,15 +2528,6 @@ L   149.3310   414.2913
 L   149.7047   413.9176
 L   149.9954   413.6270
 "/>
-<path stroke-width="    0.2551" stroke="#000000" fill="none" d=" 
-M   149.9554   362.7966
-L   145.8385   415.8780
-"/>
-M   143.0400   361.0958
-<text x="  143.0400" y="  361.0958"
- transform="rotate(   -0.0000,  143.0400,  361.0958)"
- font-family="'Arial'" font-size="    9.3305"
- style="fill: #000000; stroke: none">105</text>
 <path stroke-width="    0.8504" stroke="#000000" fill="none" d=" 
 M   141.7323   421.3918
 L   143.5178   419.6063
@@ -3129,45 +2535,18 @@ L   147.0472   415.9107
 L   148.5836   414.2913
 L   149.7047   413.1702
 "/>
-<path stroke-width="    0.2551" stroke="#000000" fill="none" d=" 
-M   198.7982   394.8002
-L   146.0825   410.1882
-"/>
-M   200.4990   395.5712
-<text x="  200.4990" y="  395.5712"
- transform="rotate(   -0.0000,  200.4990,  395.5712)"
- font-family="'Arial'" font-size="    9.3305"
- style="fill: #000000; stroke: none">106</text>
 <path stroke-width="    0.8504" stroke="#000000" fill="none" d=" 
 M   141.7323   409.1840
 L   147.0472   411.6754
 L   149.7047   412.9211
 L   149.7462   412.9626
 "/>
-<path stroke-width="    0.2551" stroke="#000000" fill="none" d=" 
-M   201.9512   352.5918
-L   143.4877   301.6785
-"/>
-M   200.4990   361.0958
-<text x="  200.4990" y="  361.0958"
- transform="rotate(   -0.0000,  200.4990,  361.0958)"
- font-family="'Arial'" font-size="    9.3305"
- style="fill: #000000; stroke: none">107</text>
 <path stroke-width="    0.8504" stroke="#000000" fill="none" d=" 
 M   141.7323   301.4730
 L   141.8569   301.3484
 L   143.0610   300.0612
 L   143.1025   300.0197
 "/>
-<path stroke-width="    0.2551" stroke="#000000" fill="none" d=" 
-M   210.2900   335.7564
-L   143.6485   300.9999
-"/>
-M   211.9908   343.8581
-<text x="  211.9908" y="  343.8581"
- transform="rotate(   -0.0000,  211.9908,  343.8581)"
- font-family="'Arial'" font-size="    9.3305"
- style="fill: #000000; stroke: none">108</text>
 <path stroke-width="    0.8504" stroke="#000000" fill="none" d=" 
 M   141.7323   300.8086
 L   142.8534   300.0197
@@ -3189,15 +2568,6 @@ L   173.6220   223.1604
 L   174.4110   222.9528
 L   174.9508   222.8282
 "/>
-<path stroke-width="    0.2551" stroke="#000000" fill="none" d=" 
-M   216.0359   145.2831
-L   146.2462   146.7337
-"/>
-M   217.7367   148.4973
-<text x="  217.7367" y="  148.4973"
- transform="rotate(   -0.0000,  217.7367,  148.4973)"
- font-family="'Arial'" font-size="    9.3305"
- style="fill: #000000; stroke: none">110</text>
 <path stroke-width="    0.8504" stroke="#000000" fill="none" d=" 
 M   141.7323   149.4983
 L   142.8534   148.5433
@@ -3207,15 +2577,6 @@ L   149.7047   142.3564
 L   150.2445   141.8996
 L   150.3691   141.7750
 "/>
-<path stroke-width="    0.2551" stroke="#000000" fill="none" d=" 
-M   236.8225   380.0343
-L   185.4790   427.9874
-"/>
-M   234.9744   378.3335
-<text x="  234.9744" y="  378.3335"
- transform="rotate(   -0.0000,  234.9744,  378.3335)"
- font-family="'Arial'" font-size="    9.3305"
- style="fill: #000000; stroke: none">111</text>
 <path stroke-width="    0.8504" stroke="#000000" fill="none" d=" 
 M   179.9751   426.9144
 L   180.2657   427.0389
@@ -3227,15 +2588,6 @@ L   188.2382   430.6930
 L   188.6949   430.9006
 L   188.9026   431.0252
 "/>
-<path stroke-width="    0.2551" stroke="#000000" fill="none" d=" 
-M   210.2900   431.2127
-L   187.6320   428.2504
-"/>
-M   211.9908   435.7925
-<text x="  211.9908" y="  435.7925"
- transform="rotate(   -0.0000,  211.9908,  435.7925)"
- font-family="'Arial'" font-size="    9.3305"
- style="fill: #000000; stroke: none">112</text>
 <path stroke-width="    0.8504" stroke="#000000" fill="none" d=" 
 M   182.2589   425.7102
 L   182.9232   426.1254
@@ -3245,15 +2597,6 @@ L   189.5669   429.9456
 L   190.0237   430.2362
 L   190.2313   430.3608
 "/>
-<path stroke-width="    0.2551" stroke="#000000" fill="none" d=" 
-M   220.4200   368.5425
-L   183.2243   409.5518
-"/>
-M   217.7367   366.8417
-<text x="  217.7367" y="  366.8417"
- transform="rotate(   -0.0000,  217.7367,  366.8417)"
- font-family="'Arial'" font-size="    9.3305"
- style="fill: #000000; stroke: none">113</text>
 <path stroke-width="    0.8504" stroke="#000000" fill="none" d=" 
 M   174.4940   387.0522
 L   174.6601   387.7165
@@ -3266,15 +2609,6 @@ L   186.9510   422.2638
 L   187.6153   423.5925
 L   187.8645   424.2569
 "/>
-<path stroke-width="    0.2551" stroke="#000000" fill="none" d=" 
-M   243.3170   283.6410
-L   186.8852   222.5660
-"/>
-M   240.7203   292.1449
-<text x="  240.7203" y="  292.1449"
- transform="rotate(   -0.0000,  240.7203,  292.1449)"
- font-family="'Arial'" font-size="    9.3305"
- style="fill: #000000; stroke: none">114</text>
 <path stroke-width="    0.8504" stroke="#000000" fill="none" d=" 
 M   177.6083   225.9839
 L   178.2311   225.6102
@@ -3286,15 +2620,6 @@ L   188.1967   220.2953
 L   188.2382   220.2538
 L   188.9026   219.9216
 "/>
-<path stroke-width="    0.2551" stroke="#000000" fill="none" d=" 
-M   227.5277   211.7633
-L   180.1487   199.7589
-"/>
-M   229.2285   217.4482
-<text x="  229.2285" y="  217.4482"
- transform="rotate(   -0.0000,  229.2285,  217.4482)"
- font-family="'Arial'" font-size="    9.3305"
- style="fill: #000000; stroke: none">115</text>
 <path stroke-width="    0.8504" stroke="#000000" fill="none" d=" 
 M   170.0926   205.6791
 L   170.9646   205.0563
@@ -3307,15 +2632,6 @@ L   186.9094   193.6789
 L   187.5738   193.2637
 L   187.8645   193.0561
 "/>
-<path stroke-width="    0.2551" stroke="#000000" fill="none" d=" 
-M   261.1083   362.7966
-L   275.6815   372.9396
-"/>
-M   246.4662   361.0958
-<text x="  246.4662" y="  361.0958"
- transform="rotate(   -0.0000,  246.4662,  361.0958)"
- font-family="'Arial'" font-size="    9.3305"
- style="fill: #000000; stroke: none">116</text>
 <path stroke-width="    0.8504" stroke="#000000" fill="none" d=" 
 M   259.7825   379.7441
 L   261.3189   379.2043
@@ -3329,15 +2645,6 @@ L   293.2087   367.9100
 L   293.4993   367.7854
 L   293.8730   367.6609
 "/>
-<path stroke-width="    0.2551" stroke="#000000" fill="none" d=" 
-M   274.2812   345.3013
-L   294.5832   356.2159
-"/>
-M   257.9580   343.8581
-<text x="  257.9580" y="  343.8581"
- transform="rotate(   -0.0000,  257.9580,  343.8581)"
- font-family="'Arial'" font-size="    9.3305"
- style="fill: #000000; stroke: none">117</text>
 <path stroke-width="    0.8504" stroke="#000000" fill="none" d=" 
 M   259.6164   379.7441
 L   261.3189   378.7060
@@ -3352,15 +2659,6 @@ L   311.8110   346.6502
 L   312.0186   346.5256
 L   312.4754   346.2349
 "/>
-<path stroke-width="    0.2551" stroke="#000000" fill="none" d=" 
-M   279.7839   226.1820
-L   271.9483   211.4994
-"/>
-M   275.1958   234.6859
-<text x="  275.1958" y="  234.6859"
- transform="rotate(   -0.0000,  275.1958,  234.6859)"
- font-family="'Arial'" font-size="    9.3305"
- style="fill: #000000; stroke: none">118</text>
 <path stroke-width="    0.8504" stroke="#000000" fill="none" d=" 
 M   269.2498   211.6585
 L   269.2913   211.6169
@@ -3387,15 +2685,6 @@ L   364.9606   497.8774
 L   370.2756   498.1265
 L   370.9400   498.1265
 "/>
-<path stroke-width="    0.2551" stroke="#000000" fill="none" d=" 
-M   275.9611   328.3211
-L   305.2196   358.5044
-"/>
-M   263.7039   326.6203
-<text x="  263.7039" y="  326.6203"
- transform="rotate(   -0.0000,  263.7039,  326.6203)"
- font-family="'Arial'" font-size="    9.3305"
- style="fill: #000000; stroke: none">120</text>
 <path stroke-width="    0.8504" stroke="#000000" fill="none" d=" 
 M   294.5374   367.3287
 L   295.8246   366.4567
@@ -3407,15 +2696,6 @@ L   313.1398   354.7056
 L   313.4304   354.4980
 L   313.8041   354.2074
 "/>
-<path stroke-width="    0.2551" stroke="#000000" fill="none" d=" 
-M   325.2081   194.1553
-L   304.5606   188.0757
-"/>
-M   326.9089   200.2105
-<text x="  326.9089" y="  200.2105"
- transform="rotate(   -0.0000,  326.9089,  200.2105)"
- font-family="'Arial'" font-size="    9.3305"
- style="fill: #000000; stroke: none">121</text>
 <path stroke-width="    0.8504" stroke="#000000" fill="none" d=" 
 M   295.2018   193.3468
 L   295.5755   193.0561
@@ -3424,15 +2704,6 @@ L   298.3991   191.0630
 L   301.1811   189.1114
 L   311.8110   181.5542
 "/>
-<path stroke-width="    0.2551" stroke="#000000" fill="none" d=" 
-M   366.4679   433.0345
-L   357.9655   413.5596
-"/>
-M   361.3843   441.5384
-<text x="  361.3843" y="  441.5384"
- transform="rotate(   -0.0000,  361.3843,  441.5384)"
- font-family="'Arial'" font-size="    9.3305"
- style="fill: #000000; stroke: none">122</text>
 <path stroke-width="    0.8504" stroke="#000000" fill="none" d=" 
 M   351.0089   408.1044
 L   351.2995   408.3120
@@ -3448,15 +2719,6 @@ L   362.9675   415.9107
 M   354.2892   399.0108
 L   354.3307   398.9693
 "/>
-<path stroke-width="    0.2551" stroke="#000000" fill="none" d=" 
-M   377.8886   404.3050
-L   359.2052   392.4548
-"/>
-M   378.6220   412.8089
-<text x="  378.6220" y="  412.8089"
- transform="rotate(   -0.0000,  378.6220,  412.8089)"
- font-family="'Arial'" font-size="    9.3305"
- style="fill: #000000; stroke: none">124</text>
 <path stroke-width="    0.8504" stroke="#000000" fill="none" d=" 
 M   352.8774   400.3396
 L   353.0020   400.2150
@@ -3474,15 +2736,6 @@ L   362.7599   383.7303
 L   362.9675   383.4397
 L   363.1751   383.0659
 "/>
-<path stroke-width="    0.2551" stroke="#000000" fill="none" d=" 
-M   320.2484   411.0227
-L   350.7787   397.0296
-"/>
-M   303.9253   418.5548
-<text x="  303.9253" y="  418.5548"
- transform="rotate(   -0.0000,  303.9253,  418.5548)"
- font-family="'Arial'" font-size="    9.3305"
- style="fill: #000000; stroke: none">125</text>
 <path stroke-width="    0.8504" stroke="#000000" fill="none" d=" 
 M   340.8357   409.6407
 L   341.0433   409.4331
@@ -3521,15 +2774,6 @@ L   481.8898   501.0332
 L   487.2047   501.2823
 L   489.8622   501.3653
 "/>
-<path stroke-width="    0.2551" stroke="#000000" fill="none" d=" 
-M   402.4894   276.6080
-L   414.4558   288.6640
-"/>
-M   390.1138   274.9072
-<text x="  390.1138" y="  274.9072"
- transform="rotate(   -0.0000,  390.1138,  274.9072)"
- font-family="'Arial'" font-size="    9.3305"
- style="fill: #000000; stroke: none">127</text>
 <path stroke-width="    0.8504" stroke="#000000" fill="none" d=" 
 M   395.5217   290.8431
 L   396.8504   290.7600
@@ -3538,15 +2782,6 @@ L   428.7402   288.7669
 L   429.4045   288.7669
 L   429.7782   288.7254
 "/>
-<path stroke-width="    0.2551" stroke="#000000" fill="none" d=" 
-M   432.8554   306.6246
-L   409.7425   282.0093
-"/>
-M   430.3351   315.1285
-<text x="  430.3351" y="  315.1285"
- transform="rotate(   -0.0000,  430.3351,  315.1285)"
- font-family="'Arial'" font-size="    9.3305"
- style="fill: #000000; stroke: none">128</text>
 <path stroke-width="    0.8504" stroke="#000000" fill="none" d=" 
 M   395.3140   290.7185
 L   395.5217   290.5109
@@ -3619,15 +2854,6 @@ L   488.7411   137.9134
 L   492.5197   136.7923
 L   497.8346   135.2144
 "/>
-<path stroke-width="    0.2551" stroke="#000000" fill="none" d=" 
-M   531.6443   483.4605
-L   519.2596   500.6209
-"/>
-M   528.0155   481.7597
-<text x="  528.0155" y="  481.7597"
- transform="rotate(   -0.0000,  528.0155,  481.7597)"
- font-family="'Arial'" font-size="    9.3305"
- style="fill: #000000; stroke: none">132</text>
 <path stroke-width="    0.8504" stroke="#000000" fill="none" d=" 
 M   501.8209   501.5314
 L   503.1496   501.5314
@@ -3635,30 +2861,12 @@ L   513.7795   501.6975
 L   524.4094   501.8636
 L   566.9291   502.7771
 "/>
-<path stroke-width="    0.2551" stroke="#000000" fill="none" d=" 
-M   534.2375   272.1492
-L   542.6333   262.9500
-"/>
-M   522.2696   280.6531
-<text x="  522.2696" y="  280.6531"
- transform="rotate(   -0.0000,  522.2696,  280.6531)"
- font-family="'Arial'" font-size="    9.3305"
- style="fill: #000000; stroke: none">133</text>
 <path stroke-width="    0.8504" stroke="#000000" fill="none" d=" 
 M   535.7453   260.1575
 L   540.3543   261.1956
 L   545.6693   262.3582
 L   566.9291   265.2648
 "/>
-<path stroke-width="    0.2551" stroke="#000000" fill="none" d=" 
-M   267.7117   454.7310
-L   286.9489   494.9173
-"/>
-M   257.9580   453.0302
-<text x="  257.9580" y="  453.0302"
- transform="rotate(   -0.0000,  257.9580,  453.0302)"
- font-family="'Arial'" font-size="    9.3305"
- style="fill: #000000; stroke: none">134</text>
 <path stroke-width="    0.8504" stroke="#000000" fill="none" d=" 
 M   283.9075   495.9673
 L   285.2362   496.0504
@@ -3666,15 +2874,6 @@ L   287.8937   496.2165
 L   290.5512   496.3826
 L   291.2156   496.3826
 "/>
-<path stroke-width="    0.2551" stroke="#000000" fill="none" d=" 
-M   283.1601   443.2392
-L   289.7094   494.3954
-"/>
-M   275.1958   441.5384
-<text x="  275.1958" y="  441.5384"
- transform="rotate(   -0.0000,  275.1958,  441.5384)"
- font-family="'Arial'" font-size="    9.3305"
- style="fill: #000000; stroke: none">135</text>
 <path stroke-width="    0.8504" stroke="#000000" fill="none" d=" 
 M   283.9075   495.8843
 L   285.2362   495.8843
@@ -3685,15 +2884,6 @@ L   291.8799   495.7182
 L   293.2087   495.7182
 L   295.8661   495.6352
 "/>
-<path stroke-width="    0.2551" stroke="#000000" fill="none" d=" 
-M   495.4244   471.9687
-L   500.7949   476.4868
-"/>
-M   482.0483   470.2679
-<text x="  482.0483" y="  470.2679"
- transform="rotate(   -0.0000,  482.0483,  470.2679)"
- font-family="'Arial'" font-size="    9.3305"
- style="fill: #000000; stroke: none">136</text>
 <path stroke-width="    0.8504" stroke="#000000" fill="none" d=" 
 M   495.7170   490.0295
 L   496.3813   488.7008
@@ -3705,15 +2895,6 @@ L   505.8486   470.0984
 L   506.3469   468.7697
 L   506.4715   468.4790
 "/>
-<path stroke-width="    0.2551" stroke="#000000" fill="none" d=" 
-M   170.7281   490.4935
-L   199.6578   443.4720
-"/>
-M   160.2777   498.9974
-<text x="  160.2777" y="  498.9974"
- transform="rotate(   -0.0000,  160.2777,  498.9974)"
- font-family="'Arial'" font-size="    9.3305"
- style="fill: #000000; stroke: none">137</text>
 <path stroke-width="    0.8504" stroke="#000000" fill="none" d=" 
 M   215.4774   457.6830
 L   215.2697   457.4754
@@ -3747,15 +2928,6 @@ L   199.4079   428.9075
 L   198.8681   428.2846
 L   198.8266   428.2431
 "/>
-<path stroke-width="    0.2551" stroke="#000000" fill="none" d=" 
-M   381.1943   444.5263
-L   347.4061   408.1461
-"/>
-M   378.6220   453.0302
-<text x="  378.6220" y="  453.0302"
- transform="rotate(   -0.0000,  378.6220,  453.0302)"
- font-family="'Arial'" font-size="    9.3305"
- style="fill: #000000; stroke: none">139</text>
 <path stroke-width="    0.8504" stroke="#000000" fill="none" d=" 
 M   340.3789   413.0872
 L   340.5035   412.9626
@@ -3768,15 +2940,6 @@ L   349.8047   403.6614
 L   351.6732   401.7098
 L   352.3791   401.0039
 "/>
-<path stroke-width="    0.2551" stroke="#000000" fill="none" d=" 
-M   366.9977   450.2722
-L   352.0480   405.3421
-"/>
-M   361.3843   458.7761
-<text x="  361.3843" y="  458.7761"
- transform="rotate(   -0.0000,  361.3843,  458.7761)"
- font-family="'Arial'" font-size="    9.3305"
- style="fill: #000000; stroke: none">140</text>
 <path stroke-width="    0.8504" stroke="#000000" fill="none" d=" 
 M   350.5521   406.9833
 L   350.8012   406.3189
@@ -3784,15 +2947,6 @@ L   351.6732   403.7860
 L   351.7148   403.6614
 L   352.6283   401.0039
 "/>
-<path stroke-width="    0.2551" stroke="#000000" fill="none" d=" 
-M   398.1861   450.2722
-L   353.3384   404.3669
-"/>
-M   395.8597   458.7761
-<text x="  395.8597" y="  458.7761"
- transform="rotate(   -0.0000,  395.8597,  458.7761)"
- font-family="'Arial'" font-size="    9.3305"
- style="fill: #000000; stroke: none">141</text>
 <path stroke-width="    0.8504" stroke="#000000" fill="none" d=" 
 M   350.6352   406.9833
 L   350.9673   406.3189
@@ -3801,15 +2955,6 @@ L   352.2130   403.6614
 L   353.3757   401.0039
 L   353.9570   399.6752
 "/>
-<path stroke-width="    0.2551" stroke="#000000" fill="none" d=" 
-M   303.0107   419.9324
-L   335.0379   416.4969
-"/>
-M   286.6876   424.3007
-<text x="  286.6876" y="  424.3007"
- transform="rotate(   -0.0000,  286.6876,  424.3007)"
- font-family="'Arial'" font-size="    9.3305"
- style="fill: #000000; stroke: none">142</text>
 <path stroke-width="    0.8504" stroke="#000000" fill="none" d=" 
 M   333.0709   418.9835
 L   338.3858   414.8311
@@ -3817,15 +2962,6 @@ L   339.0087   414.2913
 L   339.7146   413.6685
 L   339.7561   413.6270
 "/>
-<path stroke-width="    0.2551" stroke="#000000" fill="none" d=" 
-M   381.1270   461.7640
-L   337.6965   415.6568
-"/>
-M   378.6220   470.2679
-<text x="  378.6220" y="  470.2679"
- transform="rotate(   -0.0000,  378.6220,  470.2679)"
- font-family="'Arial'" font-size="    9.3305"
- style="fill: #000000; stroke: none">143</text>
 <path stroke-width="    0.8504" stroke="#000000" fill="none" d=" 
 M   333.0293   418.9419
 L   333.0709   418.8174
@@ -3836,15 +2972,6 @@ L   339.7146   411.0110
 L   340.3374   410.3051
 L   340.3789   410.2636
 "/>
-<path stroke-width="    0.2551" stroke="#000000" fill="none" d=" 
-M   394.6188   415.7968
-L   373.5886   403.2496
-"/>
-M   395.8597   424.3007
-<text x="  395.8597" y="  424.3007"
- transform="rotate(   -0.0000,  395.8597,  424.3007)"
- font-family="'Arial'" font-size="    9.3305"
- style="fill: #000000; stroke: none">144</text>
 <path stroke-width="    0.8504" stroke="#000000" fill="none" d=" 
 M   363.6319   415.9107
 L   363.8395   415.6201
@@ -3856,15 +2983,6 @@ L   378.3726   393.0315
 L   379.2031   391.7028
 L   379.5768   391.1630
 "/>
-<path stroke-width="    0.2551" stroke="#000000" fill="none" d=" 
-M   394.1589   401.0181
-L   371.6380   394.4123
-"/>
-M   395.8597   407.0630
-<text x="  395.8597" y="  407.0630"
- transform="rotate(   -0.0000,  395.8597,  407.0630)"
- font-family="'Arial'" font-size="    9.3305"
- style="fill: #000000; stroke: none">145</text>
 <path stroke-width="    0.8504" stroke="#000000" fill="none" d=" 
 M   354.9951   398.7202
 L   355.6594   398.5541
@@ -3876,15 +2994,6 @@ L   375.5906   392.4086
 L   378.2480   391.4951
 L   379.5768   391.0799
 "/>
-<path stroke-width="    0.2551" stroke="#000000" fill="none" d=" 
-M   183.4625   496.2394
-L   158.8163   404.0518
-"/>
-M   177.5154   504.7433
-<text x="  177.5154" y="  504.7433"
- transform="rotate(   -0.0000,  177.5154,  504.7433)"
- font-family="'Arial'" font-size="    9.3305"
- style="fill: #000000; stroke: none">146</text>
 <path stroke-width="    0.8504" stroke="#000000" fill="none" d=" 
 M   149.8293   412.9626
 L   150.9919   411.6339
@@ -3894,15 +3003,6 @@ L   162.9921   397.2253
 L   166.4385   393.0315
 L   166.9783   392.3256
 "/>
-<path stroke-width="    0.2551" stroke="#000000" fill="none" d=" 
-M   199.8945   496.2394
-L   160.3834   403.3280
-"/>
-M   194.7531   504.7433
-<text x="  194.7531" y="  504.7433"
- transform="rotate(   -0.0000,  194.7531,  504.7433)"
- font-family="'Arial'" font-size="    9.3305"
- style="fill: #000000; stroke: none">147</text>
 <path stroke-width="    0.8504" stroke="#000000" fill="none" d=" 
 M   150.5767   412.9626
 L   151.0335   412.4228
@@ -3918,15 +3018,6 @@ L   168.3486   391.7028
 L   168.9299   391.0384
 L   168.9715   390.9969
 "/>
-<path stroke-width="    0.2551" stroke="#000000" fill="none" d=" 
-M   260.1278   173.1817
-L   280.3967   189.4674
-"/>
-M   246.4662   171.4810
-<text x="  246.4662" y="  171.4810"
- transform="rotate(   -0.0000,  246.4662,  171.4810)"
- font-family="'Arial'" font-size="    9.3305"
- style="fill: #000000; stroke: none">148</text>
 <path stroke-width="    0.8504" stroke="#000000" fill="none" d=" 
 M   273.9004   208.3366
 L   274.4817   207.0079
@@ -3941,15 +3032,6 @@ L   288.9318   172.4606
 L   289.2224   171.6717
 L   289.4301   171.1319
 "/>
-<path stroke-width="    0.2551" stroke="#000000" fill="none" d=" 
-M   332.6594   208.9442
-L   293.4950   181.5949
-"/>
-M   332.6548   217.4482
-<text x="  332.6548" y="  217.4482"
- transform="rotate(   -0.0000,  332.6548,  217.4482)"
- font-family="'Arial'" font-size="    9.3305"
- style="fill: #000000; stroke: none">149</text>
 <path stroke-width="    0.8504" stroke="#000000" fill="none" d=" 
 M   295.0772   193.0561
 L   294.9942   192.3917
@@ -3959,15 +3041,6 @@ L   290.5512   173.9139
 L   290.1775   172.4606
 L   289.7622   171.1319
 "/>
-<path stroke-width="    0.2551" stroke="#000000" fill="none" d=" 
-M   272.6270   243.4197
-L   286.0738   200.8531
-"/>
-M   263.7039   251.9236
-<text x="  263.7039" y="  251.9236"
- transform="rotate(   -0.0000,  263.7039,  251.9236)"
- font-family="'Arial'" font-size="    9.3305"
- style="fill: #000000; stroke: none">150</text>
 <path stroke-width="    0.8504" stroke="#000000" fill="none" d=" 
 M   273.9419   208.3781
 L   273.9835   208.3366
@@ -3980,15 +3053,6 @@ L   290.9249   196.3780
 L   293.2087   194.7586
 L   294.6620   193.7205
 "/>
-<path stroke-width="    0.2551" stroke="#000000" fill="none" d=" 
-M   281.2391   415.7968
-L   326.3580   364.3876
-"/>
-M   269.4499   424.3007
-<text x="  269.4499" y="  424.3007"
- transform="rotate(   -0.0000,  269.4499,  424.3007)"
- font-family="'Arial'" font-size="    9.3305"
- style="fill: #000000; stroke: none">151</text>
 <path stroke-width="    0.8504" stroke="#000000" fill="none" d=" 
 M   335.7699   370.4429
 L   335.7283   370.4014
@@ -4002,15 +3066,6 @@ L   323.6451   359.8130
 L   323.1053   359.2732
 L   322.9807   359.1486
 "/>
-<path stroke-width="    0.2551" stroke="#000000" fill="none" d=" 
-M   282.2903   311.0834
-L   322.4249   348.1189
-"/>
-M   269.4499   309.3826
-<text x="  269.4499" y="  309.3826"
- transform="rotate(   -0.0000,  269.4499,  309.3826)"
- font-family="'Arial'" font-size="    9.3305"
- style="fill: #000000; stroke: none">152</text>
 <path stroke-width="    0.8504" stroke="#000000" fill="none" d=" 
 M   322.4825   352.5049
 L   322.6486   351.8406
@@ -4020,15 +3075,6 @@ L   324.1434   346.5256
 L   324.3925   345.8612
 L   324.4341   345.6536
 "/>
-<path stroke-width="    0.2551" stroke="#000000" fill="none" d=" 
-M   298.7502   288.0998
-L   337.5783   329.7956
-"/>
-M   286.6876   286.3990
-<text x="  286.6876" y="  286.3990"
- transform="rotate(   -0.0000,  286.6876,  286.3990)"
- font-family="'Arial'" font-size="    9.3305"
- style="fill: #000000; stroke: none">153</text>
 <path stroke-width="    0.8504" stroke="#000000" fill="none" d=" 
 M   332.1989   338.5531
 L   333.0709   337.5151
@@ -4037,15 +3083,6 @@ L   343.7008   324.8090
 L   344.4067   323.9370
 L   345.0295   323.2311
 "/>
-<path stroke-width="    0.2551" stroke="#000000" fill="none" d=" 
-M   355.5519   276.6080
-L   339.5038   326.1814
-"/>
-M   349.8925   274.9072
-<text x="  349.8925" y="  274.9072"
- transform="rotate(   -0.0000,  349.8925,  274.9072)"
- font-family="'Arial'" font-size="    9.3305"
- style="fill: #000000; stroke: none">154</text>
 <path stroke-width="    0.8504" stroke="#000000" fill="none" d=" 
 M   333.0709   331.9510
 L   336.7664   329.2520
@@ -4053,15 +3090,6 @@ L   343.7008   324.0616
 L   343.9084   323.9370
 L   345.0295   323.0650
 "/>
-<path stroke-width="    0.2551" stroke="#000000" fill="none" d=" 
-M   449.0963   295.1328
-L   431.5888   279.6984
-"/>
-M   447.5729   303.6367
-<text x="  447.5729" y="  303.6367"
- transform="rotate(   -0.0000,  447.5729,  303.6367)"
- font-family="'Arial'" font-size="    9.3305"
- style="fill: #000000; stroke: none">155</text>
 <path stroke-width="    0.8504" stroke="#000000" fill="none" d=" 
 M   429.9443   288.0610
 L   430.0689   287.0229
@@ -4077,29 +3105,11 @@ L   418.1518   137.9134
 L   418.1102   137.8719
 L   418.1102   137.9549
 "/>
-<path stroke-width="    0.2551" stroke="#000000" fill="none" d=" 
-M   221.7818   182.1853
-L   190.0605   191.3866
-"/>
-M   223.4826   182.9728
-<text x="  223.4826" y="  182.9728"
- transform="rotate(   -0.0000,  223.4826,  182.9728)"
- font-family="'Arial'" font-size="    9.3305"
- style="fill: #000000; stroke: none">157</text>
 <path stroke-width="    0.8504" stroke="#000000" fill="none" d=" 
 M   188.2382   192.5163
 L   188.2797   192.3917
 L   189.1932   191.0630
 "/>
-<path stroke-width="    0.2551" stroke="#000000" fill="none" d=" 
-M   410.9038   104.2309
-L   414.4525   106.5724
-"/>
-M   395.8597   102.5301
-<text x="  395.8597" y="  102.5301"
- transform="rotate(   -0.0000,  395.8597,  102.5301)"
- font-family="'Arial'" font-size="    9.3305"
- style="fill: #000000; stroke: none">158</text>
 <path stroke-width="    0.8504" stroke="#000000" fill="none" d=" 
 M   402.1654   117.0273
 L   402.7052   116.6535
@@ -4129,15 +3139,6 @@ L   298.5236   495.6352
 L   301.1811   495.8012
 L   302.5098   495.8843
 "/>
-<path stroke-width="    0.2551" stroke="#000000" fill="none" d=" 
-M   475.1392   466.2228
-L   492.0089   494.7486
-"/>
-M   464.8106   464.5220
-<text x="  464.8106" y="  464.5220"
- transform="rotate(   -0.0000,  464.8106,  464.5220)"
- font-family="'Arial'" font-size="    9.3305"
- style="fill: #000000; stroke: none">161</text>
 <path stroke-width="    0.8504" stroke="#000000" fill="none" d=" 
 M   490.2359   501.3238
 L   490.4851   500.6594
@@ -4148,15 +3149,6 @@ L   494.9695   491.3583
 L   495.1772   490.9846
 L   495.3848   490.6939
 "/>
-<path stroke-width="    0.2551" stroke="#000000" fill="none" d=" 
-M   525.0543   466.2228
-L   499.5711   494.9480
-"/>
-M   522.2696   464.5220
-<text x="  522.2696" y="  464.5220"
- transform="rotate(   -0.0000,  522.2696,  464.5220)"
- font-family="'Arial'" font-size="    9.3305"
- style="fill: #000000; stroke: none">162</text>
 <path stroke-width="    0.8504" stroke="#000000" fill="none" d=" 
 M   501.5302   501.3238
 L   501.1565   500.7010
@@ -4169,15 +3161,6 @@ L   496.0492   491.3583
 L   495.8831   490.6939
 L   495.8415   490.6524
 "/>
-<path stroke-width="    0.2551" stroke="#000000" fill="none" d=" 
-M   463.8960   487.9133
-L   494.5385   500.8655
-"/>
-M   447.5729   487.5056
-<text x="  447.5729" y="  487.5056"
- transform="rotate(   -0.0000,  447.5729,  487.5056)"
- font-family="'Arial'" font-size="    9.3305"
- style="fill: #000000; stroke: none">163</text>
 <path stroke-width="    0.8504" stroke="#000000" fill="none" d=" 
 M   490.5266   501.3653
 L   491.1909   501.3653
@@ -4186,15 +3169,6 @@ L   497.8346   501.4484
 L   500.4921   501.4484
 L   501.1565   501.5314
 "/>
-<path stroke-width="    0.2551" stroke="#000000" fill="none" d=" 
-M   235.8341   351.3047
-L   221.3258   456.2214
-"/>
-M   229.2285   349.6040
-<text x="  229.2285" y="  349.6040"
- transform="rotate(   -0.0000,  229.2285,  349.6040)"
- font-family="'Arial'" font-size="    9.3305"
- style="fill: #000000; stroke: none">164</text>
 <path stroke-width="    0.8504" stroke="#000000" fill="none" d=" 
 M   216.1417   458.0152
 L   221.4567   457.6000
@@ -4209,15 +3183,6 @@ L   173.6220   387.3428
 L   173.9958   387.0522
 L   174.2864   386.8445
 "/>
-<path stroke-width="    0.2551" stroke="#000000" fill="none" d=" 
-M   234.4065   334.0670
-L   195.1049   428.0728
-"/>
-M   229.2285   332.3662
-<text x="  229.2285" y="  332.3662"
- transform="rotate(   -0.0000,  229.2285,  332.3662)"
- font-family="'Arial'" font-size="    9.3305"
- style="fill: #000000; stroke: none">166</text>
 <path stroke-width="    0.8504" stroke="#000000" fill="none" d=" 
 M   190.8957   430.5269
 L   191.7677   430.2362
@@ -4226,15 +3191,6 @@ L   197.5394   428.4507
 L   198.1622   428.2431
 L   198.2037   428.2016
 "/>
-<path stroke-width="    0.2551" stroke="#000000" fill="none" d=" 
-M   266.1447   311.0834
-L   314.2073   348.1196
-"/>
-M   252.2121   309.3826
-<text x="  252.2121" y="  309.3826"
- transform="rotate(   -0.0000,  252.2121,  309.3826)"
- font-family="'Arial'" font-size="    9.3305"
- style="fill: #000000; stroke: none">167</text>
 <path stroke-width="    0.8504" stroke="#000000" fill="none" d=" 
 M   314.4685   353.3769
 L   314.5100   353.1693
@@ -4243,15 +3199,6 @@ L   315.5066   347.8543
 L   315.7557   345.1969
 L   315.7557   344.5325
 "/>
-<path stroke-width="    0.2551" stroke="#000000" fill="none" d=" 
-M   262.7893   326.8364
-L   318.1688   349.0675
-"/>
-M   246.4662   326.6203
-<text x="  246.4662" y="  326.6203"
- transform="rotate(   -0.0000,  246.4662,  326.6203)"
- font-family="'Arial'" font-size="    9.3305"
- style="fill: #000000; stroke: none">168</text>
 <path stroke-width="    0.8504" stroke="#000000" fill="none" d=" 
 M   314.4685   353.7091
 L   315.1744   353.1693
@@ -4263,44 +3210,17 @@ L   323.7697   345.9858
 L   323.8943   345.8612
 L   324.4341   345.4045
 "/>
-<path stroke-width="    0.2551" stroke="#000000" fill="none" d=" 
-M   414.9378   346.8459
-L   405.1911   337.7557
-"/>
-M   413.0974   355.3499
-<text x="  413.0974" y="  355.3499"
- transform="rotate(   -0.0000,  413.0974,  355.3499)"
- font-family="'Arial'" font-size="    9.3305"
- style="fill: #000000; stroke: none">169</text>
 <path stroke-width="    0.8504" stroke="#000000" fill="none" d=" 
 M   400.8366   337.3490
 L   401.6256   337.2244
 L   402.1654   337.0998
 L   407.4803   336.2694
 "/>
-<path stroke-width="    0.2551" stroke="#000000" fill="none" d=" 
-M   250.5452   266.4033
-L   177.6470   224.9744
-"/>
-M   252.2121   274.9072
-<text x="  252.2121" y="  274.9072"
- transform="rotate(   -0.0000,  252.2121,  274.9072)"
- font-family="'Arial'" font-size="    9.3305"
- style="fill: #000000; stroke: none">170</text>
 <path stroke-width="    0.8504" stroke="#000000" fill="none" d=" 
 M   177.3176   225.6102
 L   176.2795   224.0739
 L   175.4906   222.9528
 "/>
-<path stroke-width="    0.2551" stroke="#000000" fill="none" d=" 
-M   414.2498   259.3703
-L   425.7230   270.3474
-"/>
-M   401.6056   257.6695
-<text x="  401.6056" y="  257.6695"
- transform="rotate(   -0.0000,  401.6056,  257.6695)"
- font-family="'Arial'" font-size="    9.3305"
- style="fill: #000000; stroke: none">171</text>
 <path stroke-width="    0.8504" stroke="#000000" fill="none" d=" 
 M   423.4252   270.9120
 L   426.0827   271.2442
@@ -4315,15 +3235,6 @@ L   306.4961   494.2234
 L   306.7867   494.0157
 L   307.8248   493.2268
 "/>
-<path stroke-width="    0.2551" stroke="#000000" fill="none" d=" 
-M   411.3966   437.3356
-L   308.4082   493.8428
-"/>
-M   413.0974   435.7925
-<text x="  413.0974" y="  435.7925"
- transform="rotate(   -0.0000,  413.0974,  435.7925)"
- font-family="'Arial'" font-size="    9.3305"
- style="fill: #000000; stroke: none">173</text>
 <path stroke-width="    0.8504" stroke="#000000" fill="none" d=" 
 M   306.4961   495.7182
 L   307.4511   494.0157
@@ -4351,15 +3262,6 @@ M   189.5669   431.1913
 L   190.1067   430.9006
 L   190.2313   430.8591
 "/>
-<path stroke-width="    0.2551" stroke="#000000" fill="none" d=" 
-M   230.9142   306.6246
-L   189.6211   269.1713
-"/>
-M   229.2285   315.1285
-<text x="  229.2285" y="  315.1285"
- transform="rotate(   -0.0000,  229.2285,  315.1285)"
- font-family="'Arial'" font-size="    9.3305"
- style="fill: #000000; stroke: none">178</text>
 <path stroke-width="    0.8504" stroke="#000000" fill="none" d=" 
 M   186.2451   269.8324
 L   186.7849   269.4587
@@ -4369,29 +3271,11 @@ L   189.5669   267.5071
 L   190.6050   266.8012
 L   190.8957   266.5936
 "/>
-<path stroke-width="    0.2551" stroke="#000000" fill="none" d=" 
-M   269.5577   293.8457
-L   320.7401   354.7418
-"/>
-M   257.9580   292.1449
-<text x="  257.9580" y="  292.1449"
- transform="rotate(   -0.0000,  257.9580,  292.1449)"
- font-family="'Arial'" font-size="    9.3305"
- style="fill: #000000; stroke: none">179</text>
 <path stroke-width="    0.8504" stroke="#000000" fill="none" d=" 
 M   322.3164   358.4843
 L   321.6520   355.8268
 L   322.3164   353.1693
 "/>
-<path stroke-width="    0.2551" stroke="#000000" fill="none" d=" 
-M   279.3347   276.6080
-L   312.9582   343.2670
-"/>
-M   269.4499   274.9072
-<text x="  269.4499" y="  274.9072"
- transform="rotate(   -0.0000,  269.4499,  274.9072)"
- font-family="'Arial'" font-size="    9.3305"
- style="fill: #000000; stroke: none">180</text>
 <path stroke-width="    0.8504" stroke="#000000" fill="none" d=" 
 M   312.9321   345.8612
 L   313.1398   345.4875
@@ -4401,15 +3285,6 @@ L   313.8041   344.1588
 L   313.9287   343.8681
 L   314.2609   343.2037
 "/>
-<path stroke-width="    0.2551" stroke="#000000" fill="none" d=" 
-M   295.3591   270.8621
-L   314.4647   342.5234
-"/>
-M   286.6876   269.1613
-<text x="  286.6876" y="  269.1613"
- transform="rotate(   -0.0000,  286.6876,  269.1613)"
- font-family="'Arial'" font-size="    9.3305"
- style="fill: #000000; stroke: none">181</text>
 <path stroke-width="    0.8504" stroke="#000000" fill="none" d=" 
 M   314.4685   344.5740
 L   314.5100   344.5325
@@ -4417,73 +3292,28 @@ L   314.8422   343.8681
 L   315.1329   343.2453
 L   315.1744   343.2037
 "/>
-<path stroke-width="    0.2551" stroke="#000000" fill="none" d=" 
-M   349.3372   259.3703
-L   314.0663   344.2376
-"/>
-M   344.1466   257.6695
-<text x="  344.1466" y="  257.6695"
- transform="rotate(   -0.0000,  344.1466,  257.6695)"
- font-family="'Arial'" font-size="    9.3305"
- style="fill: #000000; stroke: none">182</text>
 <path stroke-width="    0.8504" stroke="#000000" fill="none" d=" 
 M   313.0152   345.8612
 L   313.1398   345.8197
 L   314.0117   345.1969
 "/>
-<path stroke-width="    0.2551" stroke="#000000" fill="none" d=" 
-M   289.5696   253.6244
-L   313.1291   344.9117
-"/>
-M   280.9417   251.9236
-<text x="  280.9417" y="  251.9236"
- transform="rotate(   -0.0000,  280.9417,  251.9236)"
- font-family="'Arial'" font-size="    9.3305"
- style="fill: #000000; stroke: none">183</text>
 <path stroke-width="    0.8504" stroke="#000000" fill="none" d=" 
 M   312.6000   346.5256
 L   313.1398   346.8163
 L   313.3474   346.5256
 L   314.0948   345.1969
 "/>
-<path stroke-width="    0.2551" stroke="#000000" fill="none" d=" 
-M   228.5950   132.9604
-L   192.1083   217.6281
-"/>
-M   223.4826   131.2596
-<text x="  223.4826" y="  131.2596"
- transform="rotate(   -0.0000,  223.4826,  131.2596)"
- font-family="'Arial'" font-size="    9.3305"
- style="fill: #000000; stroke: none">184</text>
 <path stroke-width="    0.8504" stroke="#000000" fill="none" d=" 
 M   189.5669   219.6724
 L   192.2244   218.6759
 L   193.5531   218.2606
 "/>
-<path stroke-width="    0.2551" stroke="#000000" fill="none" d=" 
-M   204.5441   108.8851
-L   161.7130   100.6380
-"/>
-M   206.2449   114.0219
-<text x="  206.2449" y="  114.0219"
- transform="rotate(   -0.0000,  206.2449,  114.0219)"
- font-family="'Arial'" font-size="    9.3305"
- style="fill: #000000; stroke: none">185</text>
 <path stroke-width="    0.8504" stroke="#000000" fill="none" d=" 
 M   160.5423   101.3730
 L   160.3762   100.7087
 L   160.3346   100.4180
 L   160.0440    99.3799
 "/>
-<path stroke-width="    0.2551" stroke="#000000" fill="none" d=" 
-M   204.5441    94.5680
-L   161.7743   100.1934
-"/>
-M   206.2449    96.7842
-<text x="  206.2449" y="   96.7842"
- transform="rotate(   -0.0000,  206.2449,   96.7842)"
- font-family="'Arial'" font-size="    9.3305"
- style="fill: #000000; stroke: none">186</text>
 <path stroke-width="    0.8504" stroke="#000000" fill="none" d=" 
 M   160.6253   101.3730
 L   160.4592   100.7087
@@ -4494,42 +3324,15 @@ L   160.1270    99.3799
 M   282.5787   495.8843
 L   283.2431   495.8843
 "/>
-<path stroke-width="    0.2551" stroke="#000000" fill="none" d=" 
-M   413.0358   420.2556
-L   304.6702   495.2498
-"/>
-M   413.0974   418.5548
-<text x="  413.0974" y="  418.5548"
- transform="rotate(   -0.0000,  413.0974,  418.5548)"
- font-family="'Arial'" font-size="    9.3305"
- style="fill: #000000; stroke: none">188</text>
 <path stroke-width="    0.8504" stroke="#000000" fill="none" d=" 
 M   303.1742   495.9673
 L   303.2988   496.0089
 L   303.8386   496.1334
 "/>
-<path stroke-width="    0.2551" stroke="#000000" fill="none" d=" 
-M   414.3202   403.0179
-L   304.5927   494.9739
-"/>
-M   413.0974   401.3171
-<text x="  413.0974" y="  401.3171"
- transform="rotate(   -0.0000,  413.0974,  401.3171)"
- font-family="'Arial'" font-size="    9.3305"
- style="fill: #000000; stroke: none">189</text>
 <path stroke-width="    0.8504" stroke="#000000" fill="none" d=" 
 M   303.1742   495.8843
 L   303.8386   495.8843
 "/>
-<path stroke-width="    0.2551" stroke="#000000" fill="none" d=" 
-M   428.6344   440.8978
-L   341.6020   412.0709
-"/>
-M   430.3351   447.2843
-<text x="  430.3351" y="  447.2843"
- transform="rotate(   -0.0000,  430.3351,  447.2843)"
- font-family="'Arial'" font-size="    9.3305"
- style="fill: #000000; stroke: none">190</text>
 <path stroke-width="    0.8504" stroke="#000000" fill="none" d=" 
 M   340.0052   412.9626
 L   340.2544   411.6339
@@ -4546,55 +3349,19 @@ L   169.6358   390.3325
 L   170.3002   389.8342
 L   170.5078   389.7096
 "/>
-<path stroke-width="    0.2551" stroke="#000000" fill="none" d=" 
-M   370.5869   270.8621
-L   315.6594   343.5733
-"/>
-M   367.1302   269.1613
-<text x="  367.1302" y="  269.1613"
- transform="rotate(   -0.0000,  367.1302,  269.1613)"
- font-family="'Arial'" font-size="    9.3305"
- style="fill: #000000; stroke: none">193</text>
 <path stroke-width="    0.8504" stroke="#000000" fill="none" d=" 
 M   314.4685   344.9062
 L   315.0914   344.5325
 L   315.1329   344.4910
 "/>
-<path stroke-width="    0.2551" stroke="#000000" fill="none" d=" 
-M   387.2519   259.3703
-L   315.7295   341.8010
-"/>
-M   384.3679   257.6695
-<text x="  384.3679" y="  257.6695"
- transform="rotate(   -0.0000,  384.3679,  257.6695)"
- font-family="'Arial'" font-size="    9.3305"
- style="fill: #000000; stroke: none">194</text>
 <path stroke-width="    0.8504" stroke="#000000" fill="none" d=" 
 M   314.4685   342.9961
 L   315.1329   342.7470
 "/>
-<path stroke-width="    0.2551" stroke="#000000" fill="none" d=" 
-M   221.7818   109.0671
-L   161.1916    98.6241
-"/>
-M   223.4826   114.0219
-<text x="  223.4826" y="  114.0219"
- transform="rotate(   -0.0000,  223.4826,  114.0219)"
- font-family="'Arial'" font-size="    9.3305"
- style="fill: #000000; stroke: none">195</text>
 <path stroke-width="    0.8504" stroke="#000000" fill="none" d=" 
 M   159.8779    98.7156
 L   159.7118    98.0512
 "/>
-<path stroke-width="    0.2551" stroke="#000000" fill="none" d=" 
-M   268.5353   116.9302
-L   304.3909   119.1737
-"/>
-M   252.2121   119.7678
-<text x="  252.2121" y="  119.7678"
- transform="rotate(   -0.0000,  252.2121,  119.7678)"
- font-family="'Arial'" font-size="    9.3305"
- style="fill: #000000; stroke: none">196</text>
 <path stroke-width="    0.8504" stroke="#000000" fill="none" d=" 
 M   305.1673   121.5948
 L   305.4580   120.6398
@@ -4602,15 +3369,6 @@ L   305.7902   119.3110
 L   306.2054   117.9823
 L   306.4961   116.9442
 "/>
-<path stroke-width="    0.2551" stroke="#000000" fill="none" d=" 
-M   268.5353   103.2805
-L   301.8021   118.6071
-"/>
-M   252.2121   102.5301
-<text x="  252.2121" y="  102.5301"
- transform="rotate(   -0.0000,  252.2121,  102.5301)"
- font-family="'Arial'" font-size="    9.3305"
- style="fill: #000000; stroke: none">197</text>
 <path stroke-width="    0.8504" stroke="#000000" fill="none" d=" 
 M   302.3853   121.3041
 L   302.5098   120.9304
@@ -4645,41 +3403,14 @@ L   296.7381   495.3161
 M   350.3860   407.6476
 L   350.3860   407.6193
 "/>
-<path stroke-width="    0.2551" stroke="#000000" fill="none" d=" 
-M   365.8458   253.6244
-L   316.3222   342.2985
-"/>
-M   361.0711   251.9236
-<text x="  361.0711" y="  251.9236"
- transform="rotate(   -0.0000,  361.0711,  251.9236)"
- font-family="'Arial'" font-size="    9.3305"
- style="fill: #000000; stroke: none">204</text>
 <path stroke-width="    0.8504" stroke="#000000" fill="none" d=" 
 M   315.6727   343.8681
 L   315.5896   343.2037
 "/>
-<path stroke-width="    0.2551" stroke="#000000" fill="none" d=" 
-M   221.4687    94.5812
-L   162.2802   102.1889
-"/>
-M   223.1694    96.7842
-<text x="  223.1694" y="   96.7842"
- transform="rotate(   -0.0000,  223.1694,   96.7842)"
- font-family="'Arial'" font-size="    9.3305"
- style="fill: #000000; stroke: none">205</text>
 <path stroke-width="    0.8504" stroke="#000000" fill="none" d=" 
 M   160.9575   102.7018
 L   160.7914   102.0374
 "/>
-<path stroke-width="    0.2551" stroke="#000000" fill="none" d=" 
-M   428.3212   423.6973
-L   354.6648   400.4138
-"/>
-M   430.0220   430.0466
-<text x="  430.0220" y="  430.0466"
- transform="rotate(   -0.0000,  430.0220,  430.0466)"
- font-family="'Arial'" font-size="    9.3305"
- style="fill: #000000; stroke: none">206</text>
 <path stroke-width="    0.8504" stroke="#000000" fill="none" d=" 
 M   352.9604   400.3396
 L   353.0020   400.2980
