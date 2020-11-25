@@ -39,6 +39,5 @@
 !       ignored. For calculation of binary or ternary diagrams however, two or three additionalchemical
 !       input lines are needed that define the the system«s endmember compositions.
 !----------------------------------------------------------------------------------------
-    680    5500
-0   SI(58.370)TI(0.535)AL(14.909)FE(5.941)F3(0.168)MG(3.034)CA(0.235)NA(0.941)K(4.773)H(11.193)O(?)  * white et al 2007, fig 7
-0   SI(58.370)TI(0.535)AL(14.909)FE(5.941)F3(0.168)MG(3.034)CA(0.235)NA(0.941)K(4.773)H(15.093)O(?)  * white et al 2007, fig 7
+    750    5500
+0   SI(58.370)TI(0.535)AL(14.909)FE(5.941)F3(0.168)MG(3.034)CA(0.235)NA(0.941)K(4.773)H(11.143)O(?)  * white et al 2007, fig 7

@@ -791,7 +791,7 @@ M   566.9291   566.6535
 <text x="  566.9291" y="  566.6535"
  transform="rotate(   -0.0000,  566.9291,  566.6535)"
  font-family="'Arial'" font-size="    7.7754"
- style="fill: #000000; stroke: none">23.11.2020 - 14:40:06  CPU time:    0h 11m 28.50s</text>
+ style="fill: #000000; stroke: none">25.11.2020 - 11:43:04  CPU time:    0h 09m 50.33s</text>
 M   609.4488    94.6850
 <text x="  609.4488" y="   94.6850"
  transform="rotate(   -0.0000,  609.4488,   94.6850)"
@@ -811,7 +811,7 @@ M   609.4488   124.4488
 <text x="  609.4488" y="  124.4488"
  transform="rotate(   -0.0000,  609.4488,  124.4488)"
  font-family="'Arial'" font-size="    7.7754"
- style="fill: #000000; stroke: none">GT07W2: site mixing+margules</text>
+ style="fill: #000000; stroke: none">GT07W1: site mixing+margules</text>
 M   609.4488   134.3701
 <text x="  609.4488" y="  134.3701"
  transform="rotate(   -0.0000,  609.4488,  134.3701)"
@@ -1466,7 +1466,7 @@ M   420.3844   382.3009
 <text x="  420.3844" y="  382.3009"
  transform="rotate(  -19.5695,  420.3844,  382.3009)"
  font-family="'Arial'" font-size="    7.7754"
- style="fill: #000000; stroke: none">GT07W2</text>
+ style="fill: #000000; stroke: none">GT07W1</text>
 M   451.5667   370.6834
 <text x="  451.5667" y="  370.6834"
  transform="rotate(  -21.6274,  451.5667,  370.6834)"
@@ -1973,7 +1973,7 @@ M   443.0812   230.9413
 <text x="  443.0812" y="  230.9413"
  transform="rotate(  -67.6282,  443.0812,  230.9413)"
  font-family="'Arial'" font-size="    7.7754"
- style="fill: #000000; stroke: none">GT07W2</text>
+ style="fill: #000000; stroke: none">GT07W1</text>
 M   455.4752   200.0294
 <text x="  455.4752" y="  200.0294"
  transform="rotate(  -69.0512,  455.4752,  200.0294)"
@@ -2000,7 +2000,7 @@ M   455.7812   227.7737
 <text x="  455.7812" y="  227.7737"
  transform="rotate(  -69.0512,  455.7812,  227.7737)"
  font-family="'Arial'" font-size="    7.7754"
- style="fill: #000000; stroke: none">GT07W2</text>
+ style="fill: #000000; stroke: none">GT07W1</text>
 M   467.7088   196.6159
 <text x="  467.7088" y="  196.6159"
  transform="rotate(  -69.0512,  467.7088,  196.6159)"

@@ -70,9 +70,9 @@
 !                            SOLUTION, and MARGULES. Read the TD manual if you do not understand this!)
 !         A: PLC1  - HP 2003 ternary, C1 field (read HP 1996 (Am.Min.) and 2003) - be careful!
 !         D: PLI1  - HP 2003 ternary, I1 field (read HP 1996 (Am.Min.) and 2003) - be careful!
-!         D: GT07W1- White et al. 2007; uses a's and W's as in paper
+!         A: GT07W1- White et al. 2007; uses a's and W's as in paper
 !                    I have added spss;  TC camp does not recommend using Mn in '07 models.
-!         A: GT07W2- White et al. 2007; adjusted W's and a's as in tc331; tc331 'preferred' model.
+!         D: GT07W2- White et al. 2007; adjusted W's and a's as in tc331; tc331 'preferred' model.
 !                    I have added spss;  TC camp does not recommend using Mn in '07 models.
 !         D: GT05  - White et al. 2005, for Mn systems (use with BI05).
 !         A: BI07  - White et al. 2007 (use with GT07);
@@ -352,7 +352,7 @@ an - san
 !       So, use model GT07W1a below instead of this model when working in a
 !       non-calcic but ferric-bearing system.
 !
-**** MuNERAL DATA ****
+**** MINERAL DATA ****
 ! ---- -------------------------------------------------------------------------
 alm                FE(3)AL(2)SI(3)O(12)                       alm            use
  ST              0.0   -5263520.000       340.0000        11.5110
@@ -385,14 +385,14 @@ spss               MN(3)AL(2)SI(3)O(12)                      spss            use
  VH2         10.0000         4.0000   -0.000150000
 !--------------------------------------------------------------------------------
 !--------------------------------------------------------------------------------
-**** SuLUTION DATA ****
+**** SOLUTION DATA ****
 GT07W1    (-SITE,MARGULES)    X(3):Fe,Mg,Ca,Mn - Y(2):Al,F3
     alm              Fe,Fe,Fe - Al,Al       1  0  0  0
     py               Mg,Mg,Mg - Al,Al       1  0  0  0
     gr               Ca,Ca,Ca - Al,Al       9  0  0  0
     andr             Ca,Ca,Ca - F3,F3       9  0  0  0
     spss             Mn,Mn,Mn - Al,Al       1  0  0  0
-*** MuRGULES PARAMETER ***  ! White '07 model from paper, use with 9 kJ/mol a term
+*** MARGULES PARAMETER ***  ! White '07 model from paper, use with 9 kJ/mol a term
 alm - py
 12    2500    0   0
 alm - gr
@@ -479,7 +479,7 @@ alm - kho
 !       subsystem (currently not available for this model, but the values can be
 !       easily derived from this model).
 !
-**** MINERAL DATA ****
+**** MuNERAL DATA ****
 ! ---- -------------------------------------------------------------------------
 alm                FE(3)AL(2)SI(3)O(12)                       alm            use
  ST              0.0   -5263520.000       340.0000        11.5110
@@ -513,14 +513,14 @@ spss               MN(3)AL(2)SI(3)O(12)                      spss            use
 !--------------------------------------------------------------------------------
 !- White et al. 2007 model with a terms adjusted as in tc3.31
 !--------------------------------------------------------------------------------
-**** SOLUTION DATA ****
+**** SuLUTION DATA ****
 GT07W2    (-SITE,MARGULES)    X(3):Fe,Mg,Ca,Mn - Y(2):Al,F3
     alm              Fe,Fe,Fe - Al,Al       1  0  0  0
     py               Mg,Mg,Mg - Al,Al       1  0  0  0
     gr               Ca,Ca,Ca - Al,Al       3  0  0  0
     andr             Ca,Ca,Ca - F3,F3       3  0  0  0
     spss             Mn,Mn,Mn - Al,Al       1  0  0  0
-*** MARGULES PARAMETER ***  ! tc331 preferred model, 3 kJ/mol a term, smaller W.
+*** MuRGULES PARAMETER ***  ! tc331 preferred model, 3 kJ/mol a term, smaller W.
 alm - py
 12    2500    0   0
 alm - gr
