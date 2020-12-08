@@ -1,6 +1,6 @@
 # White et al., 2007 - Partial metling of metapelites
 
-White, R. W., R. Powell, and T. J. B. Holland. "Progress relating to calculation of partial melting equilibria for metapelites." Journal of metamorphic Geology 25.5 (2007): 511-527, https://doi.org/10.1111/j.1525-1314.2007.00711.x.
+White, R. W., R. Powell, and T. J. B. Holland, 2007, Progress relating to calculation of partial melting equilibria for metapelites, Journal of metamorphic Geology, v. 25, p. 511-527, https://doi.org/10.1111/j.1525-1314.2007.00711.x.
 
 ## Calculations
 
